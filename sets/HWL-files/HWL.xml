@@ -218,14 +218,14 @@ When this artifact enters, it deals damage equal to the number of creatures you 
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CH01Gravekeeper Ghost</name>
-			<text>Flying
+			<name>CH01King&apos;s Construct</name>
+			<text>Vigilance
 When this creature enters reveal the top four cards of your library. You may put an artifact or enchantment card from among them into your hand. Put the rest into your graveyard.</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/12.png" num="167">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Spirit</type>
+				<type>Artifact Creature — Knight Construct</type>
 				<maintype>Creature</maintype>
 				<manacost>2W/UW/U</manacost>
 				<cmc>4</cmc>
@@ -394,7 +394,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 			<name>CU13Profane Study</name>
 			<text>Choose one — 
 • Mill four cards. You may put a noncreature, nonland card from among the cards milled this way into your hand.
-• Counter target spell unless its controller pays {4}.</text>
+• Counter target spell unless its controller pays {3}.</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/22.png" num="48">HWL</set>
 			<prop>
 				<layout>normal</layout>
@@ -882,7 +882,7 @@ You may discard a card. If you do, draw a card.</text>
 		</card>
 		<card>
 			<name>CR11</name>
-			<text>Create two 2/1 black Bat creature tokens with &quot;Whenever this creature attacks, surveil 1 .&quot; (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+			<text>Create two 2/1 black Bat creature tokens with &quot;When this creature dies, you may surveil 1.&quot; (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
 Flashback {5}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/51.png" num="102">HWL</set>
 			<prop>
@@ -916,7 +916,8 @@ Exile the top card of your library. Until the end of your next turn, you may pla
 		</card>
 		<card>
 			<name>CH07Ooma</name>
-			<text>Whenever you cast a noncreature spell, draw a card. Then, discard a card unless you&apos;ve cast that spell from anywhere other than your hand. This ability triggers only once each turn.</text>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast your first noncreature spell each turn, draw a card. Then discard a card unless you&apos;ve cast that spell from anywhere other than your hand.</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/53.png" num="173">HWL</set>
 			<prop>
 				<layout>normal</layout>
@@ -969,7 +970,7 @@ Deathtouch
 		</card>
 		<card>
 			<name>CG02</name>
-			<text></text>
+			<text>{T}: Add {G}.</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/56.png" num="122">HWL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1097,7 +1098,7 @@ Flashback {4}{G}{G} (You may cast this card from your graveyard for its flashbac
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CG11</name>
+			<name>CG11Overrun by Nature</name>
 			<text>Choose one —
 • Destroy target artifact or enchantment.
 • Put a +1/+1 counter on target creature you control. It gains reach until end of turn. Untap it.</text>
@@ -1155,7 +1156,7 @@ Flashback {4}{G}{G} (You may cast this card from your graveyard for its flashbac
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Insect Scout</type>
+				<type>Creature — Fungus</type>
 				<maintype>Creature</maintype>
 				<manacost>1R/G</manacost>
 				<cmc>2</cmc>

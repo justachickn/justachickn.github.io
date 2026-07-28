@@ -1,4 +1,36 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CH01King's Construct added.
+CG11Overrun by Nature added.
+
+CH01Gravekeeper Ghost removed.
+CG11 removed.
+
+CU13Profane Study
+rules_text: Choose one — 
+• Mill four cards. You may put a noncreature, nonland card from among the cards milled this way into your hand.
+• Counter target spell unless its controller pays {4}. => Choose one — 
+• Mill four cards. You may put a noncreature, nonland card from among the cards milled this way into your hand.
+• Counter target spell unless its controller pays {3}.
+
+CR11
+rules_text: Create two 2/1 black Bat creature tokens with “Whenever this creature attacks, surveil 1 .” [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+Flashback {5}{R}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Create two 2/1 black Bat creature tokens with “When this creature dies, you may surveil 1.” [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+Flashback {5}{R}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+CH07Ooma
+rules_text: Whenever you cast a noncreature spell, draw a card. Then, discard a card unless you've cast that spell from anywhere other than your hand. This ability triggers only once each turn. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you cast your first noncreature spell each turn, draw a card. Then discard a card unless you've cast that spell from anywhere other than your hand.
+
+CG02
+rules_text:  => {T}: Add {G}.
+
+CH04Shroomling
+type: Creature — Insect Scout => Creature — Fungus
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

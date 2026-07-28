@@ -121,10 +121,10 @@
 			}
 		},
 		{
-			"name": "CH01Gravekeeper Ghost",
+			"name": "CH01King's Construct",
 			"rarity": "common",
 			"mana_cost": "{2}{W/U}{W/U}",
-			"type": "Creature — Spirit",
+			"type": "Artifact Creature — Knight Construct",
 			"collector_number": "167",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/12.png"
@@ -641,7 +641,7 @@
 			}
 		},
 		{
-			"name": "CG11",
+			"name": "CG11Overrun by Nature",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
@@ -674,7 +674,7 @@
 			"name": "CH04Shroomling",
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
-			"type": "Creature — Insect Scout",
+			"type": "Creature — Fungus",
 			"collector_number": "170",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/67.png"
@@ -2148,7 +2148,7 @@
 	8 CW10Palace Buzzsaws
 	8 CW11
 	8 CW13
-	8 CH01Gravekeeper Ghost
+	8 CH01King's Construct
 	8 CH08Overgrown Husk
 	8 CU01Maskfly
 	8 CU02
@@ -2200,7 +2200,7 @@
 	8 CG08
 	8 CG09Lushcove Duel
 	8 CG10Challenge the Mantis Lords
-	8 CG11
+	8 CG11Overrun by Nature
 	8 CG13
 	8 CH05
 	8 CH04Shroomling
@@ -2240,7 +2240,7 @@
 	8 CW10Palace Buzzsaws
 	8 CW11
 	8 CW13
-	8 CH01Gravekeeper Ghost
+	8 CH01King's Construct
 	8 CH08Overgrown Husk
 	8 CU01Maskfly
 	8 CU02
@@ -2292,7 +2292,7 @@
 	8 CG08
 	8 CG09Lushcove Duel
 	8 CG10Challenge the Mantis Lords
-	8 CG11
+	8 CG11Overrun by Nature
 	8 CG13
 	8 CH05
 	8 CH04Shroomling
@@ -2332,7 +2332,7 @@
 	12 CW10Palace Buzzsaws
 	12 CW11
 	12 CW13
-	12 CH01Gravekeeper Ghost
+	12 CH01King's Construct
 	12 CH08Overgrown Husk
 	12 CU01Maskfly
 	12 CU02
@@ -2384,7 +2384,7 @@
 	12 CG08
 	12 CG09Lushcove Duel
 	12 CG10Challenge the Mantis Lords
-	12 CG11
+	12 CG11Overrun by Nature
 	12 CG13
 	12 CH05
 	12 CH04Shroomling
@@ -2535,7 +2535,7 @@
 	6 CW10Palace Buzzsaws
 	6 CW11
 	6 CW13
-	6 CH01Gravekeeper Ghost
+	6 CH01King's Construct
 	6 CH08Overgrown Husk
 	6 CU01Maskfly
 	6 CU02
@@ -2587,7 +2587,7 @@
 	6 CG08
 	6 CG09Lushcove Duel
 	6 CG10Challenge the Mantis Lords
-	6 CG11
+	6 CG11Overrun by Nature
 	6 CG13
 	6 CH05
 	6 CH04Shroomling

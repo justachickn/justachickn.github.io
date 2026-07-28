@@ -1032,7 +1032,7 @@
         "position": "49"
     },
     {
-        "card_name": "CG11",
+        "card_name": "CG11Overrun by Nature",
         "number": 127,
         "shape": "normal",
         "set": "HWL",
@@ -1303,7 +1303,7 @@
         "position": "74"
     },
     {
-        "card_name": "CH01Gravekeeper Ghost",
+        "card_name": "CH01King's Construct",
         "number": 167,
         "shape": "normal",
         "set": "HWL",
