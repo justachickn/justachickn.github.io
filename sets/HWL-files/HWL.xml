@@ -3,20 +3,20 @@
 	<sets>
 		<set>
 			<name>HWL</name>
-			<longname></longname>
+			<longname>Hollow Knight: Hallownest</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-28</releasedate>
+			<releasedate>2026-08-05</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
-			<name>CW01</name>
+			<name>CW01Lightseed</name>
 			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/0.png" num="6">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/0.png" num="1">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Elemental</type>
 				<maintype>Creature</maintype>
 				<manacost>W</manacost>
 				<cmc>1</cmc>
@@ -26,10 +26,10 @@
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW02Dreamwilder Moth</name>
+			<name>CW02Dreamwielder Moth</name>
 			<text>Lifelink
-Whenever you put one or more lore counters on a Saga you control, this creature gets +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/1.png" num="7">HWL</set>
+Whenever a legendary permanent you control enters, this creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/1.png" num="2">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -39,13 +39,15 @@ Whenever you put one or more lore counters on a Saga you control, this creature 
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CW03</name>
-			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/2.png" num="8">HWL</set>
+			<text>Flying
+Whenever CW03 attacks, tap target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/2.png" num="3">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -55,15 +57,16 @@ Whenever you put one or more lore counters on a Saga you control, this creature 
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW04</name>
+			<name>CW04Steady Body</name>
 			<text>Charmed {1}{W} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.)
 Whenever equipped creature attack, you gain 1 life and scry 1. (Look at the top card of your library. You may put it on the bottom.)
 Equip {1}</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/3.png" num="9">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/3.png" num="4">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -80,7 +83,7 @@ Equip {1}</text>
 			<name>CW05Shielded Husk</name>
 			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
 When this creature enters, attach up to one target Equipment you control to target creature you control.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/4.png" num="10">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/4.png" num="5">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -95,10 +98,10 @@ When this creature enters, attach up to one target Equipment you control to targ
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CW06</name>
-			<text>When this create dies, create a 1/1 black Insect Zombie creature token.
+			<name>CW06Horned Husk</name>
+			<text>When this creature dies, create a 2/2 white Insect Zombie creature token. 
 Restless (When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it. If a creature with a finality counter on it would die, exile it instead.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/5.png" num="11">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/5.png" num="6">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -108,7 +111,7 @@ Restless (When this creature dies, return it to the battlefield tapped under its
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/1</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -117,7 +120,7 @@ Restless (When this creature dies, return it to the battlefield tapped under its
 			<text>Charmed {2}{W}{W} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.)
 Equipped creature gets +1/+1 and has flying.
 Equip {3}</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/6.png" num="12">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/6.png" num="7">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -135,7 +138,7 @@ Equip {3}</text>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 Target creature you control gets +1/+1 and gains vigilance until end of turn.
 Put a +1/+1 counter on target creature you control. It gains vigilance until end of turn.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/7.png" num="13">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/7.png" num="8">HWL</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -152,9 +155,9 @@ Put a +1/+1 counter on target creature you control. It gains vigilance until end
 		<card>
 			<name>CW09Giant Hopper</name>
 			<text>Vigilance
-{1}{W}, Discard a card: This creature gains flying until end of turn.
+{1}{W}, Tap an untaped artifact or creature you control: This creature gains flying until end of turn.
 Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/8.png" num="14">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/8.png" num="9">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -172,7 +175,7 @@ Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card
 			<name>CW10Palace Buzzsaws</name>
 			<text>Flash
 When this artifact enters, it deals damage equal to the number of creatures you control plus the number of Equipment you control to target attacking or blocking creature.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/9.png" num="15">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/9.png" num="10">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -188,7 +191,7 @@ When this artifact enters, it deals damage equal to the number of creatures you 
 		<card>
 			<name>CW11</name>
 			<text>Exile target nonland permanent</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/10.png" num="16">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/10.png" num="11">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -204,7 +207,7 @@ When this artifact enters, it deals damage equal to the number of creatures you 
 		<card>
 			<name>CW13</name>
 			<text>Exile target nonland permanent</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/11.png" num="18">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/11.png" num="13">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -219,13 +222,13 @@ When this artifact enters, it deals damage equal to the number of creatures you 
 		</card>
 		<card>
 			<name>CH01King&apos;s Construct</name>
-			<text>Vigilance
+			<text>Flying
 When this creature enters reveal the top four cards of your library. You may put an artifact or enchantment card from among them into your hand. Put the rest into your graveyard.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/12.png" num="167">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/12.png" num="168">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Knight Construct</type>
+				<type>Artifact Creature — Construct</type>
 				<maintype>Creature</maintype>
 				<manacost>2W/UW/U</manacost>
 				<cmc>4</cmc>
@@ -237,9 +240,9 @@ When this creature enters reveal the top four cards of your library. You may put
 		</card>
 		<card>
 			<name>CH08Overgrown Husk</name>
-			<text>When this creature enters, mill two cards and you gain 2 life. (Put the top two cards of your library into your graveyard.)
+			<text>When this creature enters, put a +1/+1 counter on target creature. You gain 1 life.
 Restless (When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/13.png" num="174">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/13.png" num="175">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -254,14 +257,14 @@ Restless (When this creature dies, return it to the battlefield tapped under its
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CU01Maskfly</name>
+			<name>CU01Lumafly in a Jar</name>
 			<text>Flying
-Whenever this creature deals combat damage to a player, you may pay {1}. If you do, draw a card, then discard a card.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/14.png" num="36">HWL</set>
+{2}, Sacrifice this creature: Surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/14.png" num="31">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Insect Bird</type>
+				<type>Artifact Creature — Insect</type>
 				<maintype>Creature</maintype>
 				<manacost>U</manacost>
 				<cmc>1</cmc>
@@ -274,7 +277,7 @@ Whenever this creature deals combat damage to a player, you may pay {1}. If you 
 		<card>
 			<name>CU02</name>
 			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/15.png" num="37">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/15.png" num="32">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -293,7 +296,7 @@ Whenever this creature deals combat damage to a player, you may pay {1}. If you 
 			<text>Charmed {1}{U}{U} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.)
 Equipped creature gets +0/+1 and has &quot;Whenever this creature attacks, draw a card, then discard a card.&quot;
 Equip {2}</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/16.png" num="38">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/16.png" num="33">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -307,10 +310,10 @@ Equip {2}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CU04Obblobble</name>
+			<name>CU04Acidic Obbles</name>
 			<text>Flying
-Crawl — Whenever one or more creatures you control with power or toughness 1 deal combat damage to a player, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/17.png" num="39">HWL</set>
+Crawl — Whenever one or more creatures you control with power or toughness 1 deal combat damage to a player, tap or untap another target creature.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/17.png" num="34">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -325,18 +328,21 @@ Crawl — Whenever one or more creatures you control with power or toughness 1 d
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CU05</name>
-			<text>Mill two cards.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/18.png" num="40">HWL</set>
+			<name>CU05Soulsyphon Snail</name>
+			<text>Scry 2 (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)
+Draw a card, then discard a card.
+Create a 2/2 black Horror creature token.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/18.png" num="35">HWL</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>saga</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Enchantment Creature — Snail Saga</type>
 				<maintype>Creature</maintype>
 				<manacost>3UU</manacost>
 				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -344,7 +350,7 @@ Crawl — Whenever one or more creatures you control with power or toughness 1 d
 			<name>CU06Flukmunga</name>
 			<text>When this creature enters, create two 1/1 blue and black Worm creature tokens.
 Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/19.png" num="41">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/19.png" num="36">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -360,8 +366,8 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 		</card>
 		<card>
 			<name>CU07Lifeblood Infusion</name>
-			<text>You or target creature you control gains hexproof until end of turn. If this spell targets a creature, untap it.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/20.png" num="42">HWL</set>
+			<text>Target player or creature you control gains hexproof until end of turn. If this spell targets a creature, untap it.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/20.png" num="37">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -377,7 +383,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 		<card>
 			<name>CU08Bottle Up</name>
 			<text>Counter target spell unless its controller pays {2}. If they do, you may draw a card and discard a card.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/21.png" num="43">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/21.png" num="38">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -393,9 +399,9 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 		<card>
 			<name>CU13Profane Study</name>
 			<text>Choose one — 
-• Mill four cards. You may put a noncreature, nonland card from among the cards milled this way into your hand.
+• Mill three cards. You may put a noncreature, nonland card from among the cards milled this way into your hand.
 • Counter target spell unless its controller pays {3}.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/22.png" num="48">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/22.png" num="43">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -411,7 +417,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 		<card>
 			<name>CH06Escaped Vessel</name>
 			<text>Whenever this creature enters or attacks, you may sacrifice another nonland permanent. If you do, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/23.png" num="172">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/23.png" num="173">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -429,7 +435,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 			<name>CH10Ground Fluke</name>
 			<text>When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)
 {1}{GU}, Exile this card from your graveyard: Draw a card. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/24.png" num="176">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/24.png" num="177">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -446,7 +452,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 		<card>
 			<name>CB01Lost Husk</name>
 			<text>Restless (When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it. If a creature with a finality counter on it would die, exile it instead.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/25.png" num="64">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/25.png" num="59">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -463,7 +469,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 			<name>CB02Vengeful Pestfly</name>
 			<text>Flying
 Whenever this creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/26.png" num="65">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/26.png" num="60">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -478,26 +484,29 @@ Whenever this creature attacks, surveil 1. (Look at the top card of your library
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB03</name>
-			<text>Whenever</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/27.png" num="66">HWL</set>
+			<name>CB03Garden Desecrator</name>
+			<text>Whenever this creature attacks, if you control a creature with a counter on it, this creature gains menace until end of turn.
+Restless (When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it. If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/27.png" num="61">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Mantis Zombie Warrior</type>
 				<maintype>Creature</maintype>
 				<manacost>2B</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB04</name>
+			<name>CB04Sharp Shadow</name>
 			<text>Charmed {3}{B} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.)
-Whenever equipped creature attacks</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/28.png" num="67">HWL</set>
+Whenever equipped creature attacks
+Equip {2}</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/28.png" num="62">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -516,7 +525,7 @@ Whenever equipped creature attacks</text>
 Menace
 I, II — Mill two cards. (Put the top two cards of your library into your graveyard.)
 III — Return another creature from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/29.png" num="68">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/29.png" num="63">HWL</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -533,13 +542,13 @@ III — Return another creature from your graveyard to your hand.</text>
 		<card>
 			<name>CB06</name>
 			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/30.png" num="1">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/30.png" num="64">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature</type>
 				<maintype>Creature</maintype>
-				<manacost>6</manacost>
+				<manacost>5B</manacost>
 				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -549,7 +558,7 @@ III — Return another creature from your graveyard to your hand.</text>
 		<card>
 			<name>CB07</name>
 			<text>Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/31.png" num="69">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/31.png" num="65">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -563,25 +572,25 @@ III — Return another creature from your graveyard to your hand.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CB08</name>
-			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/32.png" num="70">HWL</set>
+			<name>CB08Void Infusion</name>
+			<text>Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 for each time you&apos;ve descended this turn. (You descend whenever one or more permanent cards are put into your graveyard from anywhere.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/32.png" num="66">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>CB09Undying Determination</name>
 			<text>Target creature you control gains restless until the end of the turn. When that creature dies this turn, each opponent looses 2 life. (When it dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/33.png" num="71">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/33.png" num="67">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -598,14 +607,14 @@ III — Return another creature from your graveyard to your hand.</text>
 			<name>CB10</name>
 			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
 Draw two cards</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/34.png" num="72">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/34.png" num="68">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Sorery</type>
+				<maintype>Sorery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -614,7 +623,7 @@ Draw two cards</text>
 		<card>
 			<name>CB11Peek into Dreams</name>
 			<text>Target opponent reveals their hand. You choose a nonland card from it and exile that card. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/35.png" num="73">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/35.png" num="69">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -628,42 +637,43 @@ Draw two cards</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CB12</name>
-			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/36.png" num="74">HWL</set>
+			<name>CB12Shattermask</name>
+			<text>As an additional cost to cast this spell, discard a card or pay {2}.
+Exile target creature.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/36.png" num="70">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>CB13</name>
 			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/37.png" num="75">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/37.png" num="71">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>CH03Grimmkin Master</name>
 			<text>Menace
 Whenever this creature deals combat damage to a player, you may discard a card. If you do, draw a card. If you discarded a nonland card this way, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/38.png" num="169">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/38.png" num="170">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -678,27 +688,10 @@ Whenever this creature deals combat damage to a player, you may discard a card. 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CH02Crawling Dirtcarver</name>
-			<text>This creature can&apos;t be blocked by creatures with power 2 or greater.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/39.png" num="168">HWL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Insect</type>
-				<maintype>Creature</maintype>
-				<manacost>1U/B</manacost>
-				<cmc>2</cmc>
-				<colors>UB</colors>
-				<coloridentity>UB</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>CR01Leaping Husk</name>
 			<text>Reach
 When you descend for the first time each turn, this creature gets +2/+0 until end of turn. (You descend whenever one or more permanents are put into your graveyard from anywhere.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/40.png" num="92">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/39.png" num="88">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -717,7 +710,7 @@ When you descend for the first time each turn, this creature gets +2/+0 until en
 			<text>Charmed {2}{R} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.)
 Equipped creature gets +1/+0 and has haste.
 Equip {2}</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/41.png" num="94">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/40.png" num="90">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -733,7 +726,7 @@ Equip {2}</text>
 		<card>
 			<name>CR02</name>
 			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/42.png" num="93">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/41.png" num="89">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -749,7 +742,7 @@ Equip {2}</text>
 		<card>
 			<name>CR04</name>
 			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/43.png" num="95">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/42.png" num="91">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -767,7 +760,7 @@ Equip {2}</text>
 			<text>Charmed {2}{R}{R} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.)
 Equipped creature gets +2/+1. During your turn, it also has first strike.
 Equip {3}</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/44.png" num="96">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/43.png" num="92">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -783,7 +776,7 @@ Equip {3}</text>
 		<card>
 			<name>CR06Grimmvessel</name>
 			<text>When this creature enters, return target instant or sorcery card from your graveyard or exiled instant or sorcery card you own to your hand.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/45.png" num="97">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/44.png" num="93">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -793,13 +786,16 @@ Equip {3}</text>
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CR07Glimback</name>
-			<text>Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/46.png" num="98">HWL</set>
+			<text>Trample
+When this creature enters, another target creature you control gets +2/+0 and gains trample until end of turn.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/45.png" num="94">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -809,6 +805,7 @@ Equip {3}</text>
 				<cmc>6</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
+				<pt>4/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -816,7 +813,7 @@ Equip {3}</text>
 			<name>CR08Lumafly Shock</name>
 			<text>Lumafly Shock deals 2 damage to target creature. If you cast this spell from your graveyard, it deals 4 damage to target creature instead.
 Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/47.png" num="99">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/46.png" num="95">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -831,9 +828,8 @@ Flashback {4}{R} (You may cast this card from your graveyard for its flashback c
 		</card>
 		<card>
 			<name>CR09Fool&apos;s Resolve</name>
-			<text>Target creature gets +3/+1 and gains trample until end of turn.
-You may discard a card. If you do, draw a card.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/48.png" num="100">HWL</set>
+			<text>Target creature gets +3/+1 and gains trample until end of turn. You may discard a card. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/47.png" num="96">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -849,7 +845,7 @@ You may discard a card. If you do, draw a card.</text>
 		<card>
 			<name>CR10Dance of Flames</name>
 			<text>Exile the top three cards of your library. You may play those cards this turn. At the beginning of the next end step, if any of those cards remain exiled, put them into your graveyard.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/49.png" num="101">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/48.png" num="97">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -867,7 +863,7 @@ You may discard a card. If you do, draw a card.</text>
 			<text>Choose one —
 • Abrade deals 3 damage to target creature.
 • Destroy target artifact.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/50.png" num="103">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/49.png" num="99">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -882,9 +878,9 @@ You may discard a card. If you do, draw a card.</text>
 		</card>
 		<card>
 			<name>CR11</name>
-			<text>Create two 2/1 black Bat creature tokens with &quot;When this creature dies, you may surveil 1.&quot; (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+			<text>Create two 2/1 black Elemental creature tokens with &quot;When this creature dies, you may surveil 1.&quot; (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
 Flashback {5}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/51.png" num="102">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/50.png" num="98">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -901,7 +897,7 @@ Flashback {5}{R}{R} (You may cast this card from your graveyard for its flashbac
 			<name>CR13Violent Infection</name>
 			<text>Violent Infection deals 6 damage to target creature. 
 Exile the top card of your library. Until the end of your next turn, you may play that card.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/52.png" num="104">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/51.png" num="100">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -915,10 +911,10 @@ Exile the top card of your library. Until the end of your next turn, you may pla
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CH07Ooma</name>
+			<name>CH07</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Whenever you cast your first noncreature spell each turn, draw a card. Then discard a card unless you&apos;ve cast that spell from anywhere other than your hand.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/53.png" num="173">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/52.png" num="174">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -935,7 +931,7 @@ Whenever you cast your first noncreature spell each turn, draw a card. Then disc
 		<card>
 			<name>CH09Disciple of the Nail</name>
 			<text>At the beginning of combat on your turn, another target creature you control gets +1/+0 and gains.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/54.png" num="175">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/53.png" num="176">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -954,7 +950,7 @@ Whenever you cast your first noncreature spell each turn, draw a card. Then disc
 			<text>Flash
 Deathtouch
 {1}{G}: This creature gets +1/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/55.png" num="121">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/54.png" num="117">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -969,9 +965,27 @@ Deathtouch
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CG02</name>
-			<text>{T}: Add {G}.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/56.png" num="122">HWL</set>
+			<name>CG02Shambling Mosshusk</name>
+			<text>{T}: Add {G}. If this creature has a finality counter on it, add {G}{G} instead.
+Restless (When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it. If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/55.png" num="118">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Plant Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG03</name>
+			<text></text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/56.png" num="119">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -985,31 +999,15 @@ Deathtouch
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CG03</name>
-			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/57.png" num="2">HWL</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost>2</manacost>
-				<cmc>2</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>CG04</name>
-			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/58.png" num="3">HWL</set>
+			<text>When this creature enters, mill four cards.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/57.png" num="120">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature</type>
 				<maintype>Creature</maintype>
-				<manacost>3</manacost>
+				<manacost>2G</manacost>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -1019,13 +1017,13 @@ Deathtouch
 		<card>
 			<name>CG06</name>
 			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/59.png" num="4">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/58.png" num="122">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature</type>
 				<maintype>Creature</maintype>
-				<manacost>5</manacost>
+				<manacost>3GG</manacost>
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -1033,25 +1031,26 @@ Deathtouch
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CG07</name>
-			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/60.png" num="5">HWL</set>
+			<name>CG07Fungal Ogre</name>
+			<text>When this creature enters and at the beginning of your upkeep, mill a card.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/59.png" num="123">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Fungus</type>
 				<maintype>Creature</maintype>
-				<manacost>6</manacost>
+				<manacost>5G</manacost>
 				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
+				<pt>5/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CG08</name>
 			<text>Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/61.png" num="124">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/60.png" num="124">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1067,7 +1066,7 @@ Deathtouch
 		<card>
 			<name>CG09Lushcove Duel</name>
 			<text>Choose target creature you control and target creature you don&apos;t control. If the creature you control is legendary, put a +1/+1 counter on it. Then those creatures fight each other. (Each deals damage equal to its power to the other.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/62.png" num="125">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/61.png" num="125">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1084,7 +1083,7 @@ Deathtouch
 			<name>CG10Challenge the Mantis Lords</name>
 			<text>Target creature you control deals damage equal to its power to target creature an opponent controls. If this spell was cast from your graveyard, the creature you control deals twice that much damage instead.
 Flashback {4}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/63.png" num="126">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/62.png" num="126">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1098,18 +1097,18 @@ Flashback {4}{G}{G} (You may cast this card from your graveyard for its flashbac
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CG11Overrun by Nature</name>
+			<name>CG11Queen&apos;s Claim</name>
 			<text>Choose one —
 • Destroy target artifact or enchantment.
 • Put a +1/+1 counter on target creature you control. It gains reach until end of turn. Untap it.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/64.png" num="127">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/63.png" num="127">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -1118,7 +1117,7 @@ Flashback {4}{G}{G} (You may cast this card from your graveyard for its flashbac
 		<card>
 			<name>CG13</name>
 			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/65.png" num="129">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/64.png" num="129">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1133,15 +1132,15 @@ Flashback {4}{G}{G} (You may cast this card from your graveyard for its flashbac
 		</card>
 		<card>
 			<name>CH05</name>
-			<text>When this creature enters, create two 1/1 creature tokens.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/66.png" num="171">HWL</set>
+			<text>When this creature enters, create two 1/1 green Insect creature tokens.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/65.png" num="172">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature</type>
 				<maintype>Creature</maintype>
-				<manacost>3G/WG/W</manacost>
-				<cmc>5</cmc>
+				<manacost>2G/WG/W</manacost>
+				<cmc>4</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
 				<pt>3/3</pt>
@@ -1152,7 +1151,7 @@ Flashback {4}{G}{G} (You may cast this card from your graveyard for its flashbac
 			<name>CH04Shroomling</name>
 			<text>Haste
 {1}{RG}, Sacrifice this creature: Draw a card and create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/67.png" num="170">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/66.png" num="171">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1170,7 +1169,7 @@ Flashback {4}{G}{G} (You may cast this card from your graveyard for its flashbac
 			<name>UM01The Grey Mourner</name>
 			<text>When this creature enters, surveil 3. (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 {2}{W}{U}, Sacrifice this creature: Return target artifact or enchantment from your graveyard to the battlefield tapped.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/68.png" num="147">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/67.png" num="148">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1186,8 +1185,9 @@ Flashback {4}{G}{G} (You may cast this card from your graveyard for its flashbac
 		</card>
 		<card>
 			<name>UM07Elder Hu, Tending Sage</name>
-			<text>Whenever you descend for the first time each turn, put a +1/+1 counter on Elder Hu, Tending Sage. Then if its power 4 or greater, it deals that much damage to target player.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/69.png" num="153">HWL</set>
+			<text>Trample
+Whenever you descend for the first time each turn, put a +1/+1 counter on Elder Hu, Tending Sage. Then if there&apos;s six or more permanent cards in your graveyard, draw a card.</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/68.png" num="154">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1197,23 +1197,26 @@ Flashback {4}{G}{G} (You may cast this card from your graveyard for its flashbac
 				<cmc>3</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
-				<pt>1/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UM15The Traitor Lord</name>
-			<text>Restless (When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it.)</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/70.png" num="161">HWL</set>
+			<text>Menace
+When this creature enters, if you didn&apos;t cast it, distribute two +1/+1 counters among any number of creatures you control.
+Restless (When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it.)</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/69.png" num="162">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature</type>
+				<type>Legendary Creature — Mantis Zombie Warrior</type>
 				<maintype>Creature</maintype>
 				<manacost>2BG</manacost>
 				<cmc>4</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1221,7 +1224,7 @@ Flashback {4}{G}{G} (You may cast this card from your graveyard for its flashbac
 			<name>UM17Nailmasters Oro and Mato</name>
 			<text>Double strike
 Whenever this creature attacks, attach up to one target Equipment you control to it. If that Equipment was attached to another creature you control, it gains indestructible until your next turn.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/71.png" num="163">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/70.png" num="164">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1240,9 +1243,10 @@ Whenever this creature attacks, attach up to one target Equipment you control to
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
 Flying
 You gain 1 life and draw a card.
-​
+Create a 2/2 white Spirit creature token with flying.
+&quot;I assure you wanderer, my nail is sharp and I&apos;ll not hold back.&quot;
 ​</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/72.png" num="148">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/71.png" num="149">HWL</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1258,8 +1262,9 @@ You gain 1 life and draw a card.
 		</card>
 		<card>
 			<name>UM08Pride of the Mantis Tribe</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/73.png" num="154">HWL</set>
+			<text>Haste
+Whenever this creature deals combat damage to a player, you may discard a nonland card. If you do, return target basic land card or Cave card from your graveyard to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/72.png" num="155">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1269,15 +1274,16 @@ You gain 1 life and draw a card.
 				<cmc>4</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UM10The Massive Mosscharger</name>
 			<text>Trample
-When The Massive Mosscharger enters, create two 1/1 green Insect Plant creature tokens.
+When The Massive Mosscharger enters, create two 1/1 green Insect creature tokens.
 The Massive Mosscharger&apos;s power is equal to the number of creatures you control.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/74.png" num="156">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/73.png" num="157">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1296,7 +1302,7 @@ The Massive Mosscharger&apos;s power is equal to the number of creatures you con
 			<text>Charmed {2}{R}{W} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.) 
 Equipped creature gets +1/+1 for each artifact you control and has first strike.
 Equip {3}</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/75.png" num="164">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/74.png" num="165">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1313,7 +1319,7 @@ Equip {3}</text>
 			<name>UM19The Dung Defender</name>
 			<text>Trample
 Whenever The Dung Defender enters or attacks, exile up to one card from your graveyard. If a land card was exiled this way, put it on the battlefield tapped.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/76.png" num="165">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/75.png" num="166">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1331,7 +1337,7 @@ Whenever The Dung Defender enters or attacks, exile up to one card from your gra
 			<name>UM20Isma&apos;s Memory</name>
 			<text>When this enchantment enters, draw a card.
 Whenever a card leaves your graveyard, put a +1/+1 counter on target creature you control. This ability triggers once each turn.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/77.png" num="166">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/76.png" num="167">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1348,7 +1354,7 @@ Whenever a card leaves your graveyard, put a +1/+1 counter on target creature yo
 			<name>UM11The False Knight</name>
 			<text>Vigilance
 {1}, Sacrifice another artifact or creature: Each opponent looses 1 life and you gain 1 life. If the sacrificed permanent had a finality counter on it, put a +1/+1 counter on The False Knight.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/78.png" num="157">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/77.png" num="158">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1366,7 +1372,7 @@ Whenever a card leaves your graveyard, put a +1/+1 counter on target creature yo
 			<name>UM12Corpses of the Kingdom</name>
 			<text>When this enchantment enters, create a 1/1 white and black Shade creature token with lifelink.
 At the beginning of your end step, if a nontoken creature you control died this turn, you may return this enchantment to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/79.png" num="158">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/78.png" num="159">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1383,7 +1389,7 @@ At the beginning of your end step, if a nontoken creature you control died this 
 			<name>UM05Brumm, Troupe&apos;s Banisher</name>
 			<text>Menace
 At the beginning of your second main phase, if you descended this turn, exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card. (You descended if a permanent card was put into your graveyard from anywhere this turn.)</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/80.png" num="151">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/79.png" num="152">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1400,7 +1406,7 @@ At the beginning of your second main phase, if you descended this turn, exile th
 		<card>
 			<name>UM06Light Up the Ritual</name>
 			<text>Discard your hand, then draw three cards. Light Up the Ritual deals damage equal to the number of cards discarded this way to any target.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/81.png" num="152">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/80.png" num="153">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1417,7 +1423,7 @@ At the beginning of your second main phase, if you descended this turn, exile th
 			<name>UM03The Fluke Hermit</name>
 			<text>Deathtouch, lifelink
 Crawl — Whenever one or more creatures you control with power or toughness 1 deal combat damage to a player, draw a card, then discard a card.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/82.png" num="149">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/81.png" num="150">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1434,7 +1440,7 @@ Crawl — Whenever one or more creatures you control with power or toughness 1 d
 		<card>
 			<name>UM04Waterways Ambush</name>
 			<text>Target player discards two cards. Create a 1/1 blue and black Worm creature token for each card type among cards discarded this way.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/83.png" num="150">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/82.png" num="151">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1452,7 +1458,7 @@ Crawl — Whenever one or more creatures you control with power or toughness 1 d
 			<text>Flying
 Uumuu, Monomon&apos;s Guard costs {1} less to cast for each instant and sorcery cards you own in exile and in your graveyard.
 Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on Uumuu.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/84.png" num="159">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/83.png" num="160">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1470,7 +1476,7 @@ Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counte
 			<name>UM14 Archived Guidance</name>
 			<text>Draw three cards. Then, discard two cards unless you discard an instant or sorcery.
 Flashback {2}{U}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/85.png" num="160">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/84.png" num="161">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1488,7 +1494,7 @@ Flashback {2}{U}{R}{R} (You may cast this card from your graveyard for its flash
 			<text>Target player mills two cards.
 Draw a card.
 Flashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/86.png" num="44">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/85.png" num="39">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1505,7 +1511,7 @@ Flashback {3}{U} (You may cast this card from your graveyard for its flashback c
 			<name>CU10Monomon&apos;s Wisdom</name>
 			<text>This spell costs {1} less to cast if you control a legendary creature or Saga.
 Draw two cards.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/87.png" num="45">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/86.png" num="40">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1523,7 +1529,7 @@ Draw two cards.</text>
 			<text>Enchant creature
 When this Aura enters, tap enchanted creature.
 Enchanted creature loses all abilities and it doesn&apos;t untap during its controller&apos;s untap step.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/88.png" num="46">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/87.png" num="41">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1540,7 +1546,7 @@ Enchanted creature loses all abilities and it doesn&apos;t untap during its cont
 			<name>CU12Lost in the Fog</name>
 			<text>Target creature&apos;s owner puts it on their choice of the top or bottom of their library. If you cast this spell from your graveyard, that creature&apos;s owners shuffles it into their library instead.
 Flashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/89.png" num="47">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/88.png" num="42">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1557,7 +1563,7 @@ Flashback {5}{U}{U} (You may cast this card from your graveyard for its flashbac
 			<name>UM16Overtake by Infection</name>
 			<text>This spell costs {2} less to cast if you control two or more creatures with a counter on them.
 Destroy target nonland permanent.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/90.png" num="162">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/89.png" num="163">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1573,7 +1579,7 @@ Destroy target nonland permanent.</text>
 		<card>
 			<name>UM09The Hive Knight</name>
 			<text>Whenever another creature you control enters, you gain 1 life. If it&apos;s legendary, put a +1/+1 counter on it.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/91.png" num="155">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/90.png" num="156">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1590,7 +1596,7 @@ Destroy target nonland permanent.</text>
 		<card>
 			<name>CG12Lore of Greenpath</name>
 			<text>Search your library or graveyard for a basic land card or Cave card, put it onto the battlefield tapped, then, if you searched your library this way, shuffle.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/92.png" num="128">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/91.png" num="128">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1608,7 +1614,7 @@ Destroy target nonland permanent.</text>
 			<text>Charmed {3}{G} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.)
 Equipped creature gets +2/+1, has &quot;Whenever this creature attacks, target creature gain trample until end of turn.&quot;, and is a Slug in addition to its other types.
 Equip {3}</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/93.png" num="123">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/92.png" num="121">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1624,7 +1630,7 @@ Equip {3}</text>
 		<card>
 			<name>UW01Revek, Glade&apos;s Guardian</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/94.png" num="22">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/93.png" num="17">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1638,29 +1644,30 @@ Equip {3}</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UW02</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/95.png" num="23">HWL</set>
+			<name>UW02Elderbug, Lonely Guide</name>
+			<text>Whenever another creature you control enters, surveil 1. If you put a legendary card in the graveyard this way, put a +1/+1 counter on another target creature you control. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/94.png" num="18">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Legendary Creature — Beetle Advisor</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UW03</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/96.png" num="24">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/95.png" num="19">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Legendary Creature</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -1672,11 +1679,11 @@ Equip {3}</text>
 		<card>
 			<name>UW04</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/97.png" num="25">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/96.png" num="20">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Legendary Creature</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
@@ -1688,7 +1695,7 @@ Equip {3}</text>
 		<card>
 			<name>UW05</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/98.png" num="26">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/97.png" num="21">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1704,7 +1711,7 @@ Equip {3}</text>
 		<card>
 			<name>UW06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/99.png" num="27">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/98.png" num="22">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1720,7 +1727,7 @@ Equip {3}</text>
 		<card>
 			<name>UW07</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/100.png" num="28">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/99.png" num="23">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1736,7 +1743,7 @@ Equip {3}</text>
 		<card>
 			<name>UW08</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/101.png" num="29">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/100.png" num="24">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1752,7 +1759,7 @@ Equip {3}</text>
 		<card>
 			<name>UW09</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/102.png" num="30">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/101.png" num="25">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1769,7 +1776,7 @@ Equip {3}</text>
 			<name>UW10Kingsmould</name>
 			<text>Reach, first strike
 When this creature enters, exile target creature</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/103.png" num="31">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/102.png" num="26">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1787,7 +1794,7 @@ When this creature enters, exile target creature</text>
 			<text>Enchant creature.
 Enchanted creature is legendary, gets +1/+1 and has ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
 Whenever two or more creatures attack you, you may untap enchanted creature.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/104.png" num="32">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/103.png" num="27">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1801,48 +1808,51 @@ Whenever two or more creatures attack you, you may untap enchanted creature.</te
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UU01</name>
+			<name>UU01Lemm, Relic Seeker</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/105.png" num="50">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/104.png" num="45">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Legendary Creature — Insect Scout</type>
 				<maintype>Creature</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UU02</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/106.png" num="51">HWL</set>
+			<name>UU02Quirrel, Monomon&apos;s Adept</name>
+			<text>Vigilance
+You may look at the the top card of your library at any time.
+{1}, {T}: Reveal the top card of your library. If it&apos;s an instant, sorcery or Saga card, you may cast it. Otherwise, put it into your graveyard.</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/105.png" num="46">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Legendary Creature — Insect Scout</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UU03</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/107.png" num="52">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/106.png" num="47">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Legendary Creature</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -1851,14 +1861,14 @@ Whenever two or more creatures attack you, you may untap enchanted creature.</te
 		<card>
 			<name>UU04</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/108.png" num="53">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/107.png" num="48">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Legendary Creature</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -1869,7 +1879,7 @@ Whenever two or more creatures attack you, you may untap enchanted creature.</te
 			<text>Defender
 {T}: Add {U}. This mana can&apos;t be spent to cast noncreature spells.
 Whenever you cast a spell from anywhere other than your hand, untap this creature. This ability triggers once each turn.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/109.png" num="54">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/108.png" num="49">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1885,7 +1895,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UU06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/110.png" num="55">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/109.png" num="50">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1901,7 +1911,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UU07</name>
 			<text>Exile target creature or enchantment you control, then return it to the battlefield under its owner&apos;s control. If that permanent is a Saga, you may put a lore counter on it. (The first chapter triggers, then the next one.)</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/111.png" num="56">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/110.png" num="51">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1917,7 +1927,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UU08</name>
 			<text>Create a token that&apos;s a copy of target artifact or creature you control. If it&apos;s a creature, it becomes a 1/1 black Shapeshifter creature in addition to its other colors and types.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/112.png" num="57">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/111.png" num="52">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1933,7 +1943,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UU09</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/113.png" num="58">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/112.png" num="53">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1949,7 +1959,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UU10</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/114.png" num="59">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/113.png" num="54">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1965,7 +1975,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UU11</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/115.png" num="60">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/114.png" num="55">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1980,24 +1990,26 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		</card>
 		<card>
 			<name>UB01Milibelle, Sketchy Banker</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/116.png" num="77">HWL</set>
+			<text>During your turn, Milibelle, Sketchy Banker has deathtouch
+Crawl — Whenever one or more creatures you control with power or toughness 1 deal combat damage to a player, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/115.png" num="73">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature</type>
+				<type>Legendary Creature — Beetle Rogue</type>
 				<maintype>Creature</maintype>
 				<manacost>2B</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>1/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UB02</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/117.png" num="78">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/116.png" num="74">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2013,7 +2025,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UB03</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/118.png" num="79">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/117.png" num="75">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2029,7 +2041,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UB04</name>
 			<text>Whenever a creature you control dies, if it w</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/119.png" num="80">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/118.png" num="76">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2045,7 +2057,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UB05</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/120.png" num="81">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/119.png" num="77">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2061,7 +2073,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UB06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/121.png" num="82">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/120.png" num="78">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2077,7 +2089,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UB07</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/122.png" num="83">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/121.png" num="79">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2093,7 +2105,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UB08</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/123.png" num="84">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/122.png" num="80">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2109,7 +2121,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UB09Cast Down</name>
 			<text>Destroy target nonlegendary creature.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/124.png" num="85">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/123.png" num="81">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2125,7 +2137,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UB10</name>
 			<text>Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/125.png" num="86">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/124.png" num="82">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2140,15 +2152,15 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		</card>
 		<card>
 			<name>UB11Pale King&apos;s Edict</name>
-			<text>Each opponent sacrifices a creature.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/126.png" num="87">HWL</set>
+			<text>Each player sacrifices a creature. If you sacrificed a creature this way, draw a card.</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/125.png" num="83">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -2157,7 +2169,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UR01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/127.png" num="107">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/126.png" num="103">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2173,7 +2185,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UR02</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/128.png" num="108">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/127.png" num="104">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2189,7 +2201,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 		<card>
 			<name>UR03</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/129.png" num="109">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/128.png" num="105">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2206,7 +2218,7 @@ Whenever you cast a spell from anywhere other than your hand, untap this creatur
 			<name>UR04Divine, Charm Eater</name>
 			<text>Menace
 Whenever Divine, Charm Eater enters or attacks, discard a card. If you do, draw a card. If you discarded an Equipment card this way, you may cast it until end of turn.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/130.png" num="110">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/129.png" num="106">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2223,7 +2235,7 @@ Whenever Divine, Charm Eater enters or attacks, discard a card. If you do, draw 
 		<card>
 			<name>UR05</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/131.png" num="111">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/130.png" num="107">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2239,7 +2251,7 @@ Whenever Divine, Charm Eater enters or attacks, discard a card. If you do, draw 
 		<card>
 			<name>UR06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/132.png" num="112">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/131.png" num="108">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2255,7 +2267,7 @@ Whenever Divine, Charm Eater enters or attacks, discard a card. If you do, draw 
 		<card>
 			<name>UR07</name>
 			<text>Charmed cost (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.)</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/133.png" num="113">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/132.png" num="109">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2271,7 +2283,7 @@ Whenever Divine, Charm Eater enters or attacks, discard a card. If you do, draw 
 		<card>
 			<name>UR08</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/134.png" num="114">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/133.png" num="110">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2287,7 +2299,7 @@ Whenever Divine, Charm Eater enters or attacks, discard a card. If you do, draw 
 		<card>
 			<name>UR09</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/135.png" num="115">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/134.png" num="111">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2303,7 +2315,7 @@ Whenever Divine, Charm Eater enters or attacks, discard a card. If you do, draw 
 		<card>
 			<name>UR10</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/136.png" num="116">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/135.png" num="112">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2319,7 +2331,7 @@ Whenever Divine, Charm Eater enters or attacks, discard a card. If you do, draw 
 		<card>
 			<name>UR11</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/137.png" num="117">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/136.png" num="113">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2336,7 +2348,7 @@ Whenever Divine, Charm Eater enters or attacks, discard a card. If you do, draw 
 			<name>UG01Tuk, Undercity Explorer</name>
 			<text>When Tuk, Undercity Explorer enters, mill X cards.
 When Tuk dies, return up to one other card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/138.png" num="131">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/137.png" num="131">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2346,14 +2358,14 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/1</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UG02</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/139.png" num="132">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/138.png" num="132">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2369,7 +2381,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UG03</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/140.png" num="133">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/139.png" num="133">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2385,7 +2397,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UG04</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/141.png" num="134">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/140.png" num="134">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2401,7 +2413,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UG05</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/142.png" num="135">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/141.png" num="135">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2416,24 +2428,26 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		</card>
 		<card>
 			<name>UG06</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/143.png" num="136">HWL</set>
+			<text>When this creature enters, mill a card.
+{T}, Exile a card from your graveyard: Add a mana of any color.</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/142.png" num="136">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>UG07</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/144.png" num="137">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/143.png" num="137">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2449,7 +2463,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UG08</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/145.png" num="138">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/144.png" num="138">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2465,7 +2479,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UG09</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/146.png" num="139">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/145.png" num="139">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2479,9 +2493,9 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UG10</name>
+			<name>UG10Unn&apos;s Blessing</name>
 			<text>Prevent all combat damage that would be dealt this turn.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/147.png" num="140">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/146.png" num="140">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2497,7 +2511,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UG11</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/148.png" num="141">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/147.png" num="141">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2513,7 +2527,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UB12</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/149.png" num="88">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/148.png" num="84">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2529,7 +2543,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UB13</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/150.png" num="89">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/149.png" num="85">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2545,7 +2559,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UB14</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/151.png" num="90">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/150.png" num="86">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2561,7 +2575,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UB15</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/152.png" num="91">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/151.png" num="87">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2577,7 +2591,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UG13</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/153.png" num="143">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/152.png" num="143">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2593,7 +2607,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UG12</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/154.png" num="142">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/153.png" num="142">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2609,7 +2623,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UG14</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/155.png" num="144">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/154.png" num="144">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2625,7 +2639,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UW12</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/156.png" num="33">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/155.png" num="28">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2641,7 +2655,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UW13</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/157.png" num="34">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/156.png" num="29">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2657,7 +2671,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UW14</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/158.png" num="35">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/157.png" num="30">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2673,7 +2687,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UU12</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/159.png" num="61">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/158.png" num="56">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2689,7 +2703,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UU13</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/160.png" num="62">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/159.png" num="57">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2705,7 +2719,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UU14</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/161.png" num="63">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/160.png" num="58">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2721,7 +2735,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UR12</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/162.png" num="118">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/161.png" num="114">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2737,7 +2751,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UR13</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/163.png" num="119">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/162.png" num="115">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2753,7 +2767,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UR14</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/164.png" num="120">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/163.png" num="116">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2769,7 +2783,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UC01</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/165.png" num="181">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/164.png" num="182">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2783,7 +2797,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UC02</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/166.png" num="182">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/165.png" num="183">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2797,7 +2811,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UC03</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/167.png" num="183">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/166.png" num="184">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2809,23 +2823,24 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC04</name>
-			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/168.png" num="184">HWL</set>
+			<name>UC04Geo Rock</name>
+			<text>{T}, Sacrifice this artifact: Add a mana of any color.
+{5}, Exile this card from your graveyard:</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/167.png" num="185">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact</type>
+				<type>Artifact — Treasure</type>
 				<maintype>Artifact</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>UC05</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/169.png" num="185">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/168.png" num="186">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2839,7 +2854,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UC06</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/170.png" num="186">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/169.png" num="187">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2853,7 +2868,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UC07Sharpened Nail</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/171.png" num="187">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/170.png" num="188">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2868,7 +2883,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 			<name>UC08Stag Station</name>
 			<text>{T}: Add {C}.
 {2}, {T}, Sacrifice this land: Search your library for a basic land card or Cave card, put it onto the battlefield tapped, then shuffle.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/172.png" num="190">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/171.png" num="191">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2882,7 +2897,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UC09</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/173.png" num="191">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/172.png" num="192">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2896,7 +2911,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 		<card>
 			<name>UC10</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/174.png" num="192">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/173.png" num="193">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2908,30 +2923,34 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>CC01Grub in a Jar</name>
-			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/175.png" num="177">HWL</set>
+			<name>CC01Encased Grub</name>
+			<text>When this creature dies, create a 1/1 green Insect creature token.
+{2}, {T}: Put target card from a graveyard on the bottom of its owner&apos;s library.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/174.png" num="178">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature</type>
+				<type>Artifact Creature — Insect Construct</type>
 				<maintype>Creature</maintype>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
+				<pt>0/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CC02</name>
-			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/176.png" num="178">HWL</set>
+			<name>CC02Royal Tram</name>
+			<text>{T}: Add a mana of any color.
+Tap three untapped artifacts and/or creatures you control: This Vehicle becomes an artifact creature until end of turn.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/175.png" num="179">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact — Vehicle</type>
 				<maintype>Artifact</maintype>
-				<manacost>4</manacost>
-				<cmc>4</cmc>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -2939,7 +2958,7 @@ When Tuk dies, return up to one other card from your graveyard to your hand.</te
 			<name>CC04Old Nail</name>
 			<text>Equipped creature gets +1/+1.
 Equip {0}. Activate only once each turn.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/177.png" num="180">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/176.png" num="181">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2953,7 +2972,7 @@ Equip {0}. Activate only once each turn.</text>
 		<card>
 			<name>CC03</name>
 			<text>Charmed {5} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/178.png" num="179">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/177.png" num="180">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2966,15 +2985,16 @@ Equip {0}. Activate only once each turn.</text>
 		</card>
 		<card>
 			<name>CC05</name>
-			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/179.png" num="188">HWL</set>
+			<text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/178.png" num="189">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Land</type>
+				<type>Land — Cave</type>
 				<maintype>Land</maintype>
-				<manacost>1</manacost>
-				<cmc>1</cmc>
+				<manacost></manacost>
+				<cmc>0</cmc>
 			</prop>
 			<tablerow>0</tablerow>
 		</card>
@@ -2982,7 +3002,7 @@ Equip {0}. Activate only once each turn.</text>
 			<name>CC06Uncharted Cave</name>
 			<text>This land enters tapped. As it enters, choose a color.
 {T}: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/180.png" num="189">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/179.png" num="190">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2998,7 +3018,7 @@ Equip {0}. Activate only once each turn.</text>
 			<text>This land enters tapped.
 {T}: Add {U} or {R}.
 Cycling {UR}{UR} ({UR}{UR}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/181.png" num="199">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/180.png" num="200">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3015,7 +3035,7 @@ Cycling {UR}{UR} ({UR}{UR}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {R} or {W}.
 Cycling {RW}{RW} ({RW}{RW}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/182.png" num="201">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/181.png" num="202">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3032,7 +3052,7 @@ Cycling {RW}{RW} ({RW}{RW}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {G} or {W}.
 Cycling {GW}{GW} ({GW}{GW}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/183.png" num="197">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/182.png" num="198">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3049,7 +3069,7 @@ Cycling {GW}{GW} ({GW}{GW}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {W} or {B}.
 Cycling {WB}{WB} ({WB}{WB}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/184.png" num="198">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/183.png" num="199">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3066,7 +3086,7 @@ Cycling {WB}{WB} ({WB}{WB}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {R} or {G}.
 Cycling {RG}{RG} ({RG}{RG}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/185.png" num="196">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/184.png" num="197">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3083,7 +3103,7 @@ Cycling {RG}{RG} ({RG}{RG}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {B} or {G}
 Cycling {BG}{BG} ({BG}{BG}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/186.png" num="200">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/185.png" num="201">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3100,7 +3120,7 @@ Cycling {BG}{BG} ({BG}{BG}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {U} or {B}.
 Cycling {UB}{UB} ({UB}{UB}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/187.png" num="194">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/186.png" num="195">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3117,7 +3137,7 @@ Cycling {UB}{UB} ({UB}{UB}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {W} or {U}.
 Cycling {WU}{WU} ({WU}{WU}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/188.png" num="193">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/187.png" num="194">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3134,7 +3154,7 @@ Cycling {WU}{WU} ({WU}{WU}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {B} or {R}.
 Cycling {BR}{BR} ({BR}{BR}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/189.png" num="195">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/188.png" num="196">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3151,7 +3171,7 @@ Cycling {BR}{BR} ({BR}{BR}, Discard this card: Draw a card.)</text>
 			<text>This land enters tapped.
 {T}: Add {G} or {U}.
 Cycling {GU}{GU} ({GU}{GU}, Discard this card: Draw a card.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/190.png" num="202">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/189.png" num="203">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3167,7 +3187,7 @@ Cycling {GU}{GU} ({GU}{GU}, Discard this card: Draw a card.)</text>
 			<name>RMGreat Knight Ze&apos;mer</name>
 			<text>Vigilance, ward {2}
 At the beginning of your upkeep, return up to one artifact or enchantment card from your graveyard to the battlefield. If you do, it enters with an indestructible counter on it.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/191.png" num="146">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/190.png" num="147">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3188,7 +3208,7 @@ Progress {R}
 Target creature you control gets +2/+0 and gains your choice of haste or trample until the end of the turn.
 You may sacrifice a creature. If you do, this enchantment deals damage equal to the sacrificed creature&apos;s power to any target.
 ​</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/192.png" num="105">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/191.png" num="101">HWL</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -3204,7 +3224,7 @@ You may sacrifice a creature. If you do, this enchantment deals damage equal to 
 		<card>
 			<name>RGCloth&apos;s Morbid Deathwish</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/193.png" num="130">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/192.png" num="130">HWL</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -3220,7 +3240,7 @@ You may sacrifice a creature. If you do, this enchantment deals damage equal to 
 		<card>
 			<name>RBZote&apos;s Dangerous Arrogance</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/194.png" num="76">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/193.png" num="72">HWL</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -3235,10 +3255,10 @@ You may sacrifice a creature. If you do, this enchantment deals damage equal to 
 		</card>
 		<card>
 			<name>RWSeer&apos;s Fated Ascension</name>
-			<text>Search your library for an Equipment or Plains card, reveal that card, put it into your hand, then shuffle.
+			<text>Search your library for an Equipment or Plains card, reveal it, put it into your hand, then shuffle.
 Until end of turn, whenever an Equipment you control enters, you may attach it to target creature you control.
 Put a +1/+1 counter on each equipped creature you control.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/195.png" num="21">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/194.png" num="16">HWL</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -3258,7 +3278,7 @@ Progress {U}
 Return target creature you don&apos;t control to its owner&apos;s hand.
 Surveil 2.
 Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/196.png" num="49">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/195.png" num="44">HWL</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -3273,24 +3293,26 @@ Exile target instant or sorcery card from your graveyard. Copy it. You may cast 
 		</card>
 		<card>
 			<name>Godseeker of the Pantheons</name>
-			<text>{W}{U}{B}{R}{G}:</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/197.png" num="19">HWL</set>
+			<text>Whenever another legendary permanent is put into the graveyard from anywhere, exile it. For as long as it remains exiled, you may cast that card. If you do, it enters with a finality counter on it.
+The first legendary spell you cast each turn costs {W}{U}{B}{R}{G} less to cast. (This can reduce generic costs.)</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/196.png" num="14">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Insect Avatar</type>
 				<maintype>Creature</maintype>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>WUBRG</coloridentity>
+				<pt>3/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CW12Radiance&apos;s Grasp</name>
 			<text>Return target creature card from your graveyard to the battlefield tapped. Put a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/198.png" num="17">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/197.png" num="12">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3306,7 +3328,7 @@ Exile target instant or sorcery card from your graveyard. Copy it. You may cast 
 		<card>
 			<name>Perfect Forging</name>
 			<text>Search your library for an Equipment card, reveal it, put it into your hand, then shuffle. If that Equipment is legendary, you gain 3 life.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/199.png" num="20">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/198.png" num="15">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3322,9 +3344,9 @@ Exile target instant or sorcery card from your graveyard. Copy it. You may cast 
 		<card>
 			<name>Last Stag, Faithful Carrier</name>
 			<text>Trample
-Whenever Last Stag attacks, reveal cards from the top of your library until you reveal two land cards. Put those cards into your hand and the rest on the bottom of your library in a random order. If Last Stag was saddled this turn, put that land onto the battlefield instead.
+Whenever Last Stag attacks, reveal cards from the top of your library until you reveal two land cards. Put those cards into your hand and the rest on the bottom of your library in a random order. If Last Stag was saddled this turn, put those lands onto the battlefield instead.
 Saddle 2</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/200.png" num="145">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/199.png" num="145">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3340,9 +3362,9 @@ Saddle 2</text>
 		</card>
 		<card>
 			<name>Tough Claw</name>
-			<text>Double strike
+			<text>Double strike, haste
 Whenever this creature deals combat damage, double its power until end of turn.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/201.png" num="106">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/200.png" num="102">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3353,6 +3375,40 @@ Whenever this creature deals combat damage, double its power until end of turn.<
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monomon, the Teacher</name>
+			<text>Ward—Exile a spell you control
+Whenever you cast a spell from anywhere other than your hand, copy it. You may choose new targets for the copy. (Permanents become tokens.)</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/201.png" num="146">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Jellyfish</type>
+				<maintype>Creature</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CH02Crawling Dirtcarver</name>
+			<text>This creature can&apos;t be blocked by creatures with power 2 or greater.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/202.png" num="169">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/B</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

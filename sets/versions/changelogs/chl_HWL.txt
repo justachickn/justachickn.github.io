@@ -1,4 +1,506 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CW01Lightseed added.
+CW02Dreamwielder Moth added.
+CW04Steady Body added.
+CW06Horned Husk added.
+CU01Lumafly in a Jar added.
+CU04Acidic Obbles added.
+CU05Soulsyphon Snail added.
+CB03Garden Desecrator added.
+CB04Sharp Shadow added.
+CB08Void Infusion added.
+CB12Shattermask added.
+CH07 added.
+CG02Shambling Mosshusk added.
+CG07Fungal Ogre added.
+CG11Queen's Claim added.
+UW02Elderbug, Lonely Guide added.
+UU01Lemm, Relic Seeker added.
+UU02Quirrel, Monomon's Adept added.
+UG10Unn's Blessing added.
+UC04Geo Rock added.
+CC01Encased Grub added.
+CC02Royal Tram added.
+Monomon, the Teacher added.
+
+CW01 removed.
+CW02Dreamwilder Moth removed.
+CW04 removed.
+CW06 removed.
+CU01Maskfly removed.
+CU04Obblobble removed.
+CU05 removed.
+CB03 removed.
+CB04 removed.
+CB08 removed.
+CB12 removed.
+CH07Ooma removed.
+CG02 removed.
+CG07 removed.
+CG11Overrun by Nature removed.
+UW02 removed.
+UU01 removed.
+UU02 removed.
+UG10 removed.
+UC04 removed.
+CC01Grub in a Jar removed.
+CC02 removed.
+
+CW03
+rules_text:  => Flying
+Whenever CW03 attacks, tap target creature an opponent controls.
+pt:  => 1/2
+
+CW08Moth of the Dreamshrine
+
+CW09Giant Hopper
+rules_text: Vigilance
+{1}{W}, Discard a card: This creature gains flying until end of turn.
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i] => Vigilance
+{1}{W}, Tap an untaped artifact or creature you control: This creature gains flying until end of turn.
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CH01King's Construct
+type: Artifact Creature — Knight Construct => Artifact Creature — Construct
+rules_text: Vigilance
+When this creature enters reveal the top four cards of your library. You may put an artifact or enchantment card from among them into your hand. Put the rest into your graveyard. => Flying
+When this creature enters reveal the top four cards of your library. You may put an artifact or enchantment card from among them into your hand. Put the rest into your graveyard.
+
+CH08Overgrown Husk
+rules_text: When this creature enters, mill two cards and you gain 2 life. [i](Put the top two cards of your library into your graveyard.)[/i]
+Restless [i](When this creature dies, return it to the battlefield tapped under its owner's control with a finality counter on it.)[/i] => When this creature enters, put a +1/+1 counter on target creature. You gain 1 life.
+Restless [i](When this creature dies, return it to the battlefield tapped under its owner's control with a finality counter on it.)[/i]
+
+CU03Spelltwister
+
+CU07Lifeblood Infusion
+rules_text: You or target creature you control gains hexproof until end of turn. If this spell targets a creature, untap it. => Target player or creature you control gains hexproof until end of turn. If this spell targets a creature, untap it.
+
+CU13Profane Study
+rules_text: Choose one — 
+• Mill four cards. You may put a noncreature, nonland card from among the cards milled this way into your hand.
+• Counter target spell unless its controller pays {3}. => Choose one — 
+• Mill three cards. You may put a noncreature, nonland card from among the cards milled this way into your hand.
+• Counter target spell unless its controller pays {3}.
+
+CB06
+cost: {6} => {5}{B}
+
+CB10
+type:  => Sorery
+cost:  => {1}{B}
+
+CB13
+type:  => Instant
+cost:  => {3}{B}
+
+CR01Leaping Husk
+
+CR03Sprintmaster
+
+CR02
+
+CR04
+
+CR05Quick Slash
+
+CR06Grimmvessel
+pt:  => 3/2
+
+CR07Glimback
+rules_text: Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => Trample
+When this creature enters, another target creature you control gets +2/+0 and gains trample until end of turn.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+pt:  => 4/6
+
+CR08Lumafly Shock
+
+CR09Fool's Resolve
+rules_text: Target creature gets +3/+1 and gains trample until end of turn.
+You may discard a card. If you do, draw a card. => Target creature gets +3/+1 and gains trample until end of turn. You may discard a card. If you do, draw a card.
+
+CR10Dance of Flames
+
+CR12Abrade
+
+CR11
+rules_text: Create two 2/1 black Bat creature tokens with “When this creature dies, you may surveil 1.” [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+Flashback {5}{R}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Create two 2/1 black Elemental creature tokens with “When this creature dies, you may surveil 1.” [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+Flashback {5}{R}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+CR13Violent Infection
+
+CH09Disciple of the Nail
+
+CG01Fool Eater
+
+CG03
+cost: {2} => {1}{G}
+
+CG04
+cost: {3} => {2}{G}
+rules_text:  => When this creature enters, mill four cards.
+
+CG06
+cost: {5} => {3}{G}{G}
+
+CG08
+
+CG09Lushcove Duel
+
+CG10Challenge the Mantis Lords
+
+CG13
+
+CH05
+cost: {3}{GW}{GW} => {2}{GW}{GW}
+rules_text: When this creature enters, create two 1/1 creature tokens. => When this creature enters, create two 1/1 green Insect creature tokens.
+
+CH04Shroomling
+
+UM01The Grey Mourner
+
+UM07Elder Hu, Tending Sage
+rules_text: Whenever you descend for the first time each turn, put a +1/+1 counter on Elder Hu, Tending Sage. Then if its power 4 or greater, it deals that much damage to target player. => Trample
+Whenever you descend for the first time each turn, put a +1/+1 counter on Elder Hu, Tending Sage. Then if there's six or more permanent cards in your graveyard, draw a card.
+pt: 1/3 => 2/2
+
+UM15The Traitor Lord
+type: Legendary Creature => Legendary Creature — Mantis Zombie Warrior
+rules_text: Restless [i](When this creature dies, return it to the battlefield tapped under its owner's control with a finality counter on it.)[/i] => Menace
+When this creature enters, if you didn't cast it, distribute two +1/+1 counters among any number of creatures you control.
+Restless [i](When this creature dies, return it to the battlefield tapped under its owner's control with a finality counter on it.)[/i]
+pt:  => 3/3
+
+UM17Nailmasters Oro and Mato
+
+UM02Spiritblade of the Glade
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Flying
+You gain 1 life and draw a card.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Flying
+You gain 1 life and draw a card.
+Create a 2/2 white Spirit creature token with flying.
+[i]“I assure you wanderer, my nail is sharp and I'll not hold back.”[/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Flying
+You gain 1 life and draw a card.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Flying
+You gain 1 life and draw a card.
+Create a 2/2 white Spirit creature token with flying.
+[i]“I assure you wanderer, my nail is sharp and I'll not hold back.”[/i]
+​
+
+UM08Pride of the Mantis Tribe
+rules_text:  => Haste
+Whenever this creature deals combat damage to a player, you may discard a nonland card. If you do, return target basic land card or Cave card from your graveyard to the battlefield tapped.
+pt:  => 4/3
+
+UM10The Massive Mosscharger
+rules_text: Trample
+When The Massive Mosscharger enters, create two 1/1 green Insect Plant creature tokens.
+The Massive Mosscharger's power is equal to the number of creatures you control. => Trample
+When The Massive Mosscharger enters, create two 1/1 green Insect creature tokens.
+The Massive Mosscharger's power is equal to the number of creatures you control.
+
+UM18Nailmaster's Glory
+
+UM19The Dung Defender
+
+UM20Isma's Memory
+
+UM11The False Knight
+
+UM12Corpses of the Kingdom
+
+UM05Brumm, Troupe's Banisher
+
+UM06Light Up the Ritual
+
+UM03The Fluke Hermit
+
+UM04Waterways Ambush
+
+UM13Uumuu, Monomon's Guard
+
+UM14 Archived Guidance
+
+CU09Echoes of the Past
+
+CU10Monomon's Wisdom
+
+CU11Encase in Crystal
+
+CU12Lost in the Fog
+
+UM16Overtake by Infection
+
+UM09The Hive Knight
+
+CG12Lore of Greenpath
+
+CG05Shape of Unn
+
+UW01Revek, Glade's Guardian
+
+UW03
+type: Creature => Legendary Creature
+
+UW04
+type: Creature => Legendary Creature
+
+UW05
+
+UW06
+
+UW07
+
+UW08
+
+UW09
+
+UW10Kingsmould
+
+UW11Kingsbrand
+
+UU03
+type: Creature => Legendary Creature
+cost:  => {U}
+
+UU04
+type: Creature => Legendary Creature
+cost:  => {U}
+
+UU05
+
+UU06
+
+UU07
+
+UU08
+
+UU09
+
+UU10
+
+UU11
+
+UB01Milibelle, Sketchy Banker
+type: Legendary Creature => Legendary Creature — Beetle Rogue
+rules_text:  => During your turn, Milibelle, Sketchy Banker has deathtouch
+[i]Crawl[/i] — Whenever one or more creatures you control with power or toughness 1 deal combat damage to a player, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+pt:  => 1/4
+
+UB02
+
+UB03
+
+UB04
+
+UB05
+
+UB06
+
+UB07
+
+UB08
+
+UB09Cast Down
+
+UB10
+
+UB11Pale King's Edict
+cost: {1}{B} => {B}
+rules_text: Each opponent sacrifices a creature. => Each player sacrifices a creature. If you sacrificed a creature this way, draw a card.
+
+UR01
+
+UR02
+
+UR03
+
+UR04Divine, Charm Eater
+
+UR05
+
+UR06
+
+UR07
+
+UR08
+
+UR09
+
+UR10
+
+UR11
+
+UG01Tuk, Undercity Explorer
+pt: 2/1 => 3/2
+
+UG02
+
+UG03
+
+UG04
+
+UG05
+
+UG06
+cost:  => {G}
+rules_text:  => When this creature enters, mill a card.
+{T}, Exile a card from your graveyard: Add a mana of any color.
+pt:  => 1/1
+
+UG07
+
+UG08
+
+UG09
+
+UG11
+
+UB12
+
+UB13
+
+UB14
+
+UB15
+
+UG13
+
+UG12
+
+UG14
+
+UW12
+
+UW13
+
+UW14
+
+UU12
+
+UU13
+
+UU14
+
+UR12
+
+UR13
+
+UR14
+
+UC01
+
+UC02
+
+UC03
+
+UC05
+
+UC06
+
+UC07Sharpened Nail
+
+UC08Stag Station
+
+UC09
+
+UC10
+
+CC04Old Nail
+
+CC03
+
+CC05
+type: Land => Land — Cave
+cost: {1} => 
+rules_text:  => {T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+
+CC06Uncharted Cave
+
+CL07Clouded Subcanyon
+
+CL09Crystalized Mine
+
+CL05Exuberant Tunnels
+
+CL06Fossilized Depths
+
+CL04Fungous Chambers
+
+CL08Overgrown Undergarden
+
+CL02Ruinous Crossways
+
+CL01Sacred Cemetery
+
+CL03Tainted Caverns
+
+CL10Undercity Canals
+
+RMGreat Knight Ze'mer
+
+RRGrimm's Unending Cycle
+
+RGCloth's Morbid Deathwish
+
+RBZote's Dangerous Arrogance
+
+RWSeer's Fated Ascension
+rules_text: 
+Search your library for an Equipment or Plains card, reveal that card, put it into your hand, then shuffle.
+Until end of turn, whenever an Equipment you control enters, you may attach it to target creature you control.
+Put a +1/+1 counter on each equipped creature you control. => 
+Search your library for an Equipment or Plains card, reveal it, put it into your hand, then shuffle.
+Until end of turn, whenever an Equipment you control enters, you may attach it to target creature you control.
+Put a +1/+1 counter on each equipped creature you control.
+special_text: 
+Search your library for an Equipment or Plains card, reveal that card, put it into your hand, then shuffle.
+Until end of turn, whenever an Equipment you control enters, you may attach it to target creature you control.
+Put a +1/+1 counter on each equipped creature you control. => 
+Search your library for an Equipment or Plains card, reveal it, put it into your hand, then shuffle.
+Until end of turn, whenever an Equipment you control enters, you may attach it to target creature you control.
+Put a +1/+1 counter on each equipped creature you control.
+
+RUQuirrel's Lost Purpose
+
+Godseeker of the Pantheons
+cost: {2}{W} => {4}{W}
+rules_text: {W}{U}{B}{R}{G}: => Whenever another legendary permanent is put into the graveyard from anywhere, exile it. For as long as it remains exiled, you may cast that card. If you do, it enters with a finality counter on it.
+The first legendary spell you cast each turn costs {W}{U}{B}{R}{G} less to cast. [i](This can reduce generic costs.)[/i]
+pt:  => 3/5
+
+CW12Radiance's Grasp
+
+Perfect Forging
+
+Last Stag, Faithful Carrier
+rules_text: Trample
+Whenever Last Stag attacks, reveal cards from the top of your library until you reveal two land cards. Put those cards into your hand and the rest on the bottom of your library in a random order. If Last Stag was saddled this turn, put that land onto the battlefield instead.
+Saddle 2 => Trample
+Whenever Last Stag attacks, reveal cards from the top of your library until you reveal two land cards. Put those cards into your hand and the rest on the bottom of your library in a random order. If Last Stag was saddled this turn, put those lands onto the battlefield instead.
+Saddle 2
+
+Tough Claw
+rules_text: Double strike
+Whenever this creature deals combat damage, double its power until end of turn. => Double strike, haste
+Whenever this creature deals combat damage, double its power until end of turn.
+
+CH02Crawling Dirtcarver
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CH01King's Construct added.
