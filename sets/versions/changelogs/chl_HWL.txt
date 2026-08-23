@@ -1,4 +1,515 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+CW03Hiveling Worker added.
+CW11Weaver Seals added.
+CW13Fool's Doom added.
+CU02Archivebound Uoma added.
+CU04Acidic Obble added.
+CB01 Lost Husk added.
+CB02 Vengeful Pestfly added.
+CB03 Garden Desecrator added.
+CB04 Sharp Shadow added.
+CB05 Voidborn Tendrils added.
+CB06 Aspid Mother added.
+CB07Brooding Mawlek added.
+CB08 Void Infusion added.
+CB09 Undying Determination added.
+CB10Down the Well added.
+CB12Shatter Mask added.
+CG11Traitors Revolt added.
+CG13Wander the Waterways added.
+CH05Mosskin Vagabond added.
+UW01Xero, Resting Treachery added.
+UW03Lost Kin, Broken Vessel added.
+UW04Salubra, Charm Lover added.
+UW05Stalwart Shell added.
+UW06Farkingdom Challenger added.
+UW07Tiso, Wandering Warrior added.
+UW10 added.
+UU03The Flukemother added.
+UU04Gorb, the Ascended Mind added.
+UU06Soul Eater added.
+UU08Reflections in the Dark added.
+UU09Soul Totem added.
+UB02Bretta added.
+UB03Midwife added.
+UB04Confessor Jiji added.
+UB05Fury of the Fallen added.
+UB10Grim Dreams added.
+UB11City's Edict added.
+UR01The Crystal Guardian added.
+UR02Sly, Geo Sage added.
+UR03Hornet, Princess Protector added.
+UR07Quick Focus added.
+UR08Maskbound added.
+UG02Grubfather, Distraught Dad added.
+UG03Willow, Voracious Eater added.
+UG04Marmu, Garden Protector added.
+UG05Hiveblood added.
+UG11Rancid Egg added.
+UC01Steel Soul Jinn added.
+UC02Mace Bug added.
+UC03Soulcatcher added.
+UC05Charm Notch added.
+UC06Cornifer's Map added.
+CC03Heavy Blow added.
+CC05Ruinous Crossways added.
+CL02Howling Outercliffs added.
+CL03Infected Caverns added.
+RR01Grimm's Unending Cycle added.
+RG01Cloth's Morbid Deathwish added.
+RB03Zote's Dangerous Arrogance added.
+RU08Quirrel's Lost Purpose added.
+RM04Last Stag, Faithful Carrier added.
+RR02Tough Claw added.
+RM02Monomon, the Teacher added.
+RB02Nosk, Wearer of Faces added.
+RM03Rest at Last added.
+MC01Pale Nail added.
+RC01Channeled Nail added.
+MW01The White Lady, Pale Root added.
+MW02The Radiance, Absolute added.
+MU01 added.
+MU02Lifeblood Incarnate added.
+MB01The Vessel, Hallownest's Hope added.
+MB02Opening of the Black Egg added.
+MR01 added.
+MR02The Nightmare Heart added.
+MG01 added.
+MG02The Mind of Unn added.
+MM02Cornifer, the Wayfaring added.
+RM06Soul Master of the Sanctum added.
+RM09 added.
+RM08God Tamer added.
+RM10The Hunter added.
+RM01Nailmsmith Folly added.
+RM07 added.
+MM01Grimm, Troupemaster added.
+RU06 added.
+RU02Lurien, the Watcher added.
+RU07 added.
+RU04 added.
+RU05 added.
+RU03The Collector added.
+RU01The Snail Shaman added.
+RR05 added.
+RR08 added.
+RR06 added.
+RR07 added.
+RR03 added.
+RR04 added.
+RM11The Hollow Knight added.
+RB01Zote, the Mighty added.
+RB04Herrah, the Beast added.
+RB06 added.
+RB07 added.
+RB08 added.
+MB03The Shade Lord added.
+RW03 added.
+RW01Marissa, City's Last Singer added.
+RW02Godseeker of the Pantheons added.
+RW04 added.
+RW05 added.
+RW06 added.
+RW07Ashenshell Duel added.
+RW08Seer's Fated Ascension added.
+RM05Markoth added.
+RG02 added.
+RG04 added.
+RG03 added.
+RG05 added.
+RG06 added.
+RG07 added.
+RG08 added.
+RC02The Dream Nail added.
+RB09 added.
+RW09 added.
+RU09 added.
+RR09 added.
+RG09 added.
+RM12 added.
+RC03Dirtmouth, the Fading Town added.
+RM13 added.
+MW03 added.
+M added.
+M added.
+M added.
+M added.
+MM03 added.
+
+CW03 removed.
+CW11 removed.
+CW13 removed.
+CU02 removed.
+CU04Acidic Obbles removed.
+CB01Lost Husk removed.
+CB02Vengeful Pestfly removed.
+CB03Garden Desecrator removed.
+CB04Sharp Shadow removed.
+CB05Voidborn Tendrils removed.
+CB06 removed.
+CB07 removed.
+CB08Void Infusion removed.
+CB09Undying Determination removed.
+CB10 removed.
+CB12Shattermask removed.
+CG11Queen's Claim removed.
+CG13 removed.
+CH05 removed.
+UW01Revek, Glade's Guardian removed.
+UW03 removed.
+UW04 removed.
+UW05 removed.
+UW06 removed.
+UW07 removed.
+UW10Kingsmould removed.
+UU03 removed.
+UU04 removed.
+UU06 removed.
+UU08 removed.
+UU09 removed.
+UB02 removed.
+UB03 removed.
+UB04 removed.
+UB05 removed.
+UB10 removed.
+UB11Pale King's Edict removed.
+UR01 removed.
+UR02 removed.
+UR03 removed.
+UR07 removed.
+UR08 removed.
+UG02 removed.
+UG03 removed.
+UG04 removed.
+UG05 removed.
+UG11 removed.
+UC01 removed.
+UC02 removed.
+UC03 removed.
+UC05 removed.
+UC06 removed.
+UC10 removed.
+CC03 removed.
+CC05 removed.
+CL02Ruinous Crossways removed.
+CL03Tainted Caverns removed.
+RMGreat Knight Ze'mer removed.
+RRGrimm's Unending Cycle removed.
+RGCloth's Morbid Deathwish removed.
+RBZote's Dangerous Arrogance removed.
+RWSeer's Fated Ascension removed.
+RUQuirrel's Lost Purpose removed.
+Godseeker of the Pantheons removed.
+Perfect Forging removed.
+Last Stag, Faithful Carrier removed.
+Tough Claw removed.
+Monomon, the Teacher removed.
+
+CW01Lightseed
+rules_text:  => When this creature dies, you gain 2 life.
+{3}, Sacrifice this creature:
+pt:  => 0/1
+
+CW02Dreamwielder Moth
+type: Creature — Moth Warrior => Enchantment Creature — Moth Warrior
+
+CW04Steady Body
+rules_text: Charmed {1}{W} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.)[/i]
+Whenever equipped creature attack, you gain 1 life and scry 1. [i](Look at the top card of your library. You may put it on the bottom.)[/i]
+Equip {1} => Charmed {1}{W} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)[/i]
+Whenever equipped creature attack, you gain 1 life and scry 1. [i](Look at the top card of your library. You may put it on the bottom.)[/i]
+Equip {2}
+
+CW06Horned Husk
+rules_text: When this creature dies, create a 2/2 white Insect Zombie creature token. 
+Restless [i](When this creature dies, return it to the battlefield tapped under its owner's control with a finality counter on it. If a creature with a finality counter on it would die, exile it instead.)[/i] => When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Restless [i](When this creature dies, return it to the battlefield tapped under its owner's control with a finality counter on it. If a creature with a finality counter on it would die, exile it instead.)[/i]
+pt: 1/1 => 3/2
+
+CW07Grubberfly's Elegy
+rules_text: Charmed {2}{W}{W} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.)[/i]
+Equipped creature gets +1/+1 and has flying.
+Equip {3} => Charmed {2}{W}{W} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)[/i]
+Equipped creature gets +1/+1, has flying and vigilance, and is a Grub in addition to its other types.
+Equip {3}
+
+CW08Moth of the Dreamshrine
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature you control gets +1/+1 and gains vigilance until end of turn.
+Put a +1/+1 counter on target creature you control. It gains vigilance until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Target creature you control gets +1/+1 and gains vigilance until end of turn.
+IV — Put a +1/+1 counter on target creature you control. It gains vigilance until end of turn.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Target creature you control gets +1/+1 and gains vigilance until end of turn.
+Put a +1/+1 counter on target creature you control. It gains vigilance until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Target creature you control gets +1/+1 and gains vigilance until end of turn.
+IV — Put a +1/+1 counter on target creature you control. It gains vigilance until end of turn.
+​
+
+CW09Giant Hopper
+pt: 4/6 => 5/5
+
+CH01King's Construct
+pt: 2/4 => 3/2
+
+CH08Overgrown Husk
+pt: 2/2 => 1/2
+
+CU03Spelltwister
+rules_text: Charmed {1}{U}{U} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.)[/i]
+Equipped creature gets +0/+1 and has “Whenever this creature attacks, draw a card, then discard a card.”
+Equip {2} => Charmed {1}{U}{U} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)[/i]
+Equipped creature gets +0/+1 and has “Whenever this creature attacks, draw a card, then discard a card.”
+Equip {2}
+
+CU05Soulsyphon Snail
+rules_text: 
+Scry 2 [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+Draw a card, then discard a card.
+Create a 2/2 black Horror creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw a card, then discard a card.
+II — [i]“I can hear it...The whispering of their souls...”
+—The Soul Master[/i]
+III — Tap target creature an opponent controls. Put two stun counters on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+special_text: 
+Scry 2 [i](Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)[/i]
+Draw a card, then discard a card.
+Create a 2/2 black Horror creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw a card, then discard a card.
+II — [i]“I can hear it...The whispering of their souls...”
+—The Soul Master[/i]
+III — Tap target creature an opponent controls. Put two stun counters on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+CB11Peek into Dreams
+
+CR03Sprintmaster
+rules_text: Charmed {2}{R} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.)[/i]
+Equipped creature gets +1/+0 and has haste.
+Equip {2} => Charmed {2}{R} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)[/i]
+Equipped creature gets +1/+0 and has haste.
+Equip {2}
+
+CR05Quick Slash
+rules_text: Charmed {2}{R}{R} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.)[/i]
+Equipped creature gets +2/+1. During your turn, it also has first strike.
+Equip {3} => Charmed {2}{R}{R} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)[/i]
+Equipped creature gets +2/+1. During your turn, it also has first strike.
+Equip {2}
+
+CR11
+rules_text: Create two 2/1 black Elemental creature tokens with “When this creature dies, you may surveil 1.” [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+Flashback {5}{R}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => 
+Flashback {5}{R}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+CH07
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you cast your first noncreature spell each turn, draw a card. Then discard a card unless you've cast that spell from anywhere other than your hand. => Whenever you cast a noncreature spell, draw a card. Then, discard a card unless you've cast that spell from anywhere other than your hand.
+
+CH09Disciple of the Nail
+rules_text: At the beginning of combat on your turn, another target creature you control gets +1/+0 and gains. => At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn. If that creature is equipped, it also gains first strike until end of turn.
+
+CG02Shambling Mosshusk
+pt: 1/2 => 1/1
+
+CG03
+rules_text:  => {1}{G}, Exile this card from your graveyard:
+
+CG09Lushcove Duel
+
+CH04Shroomling
+rules_text: Haste
+{1}{RG}, Sacrifice this creature: Draw a card and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Haste
+{2}{RG}, Sacrifice this creature: Draw a card and create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+UM07Elder Hu, Tending Sage
+rules_text: Trample
+Whenever you descend for the first time each turn, put a +1/+1 counter on Elder Hu, Tending Sage. Then if there's six or more permanent cards in your graveyard, draw a card. => Trample
+Whenever you descend for the first time each turn, put a +1/+1 counter on Elder Hu, Tending Sage. Then if there's six or more permanent cards in your graveyard, draw a card. [i](You descend whenever one or more permanents are put into your graveyard from anywhere.)[/i]
+
+UM02Spiritblade of the Glade
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Flying
+You gain 1 life and draw a card.
+Create a 2/2 white Spirit creature token with flying.
+[i]“I assure you wanderer, my nail is sharp and I'll not hold back.”[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+ Flying
+I, II — You gain 1 life and draw a card.
+III, IV — Create a 2/2 white Spirit creature token with flying.
+[i]“I assure you wanderer, my nail is sharp and I'll not hold back.”[/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Flying
+You gain 1 life and draw a card.
+Create a 2/2 white Spirit creature token with flying.
+[i]“I assure you wanderer, my nail is sharp and I'll not hold back.”[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+ Flying
+I, II — You gain 1 life and draw a card.
+III, IV — Create a 2/2 white Spirit creature token with flying.
+[i]“I assure you wanderer, my nail is sharp and I'll not hold back.”[/i]
+​
+
+UM10The Massive Mosscharger
+rules_text: Trample
+When The Massive Mosscharger enters, create two 1/1 green Insect creature tokens.
+The Massive Mosscharger's power is equal to the number of creatures you control. => Trample
+When The Massive Mosscharger enters, create two 1/1 green Insect Plant creature tokens.
+The Massive Mosscharger's power is equal to the number of creatures you control.
+
+UM04Waterways Ambush
+cost: {U}{B} => {1}{U}{B}
+
+UM09The Hive Knight
+rules_text: Whenever another creature you control enters, you gain 1 life. If it's legendary, put a +1/+1 counter on it. => First strike
+Whenever another creature you control enters, you gain 1 life. If it's legendary, put a +1/+1 counter on it.
+
+CG05Shape of Unn
+rules_text: Charmed {3}{G} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect and attached this to it.)[/i]
+Equipped creature gets +2/+1, has “Whenever this creature attacks, target creature gain trample until end of turn.”, and is a Slug in addition to its other types.
+Equip {3} => Charmed {3}{G} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)[/i]
+Equipped creature gets +2/+1, has “Whenever this creature attacks, target creature gain trample until end of turn.”, and is a Slug in addition to its other types.
+Equip {3}
+
+UW02Elderbug, Lonely Guide
+rules_text: Whenever another creature you control enters, surveil 1. If you put a legendary card in the graveyard this way, put a +1/+1 counter on another target creature you control. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => Whenever Elderbug or another creature you control enters, surveil 1. If you put a legendary card in the graveyard this way, put a +1/+1 counter on target creature you control. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+UU01Lemm, Relic Seeker
+type: Legendary Creature — Insect Scout => Legendary Creature — Insect Advisor
+rules_text:  => Whenever another artifact or enchantment you control enters, create a tapped Treasure token. This ability triggers once each turn. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+pt:  => 1/3
+
+UU02Quirrel, Monomon's Adept
+
+UU05
+type: Creature => Enchantment Creature — Saga
+cost:  => {1}{U}
+rules_text: Defender
+{T}: Add {U}. This mana can't be spent to cast noncreature spells.
+Whenever you cast a spell from anywhere other than your hand, untap this creature. This ability triggers once each turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​
+pt:  => 0/3
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​
+
+UU07
+type: Sorcery => Artifact Creature — Construct
+rules_text: Exile target creature or enchantment you control, then return it to the battlefield under its owner's control. If that permanent is a Saga, you may put a lore counter on it. [i](The first chapter triggers, then the next one.)[/i] => 
+
+UU10
+type:  => Instant
+cost:  => {1}{U}{U}
+rules_text:  => Counter target spell. Its controller mills cards equal to its mana cost.
+
+UB09Cast Down
+
+UR04Divine, Charm Eater
+
+UR06
+type: Creature => Enchantment Creature — Saga
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​
+
+UG01Tuk, Undercity Explorer
+rules_text: When Tuk, Undercity Explorer enters, mill X cards.
+When Tuk dies, return up to one other card from your graveyard to your hand. => When Tuk, Undercity Explorer enters, mill X cards and put X +1/+1 counters on him.
+pt: 3/2 => 2/2
+
+UG06
+rules_text: When this creature enters, mill a card.
+{T}, Exile a card from your graveyard: Add a mana of any color. => When this creature enters, mill two cards.
+{T}, Exile a card from your graveyard: Add a mana of any color.
+
+UG07
+type: Creature => Enchantment Creature — Saga
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​
+
+UG09
+cost:  => {4}{G}{G}
+
+UG10Unn's Blessing
+cost:  => {2}{G}
+
+UB12
+type:  => Sorcery
+
+UW12
+
+UC04Geo Rock
+rules_text: {T}, Sacrifice this artifact: Add a mana of any color.
+{5}, Exile this card from your graveyard: => {T}, Sacrifice this artifact: Add a mana of any color.
+{5}, Exile this card from your graveyard: Exile up to one target card from a graveyard. Draw a card.
+
+UC07Sharpened Nail
+cost: {3} => {2}
+rules_text:  => Equipped creature gets +1/+1 and has vigilance and haste.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+UC09
+type: Land => Land — Cave
+rules_text:  => {T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast .
+{2}, {T}, Sacrifice this land: Exile each player's graveyard.
+
+CC01Encased Grub
+type: Artifact Creature — Insect Construct => Artifact Creature — Construct
+rules_text: When this creature dies, create a 1/1 green Insect creature token.
+{2}, {T}: Put target card from a graveyard on the bottom of its owner's library. => When this creature dies, create a 1/1 green Grub creature token.
+{2}, {T}: Put target card from a graveyard on the bottom of its owner's library.
+pt: 0/3 => 0/2
+
+CC02Royal Tram
+
+CC04Old Nail
+rules_text: Equipped creature gets +1/+1.
+Equip {0}. Activate only once each turn. => Equipped creature gets +1/+1.
+Equip {0}. Activate only once each turn. [i]({0}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+CC06Uncharted Cave
+
+CL07Clouded Subcanyon
+
+CL09Crystalized Mine
+
+CL05Exuberant Tunnels
+
+CL06Fossilized Depths
+
+CL04Fungous Chambers
+
+CL08Overgrown Undergarden
+
+CL01Sacred Cemetery
+
+CL10Undercity Canals
+
+CW12Radiance's Grasp
+
+CH02Crawling Dirtcarver
+pt: 1/1 => 
+
+
+VERSION 4 CHANGELOG
 ====================
 
 No changes.
