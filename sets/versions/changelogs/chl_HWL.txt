@@ -1,4 +1,769 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+CW08Grubberfly's Elegy added.
+CW09Moth of the Dreamshrine added.
+CW11Giant Hopper added.
+CW12Palace Buzzsaws added.
+CW13Weaver Seals added.
+CW15Fool's Doom added.
+CH04Overgrown Husk added.
+CH07Escaped Vessel added.
+CH06Ground Fluke added.
+CB06 Mossfly added.
+CB13Cauldron of Shadows added.
+CR04Armored Fool added.
+CU05Ooma added.
+CG05Leafpath Traveller added.
+CG06Wandering Mossknight added.
+CG08Loodle Herd added.
+CH10Mosskin Vagabond added.
+CH05Shroomling added.
+UM01Revek, the Spiritblade added.
+UW08Mila, Humming Miner added.
+CW14Radiance's Grasp added.
+RM08God Tamer, Fool's Trial added.
+RU04Eyeless Weaper added.
+RG02Bardoon, Ageless Witness added.
+RU09Unavoidable Fate added.
+CU07Flukemunga added.
+CU03Acidic Obble added.
+CU09Lifeblood Infusion added.
+CU04 added.
+CU02 added.
+CU12Monomon's Wisdom added.
+CU10Bottle Up added.
+CU13 added.
+CU14 added.
+CU15Profane Study added.
+CU08 added.
+CH08 added.
+UM02 added.
+CR12 added.
+
+CW07Grubberfly's Elegy removed.
+CW08Moth of the Dreamshrine removed.
+CW09Giant Hopper removed.
+CW10Palace Buzzsaws removed.
+CW11Weaver Seals removed.
+CW13Fool's Doom removed.
+CH08Overgrown Husk removed.
+CU02Archivebound Uoma removed.
+CU03Spelltwister removed.
+CU04Acidic Obble removed.
+CU05Soulsyphon Snail removed.
+CU06Flukmunga removed.
+CU07Lifeblood Infusion removed.
+CU08Bottle Up removed.
+CU13Profane Study removed.
+CH06Escaped Vessel removed.
+CH10Ground Fluke removed.
+CB06 Aspid Mother removed.
+CB13 removed.
+CR04 removed.
+CR07Glimback removed.
+CR12Abrade removed.
+CH07 removed.
+CG04 removed.
+CG06 removed.
+CG08 removed.
+CH05Mosskin Vagabond removed.
+CH04Shroomling removed.
+UM01The Grey Mourner removed.
+UM02Spiritblade of the Glade removed.
+CU09Echoes of the Past removed.
+CU10Monomon's Wisdom removed.
+CU11Encase in Crystal removed.
+CU12Lost in the Fog removed.
+UW08 removed.
+CW12Radiance's Grasp removed.
+RM08God Tamer removed.
+RU04 removed.
+RG02 removed.
+RU09 removed.
+
+CW01Lightseed
+rules_text: When this creature dies, you gain 2 life.
+{3}, Sacrifice this creature: => When this creature dies, you gain 2 life.
+{2}, Sacrifice this creature: Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+pt: 0/1 => 1/1
+
+CW03Hiveling Worker
+
+CW05Shielded Husk
+
+CB01 Lost Husk
+
+CB02 Vengeful Pestfly
+
+CB03 Garden Desecrator
+
+CB04 Sharp Shadow
+
+CB05 Voidborn Tendrils
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+ Menace
+I, II — Mill two cards. [i](Put the top two cards of your library into your graveyard.)[/i]
+III — Return another creature from your graveyard to your hand.
+​ => 
+pt: 6/5 => 5/5
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+ Menace
+I, II — Mill two cards. [i](Put the top two cards of your library into your graveyard.)[/i]
+III — Return another creature from your graveyard to your hand.
+​ => 
+
+CB07Brooding Mawlek
+
+CB08 Void Infusion
+
+CB09 Undying Determination
+
+CB10Down the Well
+
+CB11Peek into Dreams
+
+CB12Shatter Mask
+cost: {B} => {1}{B}
+
+CH03Grimmkin Master
+
+CR01Leaping Husk
+
+CR03Sprintmaster
+
+CR02
+
+CR05Quick Slash
+rules_text: Charmed {2}{R}{R} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)[/i]
+Equipped creature gets +2/+1. During your turn, it also has first strike.
+Equip {2} => Charmed {2}{R}{R} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)[/i]
+Equipped creature gets +2/+1. If equipped creature has another Equipment attached to it, it also gains first strike.
+Equip {2}
+
+CR06Grimmvessel
+
+CR08Lumafly Shock
+type: Instant => Sorcery
+cost: {R} => {1}{R}
+rules_text: Lumafly Shock deals 2 damage to target creature. If you cast this spell from your graveyard, it deals 4 damage to target creature instead.
+Flashback {4}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Lumafly Shock deals 2 damage to any target.
+Runback {4}{R} [i](You may cast a copy of this card by exiling it from your graveyard and paying its runback cost.)[/i]
+
+CR09Fool's Resolve
+rules_text: Target creature gets +3/+1 and gains trample until end of turn. You may discard a card. If you do, draw a card. => Choose one — 
+• Target creature gets +3/+1 and gains trample until end of turn. 
+• Destroy target artifact.
+
+CR10Dance of Flames
+
+CR11
+type: Sorcery => Instant
+rules_text: 
+Flashback {5}{R}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => CR11 deals 4 damage to target creature. If you descended this turn, CR11 also deals 2 damage to that creature's controller. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+
+CR13Violent Infection
+
+CH09Disciple of the Nail
+
+CG01Fool Eater
+
+CG02Shambling Mosshusk
+rules_text: {T}: Add {G}. If this creature has a finality counter on it, add {G}{G} instead.
+Restless [i](When this creature dies, return it to the battlefield tapped under its owner's control with a finality counter on it. If a creature with a finality counter on it would die, exile it instead.)[/i] => {T}, Mill a card: Add {G}.
+Restless [i](When this creature dies, return it to the battlefield tapped under its owner's control with a finality counter on it. If a creature with a finality counter on it would die, exile it instead.)[/i]
+
+CG03
+rules_text: {1}{G}, Exile this card from your graveyard: => 
+
+CG07Fungal Ogre
+rules_text: When this creature enters and at the beginning of your upkeep, mill a card. => {2}{G}, Exile this card from your graveyard
+pt: 5/6 => 5/5
+
+CG09Lushcove Duel
+
+CG10Challenge the Mantis Lords
+rules_text: Target creature you control deals damage equal to its power to target creature an opponent controls. If this spell was cast from your graveyard, the creature you control deals twice that much damage instead.
+Flashback {4}{G}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Target creature you control deals damage equal to its power to target creature an opponent controls.
+
+CG11Traitors Revolt
+
+CG13Wander the Waterways
+rules_text: Mill three cards. Then you may return a creature or land card from your graveyard to your hand. => Mill four cards. Then you may return a creature or land card from your graveyard to your hand.
+Runback {2}{G}{G} [i](You may cast a copy of this card by exiling it from your graveyard and paying its runback cost.)[/i]
+
+UM07Elder Hu, Tending Sage
+
+UM15The Traitor Lord
+
+UM17Nailmasters Oro and Mato
+rules_text: Double strike
+Whenever this creature attacks, attach up to one target Equipment you control to it. If that Equipment was attached to another creature you control, it gains indestructible until your next turn. => Double strike
+Whenever this creature attacks, attach up to one target Equipment you control to it. If that Equipment was attached to another creature you control, that creature gains indestructible until end of turn.
+
+UM08Pride of the Mantis Tribe
+
+UM10The Massive Mosscharger
+
+UM18Nailmaster's Glory
+
+UM19The Dung Defender
+
+UM20Isma's Memory
+
+UM11The False Knight
+
+UM12Corpses of the Kingdom
+
+UM05Brumm, Troupe's Banisher
+pt: 2/2 => 2/1
+
+UM06Light Up the Ritual
+
+UM03The Fluke Hermit
+
+UM04Waterways Ambush
+
+UM13Uumuu, Monomon's Guard
+
+UM14 Archived Guidance
+rules_text: Draw three cards. Then, discard two cards unless you discard an instant or sorcery.
+Flashback {2}{U}{R}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Draw three cards. Then, discard two cards unless you discard an instant or sorcery.
+Runback {2}{U}{R}{R} [i](You may cast a copy of this card by exiling it from your graveyard and paying its runback cost.)[/i]
+
+UM16Overtake by Infection
+
+UM09The Hive Knight
+rules_text: First strike
+Whenever another creature you control enters, you gain 1 life. If it's legendary, put a +1/+1 counter on it. => Vigilance
+Whenever another creature you control enters, you gain 1 life. If it's legendary, put a +1/+1 counter on it.
+
+CG12Lore of Greenpath
+
+CG05Shape of Unn
+rules_text: Charmed {3}{G} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)[/i]
+Equipped creature gets +2/+1, has “Whenever this creature attacks, target creature gain trample until end of turn.”, and is a Slug in addition to its other types.
+Equip {3} => Charmed {3}{G} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)[/i]
+Equipped creature gets +2/+1, has “Whenever this creature attacks, target creature gains trample until end of turn.”, and is a Slug in addition to its other types.
+Equip {3}
+
+UW01Xero, Resting Treachery
+
+UW02Elderbug, Lonely Guide
+
+UW03Lost Kin, Broken Vessel
+
+UW04Salubra, Charm Lover
+
+UW05Stalwart Shell
+
+UW06Farkingdom Challenger
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => 
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => 
+
+UW07Tiso, Wandering Warrior
+
+UW09
+
+UW10
+
+UW11Kingsbrand
+
+UU01Lemm, Relic Seeker
+rules_text: Whenever another artifact or enchantment you control enters, create a tapped Treasure token. This ability triggers once each turn. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => 
+
+UU02Quirrel, Monomon's Adept
+
+UU03The Flukemother
+
+UU04Gorb, the Ascended Mind
+type: Legendary Creature — Spirit => Legendary Enchantment Creature — Spirit
+
+UU05
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => 
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => 
+
+UU06Soul Eater
+
+UU07
+
+UU08Reflections in the Dark
+
+UU09Soul Totem
+
+UU10
+rules_text: Counter target spell. Its controller mills cards equal to its mana cost. => Counter target spell. Its controller mills cards equal to that spell's mana value.
+
+UU11
+
+UB01Milibelle, Sketchy Banker
+
+UB02Bretta
+type: Legendary Creature => Legendary Creature — Bettle Citizen
+cost:  => {1}{B}
+rules_text:  => Whenever you descend, each opponent loses 1 life and you gain 1 life.
+
+UB03Midwife
+pt:  => 4/1
+
+UB04Confessor Jiji
+
+UB05Fury of the Fallen
+
+UB06
+
+UB07
+
+UB08
+
+UB09Cast Down
+
+UB10Grim Dreams
+
+UB11City's Edict
+
+UR01The Crystal Guardian
+
+UR02Sly, Geo Sage
+rules_text:  => When Sly, Geo Sage enters, you may discard a card. If you do, create a tapped Treasure token.
+
+UR03Hornet, Princess Protector
+
+UR04Divine, Charm Eater
+
+UR05
+
+UR06
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => 
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => 
+
+UR07Quick Focus
+
+UR08Maskbound
+rules_text: . => Gain control of target creature an opponent control until end of turn, it gains haste until end of turn. Untap it. When you lose control of that creature, destroy target Equipment attached to it.
+
+UR09
+
+UR10
+
+UR11
+
+UG01Tuk, Undercity Explorer
+
+UG02Grubfather, Distraught Dad
+
+UG03Willow, Voracious Eater
+rules_text:  => Whenever Willow, Voracious Eater enters or attacks, you may sacrifice another creature, if you do, put a +1/+1 counter on Willow.
+Willow can't be blocked with creatures with lesser power.
+
+UG04Marmu, Garden Protector
+
+UG05Hiveblood
+
+UG06
+
+UG07
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => 
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — ​
+II — ​
+III — ​ => 
+
+UG08
+
+UG09
+
+UG10Unn's Blessing
+
+UG11Rancid Egg
+
+UB12
+
+UB13
+
+UB14
+
+UB15
+
+UG13
+
+UG12
+
+UG14
+
+UW12
+
+UW13
+
+UW14
+
+UU12
+
+UU13
+
+UU14
+
+UR12
+
+UR13
+
+UR14
+
+UC01Steel Soul Jinn
+
+UC02Mace Bug
+
+UC03Soulcatcher
+
+UC04Geo Rock
+
+UC05Charm Notch
+rules_text:  => {T}: Add {C}.
+{2}, {T}: Search your library for a
+
+UC06Cornifer's Map
+
+UC07Sharpened Nail
+
+UC08Stag Station
+
+UC09
+
+CC01Encased Grub
+
+CC02Royal Tram
+
+CC04Old Nail
+
+CC03Heavy Blow
+
+CC05Ruinous Crossways
+
+CC06Uncharted Cave
+
+CL07Clouded Subcanyon
+
+CL09Crystalized Mine
+
+CL05Exuberant Tunnels
+
+CL06Fossilized Depths
+
+CL04Fungous Chambers
+
+CL08Overgrown Undergarden
+
+CL02Howling Outercliffs
+
+CL01Sacred Cemetery
+
+CL03Infected Caverns
+
+CL10Undercity Canals
+
+RR01Grimm's Unending Cycle
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Progress {R} [i]({R}: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+I, II — Target creature you control gets +2/+0 and gains trample until the end of the turn.
+III — You may sacrifice a creature. If you do, Grimm's Unending Cycle deals damage equal to the sacrificed creature's power to any target.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Progress {R} [i]({R}: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+Target creature you control gets +2/+0 and gains trample until the end of the turn.
+You may sacrifice a creature. If you do, Grimm's Unending Cycle deals damage equal to the sacrificed creature's power to any target.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Progress {R} [i]({R}: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+I, II — Target creature you control gets +2/+0 and gains trample until the end of the turn.
+III — You may sacrifice a creature. If you do, Grimm's Unending Cycle deals damage equal to the sacrificed creature's power to any target.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Progress {R} [i]({R}: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+Target creature you control gets +2/+0 and gains trample until the end of the turn.
+You may sacrifice a creature. If you do, Grimm's Unending Cycle deals damage equal to the sacrificed creature's power to any target.
+​
+
+RG01Cloth's Morbid Deathwish
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+​
+I — ​
+​ => 
+Create a 2/2 colorless Insect creature token.
+Put a +1/+1 counter on target creature you control, then, double the number of +1/+1 counters on it.
+The creature you control with the highest power fights target creature you don't control. Then, sacrifice that creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+​
+I — ​
+​ => 
+Create a 2/2 colorless Insect creature token.
+Put a +1/+1 counter on target creature you control, then, double the number of +1/+1 counters on it.
+The creature you control with the highest power fights target creature you don't control. Then, sacrifice that creature.
+
+RB03Zote's Dangerous Arrogance
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Progress [i](: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+I — ​
+II, III — ​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Progress [i](: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Progress [i](: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+I — ​
+II, III — ​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Progress [i](: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+
+RU08Quirrel's Lost Purpose
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Progress {U} [i]({U}: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+I — Return target creature you don't control to its owner's hand.
+II, III — Surveil 2.
+IV — Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Progress {U} [i]({U}: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+Return target creature you don't control to its owner's hand.
+Surveil 2.
+Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Progress {U} [i]({U}: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+I — Return target creature you don't control to its owner's hand.
+II, III — Surveil 2.
+IV — Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Progress {U} [i]({U}: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+Return target creature you don't control to its owner's hand.
+Surveil 2.
+Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy.
+
+RM04Last Stag, Faithful Carrier
+
+RR02Tough Claw
+
+RM02Monomon, the Teacher
+
+RB02Nosk, Wearer of Faces
+
+RM03Rest at Last
+
+MC01Pale Nail
+
+RC01Channeled Nail
+
+MW01The White Lady, Pale Root
+
+MW02The Radiance, Absolute
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+ Flying, indestructible
+I, II, III — Exile target nonland permanent until The Radiance, Absolute leaves the battlefield. You gain 2 life.
+IV — Exile The Radiance, Absolute. Then, you may cast her from exile transformed without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+ Flying, indestructible
+Exile target nonland permanent until The Radiance, Absolute leaves the battlefield. You gain 2 life.
+Exile The Radiance, Absolute. Then, you may cast her from exile transformed without paying its mana cost.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+ Flying, indestructible
+I, II, III — Exile target nonland permanent until The Radiance, Absolute leaves the battlefield. You gain 2 life.
+IV — Exile The Radiance, Absolute. Then, you may cast her from exile transformed without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+ Flying, indestructible
+Exile target nonland permanent until The Radiance, Absolute leaves the battlefield. You gain 2 life.
+Exile The Radiance, Absolute. Then, you may cast her from exile transformed without paying its mana cost.
+
+MU01
+
+MU02Lifeblood Incarnate
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i] => 
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i] => 
+
+MB01The Vessel, Hallownest's Hope
+
+MB02Opening of the Black Egg
+
+MR01
+
+MR02The Nightmare Heart
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Indestructible
+I — The Nightmare Heart deals 3 damage to each other creature.
+II — Until end of turn, whenever a creature you control enters, it gets +1/+0 and gains haste until end of turn.
+III — Exile The Nightmare Heart. Then, you may cast it from exile transformed without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Indestructible
+The Nightmare Heart deals 3 damage to each other creature.
+Until end of turn, whenever a creature you control enters, it gets +1/+0 and gains haste until end of turn.
+Exile The Nightmare Heart. Then, you may cast it from exile transformed without paying its mana cost.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Indestructible
+I — The Nightmare Heart deals 3 damage to each other creature.
+II — Until end of turn, whenever a creature you control enters, it gets +1/+0 and gains haste until end of turn.
+III — Exile The Nightmare Heart. Then, you may cast it from exile transformed without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+Indestructible
+The Nightmare Heart deals 3 damage to each other creature.
+Until end of turn, whenever a creature you control enters, it gets +1/+0 and gains haste until end of turn.
+Exile The Nightmare Heart. Then, you may cast it from exile transformed without paying its mana cost.
+
+MG01
+
+MG02The Mind of Unn
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i] => 
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i] => 
+
+CH02Crawling Dirtcarver
+pt:  => 1/1
+
+MM02Cornifer, the Wayfaring
+
+RM06Soul Master of the Sanctum
+
+RM09
+
+RM10The Hunter
+
+RM01Nailmsmith Folly
+
+RM07
+
+MM01Grimm, Troupemaster
+
+RU06
+
+RU02Lurien, the Watcher
+
+RU07
+
+RU05
+
+RU03The Collector
+
+RU01The Snail Shaman
+cost: {U} => {1}{U}
+pt:  => 1/2
+
+RR05
+
+RR08
+
+RR06
+
+RR07
+
+RR03
+
+RR04
+
+RM11The Hollow Knight
+rules_text: Menace, lifelink
+When The Hollow Knight enters, exile target nonland permanent you don't control. Then, return it to the battlefield tapped with a finality counter on it unless The Hollow Knight has a finality counter on it.
+Restless [i](When this creature dies, return it to the battlefield tapped under its owner's control with a finality counter on it.)[/i] => Menace, lifelink
+When The Hollow Knight enters, exile target nonland permanent. Then, return it to the battlefield tapped unless The Hollow Knight has a finality counter on it.
+Restless [i](When this creature dies, return it to the battlefield tapped under its owner's control with a finality counter on it.)[/i]
+
+RB01Zote, the Mighty
+
+RB04Herrah, the Beast
+
+RB06
+
+RB07
+
+RB08
+
+MB03The Shade Lord
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+ Indestructible
+I, II — Any number of target players each discard a card.
+IV — Exile The Shade Lord. Then, you may cast it from exile transform without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+ Indestructible
+Any number of target players each discard a card.
+Exile The Shade Lord. Then, you may cast it from exile transform without paying its mana cost.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+ Indestructible
+I, II — Any number of target players each discard a card.
+IV — Exile The Shade Lord. Then, you may cast it from exile transform without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+ Indestructible
+Any number of target players each discard a card.
+Exile The Shade Lord. Then, you may cast it from exile transform without paying its mana cost.
+
+RW03
+
+RW01Marissa, City's Last Singer
+
+RW02Godseeker of the Pantheons
+
+RW04
+
+RW05
+
+RW06
+
+RW07Ashenshell Duel
+
+RW08Seer's Fated Ascension
+
+RM05Markoth
+
+RG04
+
+RG03
+
+RG05
+
+RG06
+
+RG07
+
+RG08
+
+RC02The Dream Nail
+
+RB09
+
+RW09
+
+RR09
+
+RG09
+
+RM12
+
+RC03Dirtmouth, the Fading Town
+
+RM13
+
+MW03
+
+M
+
+M
+
+M
+
+M
+
+MM03
+
+CU01Lumafly in a Jar
+rules_text: Flying
+{2}, Sacrifice this creature: Surveil 1, then draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i] => Flying
+{2}, Sacrifice this creature: Draw a card.
+Runback {2}{U} [i](You may cast a copy of this card by exiling it from your graveyard and paying its runback cost. Copies of permanent spells become tokens.)[/i]
+
+
+VERSION 5 CHANGELOG
 ====================
 
 CW03Hiveling Worker added.
