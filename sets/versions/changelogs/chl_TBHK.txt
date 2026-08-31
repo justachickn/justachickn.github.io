@@ -1,4 +1,97 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+Kitchen Blast removed.
+Moment of Respite removed.
+Yokoo and Satou removed.
+Hanako-kun, Toilet Bound removed.
+Kou, Young Exorcist removed.
+Yashiro Nene, Ghost Bound removed.
+Aoi Akane, Presentkeeper removed.
+
+Hanako-kun, Toilet Bound
+pt: 3/3 => 2/3
+
+Minamoto Teru
+rules_text: Haste, Protection from Spirits
+As long as Minamoto Teru is attacking, instant and sorcery spells you control have lifelink and deathtouch. => Haste, Protection from Spirits
+Instant and sorcery spells you control have lifelink, deathtouch and can't be the target of spells or abilities your opponent's control unless they pay 2 life.
+
+Kou, Young Exorcist
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+If a noncombat source you control would deal damage to an opponent or a permanent an opponent controls, you may have it deal damage equal to Kou's power instead. If you do, Kou deals that much damage to itself. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+If a noncombat source you control would deal damage to an opponent or a permanent an opponent controls, you may have it deal damage equal to Kou's power instead. If you do, Kou deals that much damage to himself.
+
+Mitsuba, Mystery No3
+rules_text: Flying, Ward—Discard a card
+Whenever an opponent discards a permanent card, create a copy of that card, except it has “Whenever this becomes the target of a spell or ability, sacrifice it” and is an Illusion in addition to its other types. This ability triggers once each turn for each opponent. => Flying, Ward—Discard a card
+Whenever an opponent discards a permanent card, create a copy of that card, except it has “Whenever this becomes the target of a spell or ability, sacrifice it” and is an Illusion in addition to its other types.
+
+Tsukasa, Hanako's Yorishiro
+cost: {3}{B}{R} => {4}{B}{R}
+
+Stitch Together
+
+Tsuchigomori, Mystery No.5
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Trample
+Whenever Tsuchigomori deals combat damage to an opponent, choose a card exiled with it at random and put it in your hand. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Trample
+Whenever Tsuchigomori deals combat damage to an opponent, choose a card exiled with it at random and put it in your hand. Then if there's no cards exiled with him, put a +1/+1 on him.
+
+Nanamine Sakura
+
+Akane Aoi, Rumor Whisperer
+rules_text: At the beginning of your upkeep, scry 1. Then, choose land or nonland. Target opponent guesses whether the top card of your library is a land or a nonland card. If they were wrong, you may cast that card without paying its mana cost. If they were right, mill a card and return Aoi to your hand. => At the beginning of your upkeep, scry 1. Then, choose land or nonland. Target opponent guesses whether the top card of your library is a land or a nonland card. If they were wrong, you may put that card onto the battlefield under your control. If they were right, mill a card and return Aoi to your hand.
+
+Kako, Mystery No.1
+
+Shijima Mei, Mystery No.4
+
+Yako, Mystery No.2
+cost: {R}{G} => {1}{R}{G}
+rules_text: Trample, Soulbond [i](You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)[/i]
+When a creature paired with Yako leaves the battlefield, put three +1/+1 counters on Yako. It gains “Whenever one or more creatures attack you, this creature deals that much damage to target opponent.” => Trample, Soulbond [i](You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)[/i]
+When a creature paired with Yako leaves the battlefield, put three +1/+1 counters on Yako. She gains “Whenever this creature is dealt damage, it deals that much damage to any other target.”
+
+Shinigami, Mystery No.6
+
+Akane Sumire, Pit's Offering
+
+Secret Rendezvous
+
+Yugi Amane
+
+Temporal Tresspass
+
+Natsuhiko, Spirit's Venom
+rules_text: Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+Ward—Pay 2 life.
+Whenever an opponent looses life for the first time during their turn, put that many -1/-1 counters on target creature that player controls and draw a card. => Wither [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+Ward—Pay 2 life.
+Whenever an opponent looses life for the first time during their turn, put that many -1/-1 counters on target creature that player controls.
+
+Yashiro Nene, Ghost Bound
+rules_text: Partner with Hanako-kun, Toilet Bound.
+Ward {1}
+Whenever Yashiro Nene, Ghost Bound enters or is tapped, exile another target permanent. Return it to the battlefield under its owner's control at the beginning of the next upkeep. => Partner with Hanako-kun, Toilet Bound.
+Whenever Yashiro Nene, Ghost Bound enters or becomes tapped, exile another target permanent. Return it to the battlefield under its owner's control at the beginning of the next upkeep.
+pt: 2/3 => 2/2
+
+Aoi Akane, Presentkeeper
+
+Mirai
+pt:  => 1/1
+
+Tiara, Rising Lightning
+cost: {R}{W} => {1}{R}
+rules_text: Haste
+Whenever Tiara, Rising Lightning deals combat damage to an opponent, exile target instant or sorcery with mana value 1 or less from your graveyard. You may cast that card this turn. If you do, exile it afterwards. => Haste
+Whenever Tiara, Rising Lightning attacks, you may exert her. If you do, exile target instant or sorcery card from your graveyard. Until end of turn, you may cast a copy of that card. [i](An exerted permanent won't untap during your next untap step.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

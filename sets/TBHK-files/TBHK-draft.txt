@@ -5,19 +5,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "14",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/TBHK-files/img/0.png"
-			}
-		},
-		{
-			"name": "Yashiro Nene, Ghost Bound",
-			"rarity": "mythic",
-			"mana_cost": "{W}{U}",
-			"type": "Legendary Creature — Human",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/1.png"
 			}
 		},
 		{
@@ -25,19 +15,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Human Monk",
-			"collector_number": "18",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/2.png"
-			}
-		},
-		{
-			"name": "Kitchen Blast",
-			"rarity": "common",
-			"mana_cost": "{R}",
-			"type": "Sorcery",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/3.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/1.png"
 			}
 		},
 		{
@@ -45,9 +25,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Monk",
-			"collector_number": "16",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/4.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/2.png"
 			}
 		},
 		{
@@ -55,29 +35,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Spirit Horror",
-			"collector_number": "19",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/5.png"
-			}
-		},
-		{
-			"name": "Aoi Akane, Presentkeeper",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}{U}{B}",
-			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "12",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/6.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/3.png"
 			}
 		},
 		{
 			"name": "Tsukasa, Hanako's Yorishiro",
 			"rarity": "rare",
-			"mana_cost": "{3}{B}{R}",
+			"mana_cost": "{4}{B}{R}",
 			"type": "Legendary Creature — Spirit Demon",
-			"collector_number": "24",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/7.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/4.png"
 			}
 		},
 		{
@@ -85,19 +55,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "9",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/8.png"
-			}
-		},
-		{
-			"name": "Tiara, Rising Lightning",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{W}",
-			"type": "Legendary Creature — Human",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/9.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/5.png"
 			}
 		},
 		{
@@ -105,9 +65,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Legendary Creature — Spirit Spider",
-			"collector_number": "23",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/10.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/6.png"
 			}
 		},
 		{
@@ -115,9 +75,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "20",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/11.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/7.png"
 			}
 		},
 		{
@@ -125,9 +85,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "11",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/12.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/8.png"
 			}
 		},
 		{
@@ -135,9 +95,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Artifact Creature — Spirit",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/13.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/9.png"
 			}
 		},
 		{
@@ -145,19 +105,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Spirit",
-			"collector_number": "21",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/14.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/10.png"
 			}
 		},
 		{
 			"name": "Yako, Mystery No.2",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{G}",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Fox Spirit",
-			"collector_number": "25",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/15.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/11.png"
 			}
 		},
 		{
@@ -165,9 +125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creatures — Demon Spirit",
-			"collector_number": "8",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/16.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/12.png"
 			}
 		},
 		{
@@ -177,7 +137,7 @@
 			"type": "Legendary Creature — Spirit",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/17.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/13.png"
 			}
 		},
 		{
@@ -185,9 +145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/18.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/14.png"
 			}
 		},
 		{
@@ -195,9 +155,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}{B}{B}",
 			"type": "Legendary Creature — Spirit Horror",
-			"collector_number": "29",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/19.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/15.png"
 			}
 		},
 		{
@@ -205,59 +165,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{8}{U}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "6",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/20.png"
-			}
-		},
-		{
-			"name": "Mirai",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Legendary Artifact Creature — Spirit",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/21.png"
-			}
-		},
-		{
-			"name": "Moment of Respite",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Sorcery",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/22.png"
-			}
-		},
-		{
-			"name": "Yokoo and Satou",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{R}",
-			"type": "Legendary Creature — Human",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/23.png"
-			}
-		},
-		{
-			"name": "Hanako-kun, Toilet Bound",
-			"rarity": "mythic",
-			"mana_cost": "{1}{U}{B}",
-			"type": "Legendary Creature — Spirit",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/24.png"
-			}
-		},
-		{
-			"name": "Kou, Young Exorcist",
-			"rarity": "rare",
-			"mana_cost": "{1}{R}{W}",
-			"type": "Legendary Creature — Human Monk",
-			"collector_number": "17",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/25.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/16.png"
 			}
 		},
 		{
@@ -265,9 +175,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "7",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/26.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/17.png"
 			}
 		},
 		{
@@ -275,9 +185,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "27",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/27.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/18.png"
 			}
 		},
 		{
@@ -285,105 +195,99 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}{B}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "13",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/TBHK-files/img/28.png"
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/19.png"
+			}
+		},
+		{
+			"name": "Mirai",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact Creature — Spirit",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/20.png"
+			}
+		},
+		{
+			"name": "Tiara, Rising Lightning",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/TBHK-files/img/21.png"
 			}
 		}
 	]
 
 [rare(1)]
 	1 Hanako-kun, Toilet Bound
-	1 Yashiro Nene, Ghost Bound
 	1 Minamoto Teru
 	2 Kou, Young Exorcist
 	2 Mitsuba, Mystery No3
-	2 Aoi Akane, Presentkeeper
 	2 Tsukasa, Hanako's Yorishiro
 	2 Tsuchigomori, Mystery No.5
 	2 Nanamine Sakura
 	2 Akane Aoi, Rumor Whisperer
 	2 Kako, Mystery No.1
 	2 Shijima Mei, Mystery No.4
+	2 Yako, Mystery No.2
 	2 Shinigami, Mystery No.6
 	2 Akane Sumire, Pit's Offering
 	2 Secret Rendezvous
 	2 Yugi Amane
 	1 Temporal Tresspass
-	1 Hanako-kun, Toilet Bound
-	2 Kou, Young Exorcist
 	2 Natsuhiko, Spirit's Venom
 	1 Yashiro Nene, Ghost Bound
 	2 Aoi Akane, Presentkeeper
 [uncommon(3)]
 	4 Stitch Together
 	4 Tiara, Rising Lightning
-	4 Yako, Mystery No.2
-	4 Moment of Respite
-	4 Yokoo and Satou
 [common(6)]
-	8 Kitchen Blast
-	8 Mirai
 [common | masterpiece(1)]
-	8 Kitchen Blast
-	8 Mirai
 [foil(1)]
 	1 Hanako-kun, Toilet Bound
-	1 Yashiro Nene, Ghost Bound
 	1 Minamoto Teru
-	12 Kitchen Blast
 	2 Kou, Young Exorcist
 	2 Mitsuba, Mystery No3
-	2 Aoi Akane, Presentkeeper
 	2 Tsukasa, Hanako's Yorishiro
 	6 Stitch Together
-	6 Tiara, Rising Lightning
 	2 Tsuchigomori, Mystery No.5
 	2 Nanamine Sakura
 	2 Akane Aoi, Rumor Whisperer
 	2 Kako, Mystery No.1
 	2 Shijima Mei, Mystery No.4
-	6 Yako, Mystery No.2
+	2 Yako, Mystery No.2
 	2 Shinigami, Mystery No.6
 	2 Akane Sumire, Pit's Offering
 	2 Secret Rendezvous
 	2 Yugi Amane
 	1 Temporal Tresspass
-	12 Mirai
-	6 Moment of Respite
-	6 Yokoo and Satou
-	1 Hanako-kun, Toilet Bound
-	2 Kou, Young Exorcist
 	2 Natsuhiko, Spirit's Venom
 	1 Yashiro Nene, Ghost Bound
 	2 Aoi Akane, Presentkeeper
+	6 Tiara, Rising Lightning
 [wildcard(1)]
 	4 Hanako-kun, Toilet Bound
-	4 Yashiro Nene, Ghost Bound
 	4 Minamoto Teru
-	6 Kitchen Blast
 	7 Kou, Young Exorcist
 	7 Mitsuba, Mystery No3
-	7 Aoi Akane, Presentkeeper
 	7 Tsukasa, Hanako's Yorishiro
 	15 Stitch Together
-	15 Tiara, Rising Lightning
 	7 Tsuchigomori, Mystery No.5
 	7 Nanamine Sakura
 	7 Akane Aoi, Rumor Whisperer
 	7 Kako, Mystery No.1
 	7 Shijima Mei, Mystery No.4
-	15 Yako, Mystery No.2
+	7 Yako, Mystery No.2
 	7 Shinigami, Mystery No.6
 	7 Akane Sumire, Pit's Offering
 	7 Secret Rendezvous
 	7 Yugi Amane
 	4 Temporal Tresspass
-	6 Mirai
-	15 Moment of Respite
-	15 Yokoo and Satou
-	4 Hanako-kun, Toilet Bound
-	7 Kou, Young Exorcist
 	7 Natsuhiko, Spirit's Venom
 	4 Yashiro Nene, Ghost Bound
 	7 Aoi Akane, Presentkeeper
+	15 Tiara, Rising Lightning

@@ -5,7 +5,7 @@
 			<name>TBHK</name>
 			<longname>Toilet Bound Hanako-kun</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-29</releasedate>
+			<releasedate>2026-08-31</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -14,7 +14,7 @@
 			<text>Partner with Yashiro Nene, Ghost Bound.
 Flying 
 Whenever a creature leaves the battlefield, if it wasn&apos;t put into a graveyard, draw a card. This ability triggers once each turn.</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/TBHK-files/img/0.png" num="14">TBHK</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/TBHK-files/img/0.png" num="11">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -24,25 +24,6 @@ Whenever a creature leaves the battlefield, if it wasn&apos;t put into a graveya
 				<cmc>3</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Yashiro Nene, Ghost Bound</name>
-			<text>Partner with Hanako-kun, Toilet Bound.
-Ward {1}
-Whenever Yashiro Nene, Ghost Bound enters or is tapped, exile another target permanent. Return it to the battlefield under its owner&apos;s control at the beginning of the next upkeep.</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/TBHK-files/img/1.png" num="26">TBHK</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human</type>
-				<maintype>Creature</maintype>
-				<manacost>WU</manacost>
-				<cmc>2</cmc>
-				<colors>WU</colors>
-				<coloridentity>WU</coloridentity>
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -50,8 +31,8 @@ Whenever Yashiro Nene, Ghost Bound enters or is tapped, exile another target per
 		<card>
 			<name>Minamoto Teru</name>
 			<text>Haste, Protection from Spirits
-As long as Minamoto Teru is attacking, instant and sorcery spells you control have lifelink and deathtouch.</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/TBHK-files/img/2.png" num="18">TBHK</set>
+Instant and sorcery spells you control have lifelink, deathtouch and can&apos;t be the target of spells or abilities your opponent&apos;s control unless they pay 2 life.</text>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/TBHK-files/img/1.png" num="13">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -66,26 +47,10 @@ As long as Minamoto Teru is attacking, instant and sorcery spells you control ha
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Kitchen Blast</name>
-			<text>Destroy target artifact. If you controlled that artifact, Kitchen Blast deals 2 damage to each opponent and each creature you don&apos;t control.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/TBHK-files/img/3.png" num="10">TBHK</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>R</manacost>
-				<cmc>1</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
 			<name>Kou, Young Exorcist</name>
 			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
-If a noncombat source you control would deal damage to an opponent or a permanent an opponent controls, you may have it deal damage equal to Kou&apos;s power instead. If you do, Kou deals that much damage to itself.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/4.png" num="16">TBHK</set>
+If a noncombat source you control would deal damage to an opponent or a permanent an opponent controls, you may have it deal damage equal to Kou&apos;s power instead. If you do, Kou deals that much damage to himself.</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/2.png" num="12">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -102,8 +67,8 @@ If a noncombat source you control would deal damage to an opponent or a permanen
 		<card>
 			<name>Mitsuba, Mystery No3</name>
 			<text>Flying, Ward—Discard a card
-Whenever an opponent discards a permanent card, create a copy of that card, except it has &quot;Whenever this becomes the target of a spell or ability, sacrifice it&quot; and is an Illusion in addition to its other types. This ability triggers once each turn for each opponent.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/5.png" num="19">TBHK</set>
+Whenever an opponent discards a permanent card, create a copy of that card, except it has &quot;Whenever this becomes the target of a spell or ability, sacrifice it&quot; and is an Illusion in addition to its other types.</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/3.png" num="14">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -118,37 +83,18 @@ Whenever an opponent discards a permanent card, create a copy of that card, exce
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Aoi Akane, Presentkeeper</name>
-			<text>Flash
-If a player would take an extra turn, they skip that turn instead and lose 5 life.
-Players can&apos;t cast spells or activate abilities during other player&apos;s turn turn.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/6.png" num="12">TBHK</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Wizard</type>
-				<maintype>Creature</maintype>
-				<manacost>3WUB</manacost>
-				<cmc>6</cmc>
-				<colors>WUB</colors>
-				<coloridentity>WUB</coloridentity>
-				<pt>4/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Tsukasa, Hanako&apos;s Yorishiro</name>
 			<text>Deathtouch
 Whenever an attacking creature dies, Tsukasa deals 1 damage to each opponent.
 At the beginning of each opponent&apos;s combat step, that player chooses an opponent other than you at random. Creatures they control attack that player this turn if able.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/7.png" num="24">TBHK</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/4.png" num="18">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Spirit Demon</type>
 				<maintype>Creature</maintype>
-				<manacost>3BR</manacost>
-				<cmc>5</cmc>
+				<manacost>4BR</manacost>
+				<cmc>6</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 				<pt>4/4</pt>
@@ -159,7 +105,7 @@ At the beginning of each opponent&apos;s combat step, that player chooses an opp
 			<name>Stitch Together</name>
 			<text>Return target creature card from your graveyard to your hand.
 Threshold — Return that card from your graveyard to the battlefield instead if seven or more cards are in your graveyard.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/TBHK-files/img/8.png" num="9">TBHK</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/TBHK-files/img/5.png" num="7">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -173,29 +119,11 @@ Threshold — Return that card from your graveyard to the battlefield instead if
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Tiara, Rising Lightning</name>
-			<text>Haste
-Whenever Tiara, Rising Lightning deals combat damage to an opponent, exile target instant or sorcery with mana value 1 or less from your graveyard. You may cast that card this turn. If you do, exile it afterwards.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/TBHK-files/img/9.png" num="22">TBHK</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human</type>
-				<maintype>Creature</maintype>
-				<manacost>RW</manacost>
-				<cmc>2</cmc>
-				<colors>WR</colors>
-				<coloridentity>WR</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Tsuchigomori, Mystery No.5</name>
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 Trample
-Whenever Tsuchigomori deals combat damage to an opponent, choose a card exiled with it at random and put it in your hand.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/10.png" num="23">TBHK</set>
+Whenever Tsuchigomori deals combat damage to an opponent, choose a card exiled with it at random and put it in your hand. Then if there&apos;s no cards exiled with him, put a +1/+1 on him.</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/6.png" num="17">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -213,7 +141,7 @@ Whenever Tsuchigomori deals combat damage to an opponent, choose a card exiled w
 			<name>Nanamine Sakura</name>
 			<text>At the beginning of your upkeep, if you have three or more different types of counters among permanents you control, create a 2/1 black Insect creature token with flying.
 {T}, Sacrifice another creature: Gain control of target creature with three or more counters. If that creature would leave the battlefield, exile it instead.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/11.png" num="20">TBHK</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/7.png" num="15">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -229,8 +157,8 @@ Whenever Tsuchigomori deals combat damage to an opponent, choose a card exiled w
 		</card>
 		<card>
 			<name>Akane Aoi, Rumor Whisperer</name>
-			<text>At the beginning of your upkeep, scry 1. Then, choose land or nonland. Target opponent guesses whether the top card of your library is a land or a nonland card. If they were wrong, you may cast that card without paying its mana cost. If they were right, mill a card and return Aoi to your hand.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/12.png" num="11">TBHK</set>
+			<text>At the beginning of your upkeep, scry 1. Then, choose land or nonland. Target opponent guesses whether the top card of your library is a land or a nonland card. If they were wrong, you may put that card onto the battlefield under your control. If they were right, mill a card and return Aoi to your hand.</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/8.png" num="9">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -248,7 +176,7 @@ Whenever Tsuchigomori deals combat damage to an opponent, choose a card exiled w
 			<name>Kako, Mystery No.1</name>
 			<text>When Kako enters, create Mirai, a legendary 1/1 blue Spirit artifact creature token with phasing and hexproof. (It phases in or out before you untap during each of your untap steps. While it&apos;s phased out, it&apos;s treated as though it doesn&apos;t exist.) 
 Whenever another permanent you control phases in, put a time counter on Kako. Then if he has 6 or more time counters on him, remove all time counters from Kako and take an extra turn after this one.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/13.png" num="4">TBHK</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/9.png" num="3">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -266,7 +194,7 @@ Whenever another permanent you control phases in, put a time counter on Kako. Th
 			<name>Shijima Mei, Mystery No.4</name>
 			<text>When Shijima Mei, Mystery No.4 enters, you may discard a card. If you do, exile the top card of your library. You may play that card until the end of your next turn.
 Whenever you cast a spell from anywhere other than your hand, create a tapped Treasure token.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/14.png" num="21">TBHK</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/10.png" num="16">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -283,15 +211,15 @@ Whenever you cast a spell from anywhere other than your hand, create a tapped Tr
 		<card>
 			<name>Yako, Mystery No.2</name>
 			<text>Trample, Soulbond (You may pair this creature with another unpaired creature when either enters. They remain paired for as long as you control both of them.)
-When a creature paired with Yako leaves the battlefield, put three +1/+1 counters on Yako. It gains &quot;Whenever one or more creatures attack you, this creature deals that much damage to target opponent.&quot;</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/TBHK-files/img/15.png" num="25">TBHK</set>
+When a creature paired with Yako leaves the battlefield, put three +1/+1 counters on Yako. She gains &quot;Whenever this creature is dealt damage, it deals that much damage to any other target.&quot;</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/11.png" num="19">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Fox Spirit</type>
 				<maintype>Creature</maintype>
-				<manacost>RG</manacost>
-				<cmc>2</cmc>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
 				<pt>2/2</pt>
@@ -303,7 +231,7 @@ When a creature paired with Yako leaves the battlefield, put three +1/+1 counter
 			<text>Menace
 Cards in graveyards can&apos;t be the target of spells and abilities opponents control and can&apos;t be exiled.
 Shinigami, Mystery No.6 can&apos;t attack or block unless a creature died this turn.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/16.png" num="8">TBHK</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/12.png" num="6">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -322,7 +250,7 @@ Shinigami, Mystery No.6 can&apos;t attack or block unless a creature died this t
 			<text>Vigilance
 As Akane Sumire enters, choose another creature you control.
 Whenever the chosen creature becomes the target of a spell or ability you don&apos;t control, change the target to Akane Sumire and you draw a card.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/17.png" num="1">TBHK</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/13.png" num="1">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -339,7 +267,7 @@ Whenever the chosen creature becomes the target of a spell or ability you don&ap
 		<card>
 			<name>Secret Rendezvous</name>
 			<text>You and target opponent each draw three cards.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/18.png" num="3">TBHK</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/14.png" num="2">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -357,7 +285,7 @@ Whenever the chosen creature becomes the target of a spell or ability you don&ap
 			<text>Deathtouch
 When Yugi Amane enters, if you don&apos;t control a Tentacle, create a 2/1 black Tentacle Horror creature token. 
 During your turn, you may cast Yugi Amane from your graveyard by sacrificing a Spirit or Horror in addition to its other costs.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/19.png" num="29">TBHK</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/15.png" num="21">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -375,7 +303,7 @@ During your turn, you may cast Yugi Amane from your graveyard by sacrificing a S
 			<name>Temporal Tresspass</name>
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
 Take an extra turn after this one. Exile Temporal Tresspass</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/TBHK-files/img/20.png" num="6">TBHK</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/TBHK-files/img/16.png" num="4">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -389,98 +317,11 @@ Take an extra turn after this one. Exile Temporal Tresspass</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Mirai</name>
-			<text>Phasing, hexproof (This phases in or out before you untap during each of your untap steps. While it&apos;s phased out, it&apos;s treated as though it doesn&apos;t exist.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/TBHK-files/img/21.png" num="5">TBHK</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Legendary Artifact Creature — Spirit</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Moment of Respite</name>
-			<text>Until the end of the next turn, you gain protection from everything and permanents you control gain hexproof and indestructible.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/TBHK-files/img/22.png" num="2">TBHK</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Yokoo and Satou</name>
-			<text>Haste
-Whenever Yokoo and Satou deals combat damage to an opponent, look at that players hand. If that player has 1 or less cards in their hand, Yokoo and Satou deals 2 damage to that player. Otherwise, each player draws a card.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/TBHK-files/img/23.png" num="28">TBHK</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human</type>
-				<maintype>Creature</maintype>
-				<manacost>UR</manacost>
-				<cmc>2</cmc>
-				<colors>UR</colors>
-				<coloridentity>UR</coloridentity>
-				<pt>1/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Hanako-kun, Toilet Bound</name>
-			<text>Partner with Yashiro Nene, Ghost Bound.
-Flying 
-Whenever a creature leaves the battlefield, if it wasn&apos;t put into a graveyard, draw a card. This ability triggers once each turn.</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/TBHK-files/img/24.png" num="15">TBHK</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Spirit</type>
-				<maintype>Creature</maintype>
-				<manacost>1UB</manacost>
-				<cmc>3</cmc>
-				<colors>UB</colors>
-				<coloridentity>UB</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
-			<name>Kou, Young Exorcist</name>
-			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
-If a noncombat source you control would deal damage to an opponent or a permanent an opponent controls, you may have it deal damage equal to Kou&apos;s power instead. If you do, Kou deals that much damage to itself.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/25.png" num="17">TBHK</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Human Monk</type>
-				<maintype>Creature</maintype>
-				<manacost>1RW</manacost>
-				<cmc>3</cmc>
-				<colors>WR</colors>
-				<coloridentity>WR</coloridentity>
-				<pt>1/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Natsuhiko, Spirit&apos;s Venom</name>
 			<text>Wither (This deals damage to creatures in the form of -1/-1 counters.)
 Ward—Pay 2 life.
-Whenever an opponent looses life for the first time during their turn, put that many -1/-1 counters on target creature that player controls and draw a card.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/26.png" num="7">TBHK</set>
+Whenever an opponent looses life for the first time during their turn, put that many -1/-1 counters on target creature that player controls.</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/17.png" num="5">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -497,9 +338,8 @@ Whenever an opponent looses life for the first time during their turn, put that 
 		<card>
 			<name>Yashiro Nene, Ghost Bound</name>
 			<text>Partner with Hanako-kun, Toilet Bound.
-Ward {1}
-Whenever Yashiro Nene, Ghost Bound enters or is tapped, exile another target permanent. Return it to the battlefield under its owner&apos;s control at the beginning of the next upkeep.</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/TBHK-files/img/27.png" num="27">TBHK</set>
+Whenever Yashiro Nene, Ghost Bound enters or becomes tapped, exile another target permanent. Return it to the battlefield under its owner&apos;s control at the beginning of the next upkeep.</text>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/TBHK-files/img/18.png" num="20">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -509,7 +349,7 @@ Whenever Yashiro Nene, Ghost Bound enters or is tapped, exile another target per
 				<cmc>2</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
-				<pt>2/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -518,7 +358,7 @@ Whenever Yashiro Nene, Ghost Bound enters or is tapped, exile another target per
 			<text>Flash
 If a player would take an extra turn, they skip that turn instead and lose 5 life.
 Players can&apos;t cast spells or activate abilities during other player&apos;s turn turn.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/28.png" num="13">TBHK</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/TBHK-files/img/19.png" num="10">TBHK</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -529,6 +369,42 @@ Players can&apos;t cast spells or activate abilities during other player&apos;s 
 				<colors>WUB</colors>
 				<coloridentity>WUB</coloridentity>
 				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mirai TBHK</name>
+			<text>Phasing, hexproof (This phases in or out before you untap during each of your untap steps. While it&apos;s phased out, it&apos;s treated as though it doesn&apos;t exist.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/TBHK-files/img/20.png" num="1">TBHK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Legendary Artifact Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Tiara, Rising Lightning</name>
+			<text>Haste
+Whenever Tiara, Rising Lightning attacks, you may exert her. If you do, exile target instant or sorcery card from your graveyard. Until end of turn, you may cast a copy of that card. (An exerted permanent won&apos;t untap during your next untap step.)</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/TBHK-files/img/21.png" num="8">TBHK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
