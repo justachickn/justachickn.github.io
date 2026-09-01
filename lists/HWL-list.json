@@ -5,7 +5,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "185"
+        "position": "181"
     },
     {
         "card_name": "MU01",
@@ -13,7 +13,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "187"
+        "position": "182"
     },
     {
         "card_name": "MB01The Vessel, Hallownest's Hope",
@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "189"
+        "position": "183"
     },
     {
         "card_name": "MR01",
@@ -29,7 +29,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "191"
+        "position": "185"
     },
     {
         "card_name": "MG01",
@@ -37,23 +37,23 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "193"
+        "position": "186"
     },
     {
-        "card_name": "MW02The Radiance, Absolute",
+        "card_name": "MW02aThe Radiance, Absolute",
         "number": 20,
         "shape": "transform double faced",
         "set": "HWL",
         "rotated": false,
-        "position": "186"
+        "position": "270"
     },
     {
-        "card_name": "MU02Lifeblood Incarnate",
+        "card_name": "MU02aLifeblood Incarnate",
         "number": 59,
         "shape": "transform double faced",
         "set": "HWL",
         "rotated": false,
-        "position": "188"
+        "position": "271"
     },
     {
         "card_name": "MB02Opening of the Black Egg",
@@ -61,15 +61,15 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "190"
+        "position": "184"
     },
     {
-        "card_name": "MR02The Nightmare Heart",
+        "card_name": "MR02aThe Nightmare Heart",
         "number": 135,
         "shape": "transform double faced",
         "set": "HWL",
         "rotated": false,
-        "position": "192"
+        "position": "272"
     },
     {
         "card_name": "MG02The Mind of Unn",
@@ -77,7 +77,7 @@
         "shape": "transform double faced",
         "set": "HWL",
         "rotated": false,
-        "position": "194"
+        "position": "273"
     },
     {
         "card_name": "MW03",
@@ -85,7 +85,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "249"
+        "position": "239"
     },
     {
         "card_name": "RU01The Snail Shaman",
@@ -93,7 +93,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "210"
+        "position": "202"
     },
     {
         "card_name": "MB03The Shade Lord",
@@ -101,15 +101,15 @@
         "shape": "transform double faced",
         "set": "HWL",
         "rotated": false,
-        "position": "223"
+        "position": "274"
     },
     {
-        "card_name": "RR01Grimm's Unending Cycle",
+        "card_name": "RR01Hornet's Fierce Guardianship",
         "number": 136,
         "shape": "saga",
         "set": "HWL",
         "rotated": false,
-        "position": "173"
+        "position": "260"
     },
     {
         "card_name": "RG01Cloth's Morbid Deathwish",
@@ -117,7 +117,7 @@
         "shape": "saga",
         "set": "HWL",
         "rotated": false,
-        "position": "174"
+        "position": "261"
     },
     {
         "card_name": "RW01Marissa, City's Last Singer",
@@ -125,7 +125,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "225"
+        "position": "216"
     },
     {
         "card_name": "RU02Lurien, the Watcher",
@@ -133,7 +133,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "205"
+        "position": "197"
     },
     {
         "card_name": "RB01Zote, the Mighty",
@@ -141,7 +141,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "218"
+        "position": "210"
     },
     {
         "card_name": "RR02Tough Claw",
@@ -149,7 +149,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "179"
+        "position": "175"
     },
     {
         "card_name": "RG02Bardoon, Ageless Witness",
@@ -157,7 +157,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "233"
+        "position": "223"
     },
     {
         "card_name": "RW02Godseeker of the Pantheons",
@@ -165,7 +165,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "226"
+        "position": "217"
     },
     {
         "card_name": "RU03The Collector",
@@ -173,7 +173,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "209"
+        "position": "201"
     },
     {
         "card_name": "RB02Nosk, Wearer of Faces",
@@ -181,7 +181,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "181"
+        "position": "177"
     },
     {
         "card_name": "RR03",
@@ -189,7 +189,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "215"
+        "position": "207"
     },
     {
         "card_name": "RG03",
@@ -197,7 +197,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "235"
+        "position": "225"
     },
     {
         "card_name": "RW03",
@@ -205,7 +205,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "224"
+        "position": "215"
     },
     {
         "card_name": "RU04Eyeless Weaper",
@@ -213,7 +213,7 @@
         "shape": "saga",
         "set": "HWL",
         "rotated": false,
-        "position": "207"
+        "position": "199"
     },
     {
         "card_name": "RB03Zote's Dangerous Arrogance",
@@ -221,7 +221,7 @@
         "shape": "saga",
         "set": "HWL",
         "rotated": false,
-        "position": "175"
+        "position": "262"
     },
     {
         "card_name": "RR04",
@@ -229,7 +229,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "216"
+        "position": "208"
     },
     {
         "card_name": "RG04",
@@ -237,7 +237,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "234"
+        "position": "224"
     },
     {
         "card_name": "RW04",
@@ -245,7 +245,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "227"
+        "position": "218"
     },
     {
         "card_name": "RU05",
@@ -253,7 +253,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "208"
+        "position": "200"
     },
     {
         "card_name": "RB04Herrah, the Beast",
@@ -261,7 +261,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "219"
+        "position": "211"
     },
     {
         "card_name": "RR05",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "211"
+        "position": "203"
     },
     {
         "card_name": "RG05",
@@ -277,7 +277,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "236"
+        "position": "226"
     },
     {
         "card_name": "RW05",
@@ -285,7 +285,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "228"
+        "position": "219"
     },
     {
         "card_name": "RU06",
@@ -293,7 +293,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "204"
+        "position": "196"
     },
     {
         "card_name": "RB06",
@@ -301,7 +301,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "220"
+        "position": "212"
     },
     {
         "card_name": "RR06",
@@ -309,7 +309,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "213"
+        "position": "205"
     },
     {
         "card_name": "RG06",
@@ -317,7 +317,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "237"
+        "position": "227"
     },
     {
         "card_name": "RW06",
@@ -325,7 +325,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "229"
+        "position": "220"
     },
     {
         "card_name": "RU07",
@@ -333,7 +333,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "206"
+        "position": "198"
     },
     {
         "card_name": "RB07",
@@ -341,7 +341,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "221"
+        "position": "213"
     },
     {
         "card_name": "RR07",
@@ -349,7 +349,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "214"
+        "position": "206"
     },
     {
         "card_name": "RG07",
@@ -357,7 +357,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "238"
+        "position": "228"
     },
     {
         "card_name": "RW07Ashenshell Duel",
@@ -365,7 +365,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "230"
+        "position": "221"
     },
     {
         "card_name": "RU08Quirrel's Lost Purpose",
@@ -373,7 +373,7 @@
         "shape": "saga",
         "set": "HWL",
         "rotated": false,
-        "position": "176"
+        "position": "263"
     },
     {
         "card_name": "RB08",
@@ -381,7 +381,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "222"
+        "position": "214"
     },
     {
         "card_name": "RR08",
@@ -389,7 +389,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "212"
+        "position": "204"
     },
     {
         "card_name": "RG08",
@@ -397,7 +397,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "239"
+        "position": "229"
     },
     {
         "card_name": "RW08Seer's Fated Ascension",
@@ -405,7 +405,7 @@
         "shape": "saga",
         "set": "HWL",
         "rotated": false,
-        "position": "231"
+        "position": "269"
     },
     {
         "card_name": "RU09Unavoidable Fate",
@@ -413,7 +413,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "243"
+        "position": "233"
     },
     {
         "card_name": "RB09",
@@ -421,7 +421,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "241"
+        "position": "231"
     },
     {
         "card_name": "RR09",
@@ -429,7 +429,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "244"
+        "position": "234"
     },
     {
         "card_name": "RG09",
@@ -437,7 +437,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "245"
+        "position": "235"
     },
     {
         "card_name": "RW09",
@@ -445,7 +445,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "242"
+        "position": "232"
     },
     {
         "card_name": "UU01Lemm, Relic Seeker",
@@ -496,7 +496,7 @@
         "position": "89"
     },
     {
-        "card_name": "UB02Bretta",
+        "card_name": "UB02Bretta, Obsessive Fanatic",
         "number": 108,
         "shape": "normal",
         "set": "HWL",
@@ -610,7 +610,7 @@
     {
         "card_name": "UU05",
         "number": 73,
-        "shape": "saga",
+        "shape": "normal",
         "set": "HWL",
         "rotated": false,
         "position": "92"
@@ -666,13 +666,13 @@
     {
         "card_name": "UR06",
         "number": 150,
-        "shape": "saga",
+        "shape": "normal",
         "set": "HWL",
         "rotated": false,
         "position": "115"
     },
     {
-        "card_name": "UG06",
+        "card_name": "UG06Shrumal Shaman",
         "number": 188,
         "shape": "normal",
         "set": "HWL",
@@ -682,7 +682,7 @@
     {
         "card_name": "UW06Farkingdom Challenger",
         "number": 36,
-        "shape": "saga",
+        "shape": "normal",
         "set": "HWL",
         "rotated": false,
         "position": "82"
@@ -714,7 +714,7 @@
     {
         "card_name": "UG07",
         "number": 189,
-        "shape": "saga",
+        "shape": "normal",
         "set": "HWL",
         "rotated": false,
         "position": "127"
@@ -1013,7 +1013,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "255"
+        "position": "245"
     },
     {
         "card_name": "UB15",
@@ -1053,7 +1053,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "260"
+        "position": "250"
     },
     {
         "card_name": "CB01 Lost Husk",
@@ -1093,7 +1093,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "257"
+        "position": "247"
     },
     {
         "card_name": "CB02 Vengeful Pestfly",
@@ -1133,7 +1133,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "259"
+        "position": "249"
     },
     {
         "card_name": "CB03 Garden Desecrator",
@@ -1213,7 +1213,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "256"
+        "position": "246"
     },
     {
         "card_name": "CB05 Voidborn Tendrils",
@@ -1253,7 +1253,7 @@
         "shape": "saga",
         "set": "HWL",
         "rotated": false,
-        "position": "266"
+        "position": "256"
     },
     {
         "card_name": "CB06 Mossfly",
@@ -1293,7 +1293,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "258"
+        "position": "248"
     },
     {
         "card_name": "CB07Brooding Mawlek",
@@ -1333,7 +1333,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "262"
+        "position": "252"
     },
     {
         "card_name": "CB08 Void Infusion",
@@ -1373,7 +1373,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "261"
+        "position": "251"
     },
     {
         "card_name": "CB09 Undying Determination",
@@ -1413,7 +1413,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "263"
+        "position": "253"
     },
     {
         "card_name": "CB10Down the Well",
@@ -1424,12 +1424,12 @@
         "position": "25"
     },
     {
-        "card_name": "CR12",
+        "card_name": "CR12Barter",
         "number": 132,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "269"
+        "position": "259"
     },
     {
         "card_name": "CG11Traitors Revolt",
@@ -1453,7 +1453,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "264"
+        "position": "254"
     },
     {
         "card_name": "CB11Peek into Dreams",
@@ -1485,7 +1485,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "177"
+        "position": "173"
     },
     {
         "card_name": "CU15Profane Study",
@@ -1493,7 +1493,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "265"
+        "position": "255"
     },
     {
         "card_name": "CB12Shatter Mask",
@@ -1558,7 +1558,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "232"
+        "position": "222"
     },
     {
         "card_name": "RM06Soul Master of the Sanctum",
@@ -1566,7 +1566,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "197"
+        "position": "189"
     },
     {
         "card_name": "MM01Grimm, Troupemaster",
@@ -1574,7 +1574,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "203"
+        "position": "195"
     },
     {
         "card_name": "RM08God Tamer, Fool's Trial",
@@ -1582,7 +1582,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "199"
+        "position": "191"
     },
     {
         "card_name": "RM04Last Stag, Faithful Carrier",
@@ -1590,7 +1590,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "178"
+        "position": "174"
     },
     {
         "card_name": "UM01Revek, the Spiritblade",
@@ -1614,7 +1614,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "198"
+        "position": "190"
     },
     {
         "card_name": "UM07Elder Hu, Tending Sage",
@@ -1638,7 +1638,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "268"
+        "position": "258"
     },
     {
         "card_name": "UM04Waterways Ambush",
@@ -1686,7 +1686,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "195"
+        "position": "187"
     },
     {
         "card_name": "UM06Light Up the Ritual",
@@ -1753,7 +1753,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "182"
+        "position": "178"
     },
     {
         "card_name": "RM02Monomon, the Teacher",
@@ -1761,7 +1761,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "180"
+        "position": "176"
     },
     {
         "card_name": "RM10The Hunter",
@@ -1769,7 +1769,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "200"
+        "position": "192"
     },
     {
         "card_name": "RM01Nailmsmith Folly",
@@ -1777,7 +1777,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "201"
+        "position": "193"
     },
     {
         "card_name": "MM02Cornifer, the Wayfaring",
@@ -1785,7 +1785,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "196"
+        "position": "188"
     },
     {
         "card_name": "RM11The Hollow Knight",
@@ -1793,7 +1793,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "217"
+        "position": "209"
     },
     {
         "card_name": "UM13Uumuu, Monomon's Guard",
@@ -1825,7 +1825,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "202"
+        "position": "194"
     },
     {
         "card_name": "UM11The False Knight",
@@ -1881,7 +1881,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "267"
+        "position": "257"
     },
     {
         "card_name": "CH04Overgrown Husk",
@@ -1953,7 +1953,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "246"
+        "position": "236"
     },
     {
         "card_name": "RM13",
@@ -1961,7 +1961,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "248"
+        "position": "238"
     },
     {
         "card_name": "e"
@@ -1987,11 +1987,11 @@
     "a->colorless",
     {
         "card_name": "M",
-        "number": 4,
+        "number": 2,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "253"
+        "position": "243"
     },
     {
         "card_name": "MM03",
@@ -1999,7 +1999,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "254"
+        "position": "244"
     },
     {
         "card_name": "MC01Pale Nail",
@@ -2007,7 +2007,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "183"
+        "position": "179"
     },
     {
         "card_name": "RC01Channeled Nail",
@@ -2015,7 +2015,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "184"
+        "position": "180"
     },
     {
         "card_name": "RC02The Dream Nail",
@@ -2023,7 +2023,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "240"
+        "position": "230"
     },
     {
         "card_name": "UC01Steel Soul Jinn",
@@ -2256,7 +2256,7 @@
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "247"
+        "position": "237"
     },
     {
         "card_name": "UC08Stag Station",

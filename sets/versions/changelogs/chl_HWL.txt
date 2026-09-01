@@ -1,4 +1,505 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+UB02Bretta, Obsessive Fanatic added.
+UG06Shrumal Shaman added.
+CR12Barter added.
+RR01Hornet's Fierce Guardianship added.
+MW02aThe Radiance, Absolute added.
+MU02aLifeblood Incarnate added.
+MR02aThe Nightmare Heart added.
+
+UB02Bretta removed.
+UG06 removed.
+RR01Grimm's Unending Cycle removed.
+MW02The Radiance, Absolute removed.
+MU02Lifeblood Incarnate removed.
+MR02The Nightmare Heart removed.
+CR12 removed.
+
+CW02Dreamwielder Moth
+
+CW03Hiveling Worker
+
+CW05Shielded Husk
+
+CW06Horned Husk
+
+CW09Moth of the Dreamshrine
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Another target creature you control gets +1/+1 until end of turn.
+IV — Other creatures you control get +1/+1 and gain vigilance until end of turn.
+---
+Vigilance
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Another target creature you control gets +1/+1 until end of turn.
+IV — Other creatures you control get +1/+1 and gain vigilance until end of turn.
+---
+Vigilance
+
+CH04Overgrown Husk
+
+CB02 Vengeful Pestfly
+
+CB04 Sharp Shadow
+rules_text: Charmed {3}{B} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)[/i]
+Whenever equipped creature attacks, it gains deathtouch until end of turn.
+Equip {3} => Charmed {3}{B} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)[/i]
+Whenever you descend for the first time each turn, put a +1/+1 on equipped creature.
+Equip {3}
+
+CB05 Voidborn Tendrils
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill two cards. [i](Put the top two cards of your library into your graveyard.)[/i]
+III — Return another creature from your graveyard to your hand.
+---
+
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill two cards. [i](Put the top two cards of your library into your graveyard.)[/i]
+III — Return another creature from your graveyard to your hand.
+---
+
+
+CB08 Void Infusion
+rules_text: Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 for each time you've descended this turn. [i](You descend whenever one or more permanent cards are put into your graveyard from anywhere.)[/i] => Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 for each time you've descended this turn. [i](You descend each time a permanent card is put into your graveyard from anywhere.)[/i]
+
+CB09 Undying Determination
+
+CH03Grimmkin Master
+
+CR03Sprintmaster
+cost: {R} => {1}{R}
+rules_text: Charmed {2}{R} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)[/i]
+Equipped creature gets +1/+0 and has haste.
+Equip {2} => Charmed {2}{R} [i](You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)[/i]
+Equipped creature gets +1/+0 and has haste.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+CR04Armored Fool
+rules_text: Menace
+Runback cost [i](You may cast a copy of this card by exiling it from your graveyard and paying its runback cost.)[/i] => Menace
+At the beginning of your end step, if you descended this turn, put a +1/+1 counter on this creature. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+
+CR09Fool's Resolve
+rules_text: Choose one — 
+• Target creature gets +3/+1 and gains trample until end of turn. 
+• Destroy target artifact. => Choose one — 
+• Target creature gets +3/+1 and gains trample until end of turn. 
+• Exile target artifact.
+
+CR11
+cost: {3}{R} => {2}{R}
+
+CG01Fool Eater
+
+CG02Shambling Mosshusk
+rules_text: {T}, Mill a card: Add {G}.
+Restless [i](When this creature dies, return it to the battlefield tapped under its owner's control with a finality counter on it. If a creature with a finality counter on it would die, exile it instead.)[/i] => {T}: Add {G}.
+Restless [i](When this creature dies, return it to the battlefield tapped under its owner's control with a finality counter on it. If a creature with a finality counter on it would die, exile it instead.)[/i]
+
+CG05Leafpath Traveller
+
+CG07Fungal Ogre
+rules_text: {2}{G}, Exile this card from your graveyard => This spell costs {3} less to cast if you've descended this turn. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+
+CG08Loodle Herd
+rules_text: Haste
+This creature can't be blocked by creatures with power 2 or less.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => Haste 
+This creature can't be blocked by more than one creature.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CG09Lushcove Duel
+
+CG13Wander the Waterways
+rules_text: Mill four cards. Then you may return a creature or land card from your graveyard to your hand.
+Runback {2}{G}{G} [i](You may cast a copy of this card by exiling it from your graveyard and paying its runback cost.)[/i] => Mill four cards. Then you may return a creature or land card from your graveyard to your hand. If you've cast this spell from your graveyard, return any card from graveyard to your hand instead.
+Runback {2}{G}{G} [i](You may cast a copy of this card by exiling it from your graveyard and paying its runback cost.)[/i]
+
+CH05Shroomling
+rules_text: Haste
+{2}{RG}, Sacrifice this creature: Draw a card and create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Haste
+{2}{RG}, Sacrifice this creature: Draw a card and create two Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+UM07Elder Hu, Tending Sage
+rules_text: Trample
+Whenever you descend for the first time each turn, put a +1/+1 counter on Elder Hu, Tending Sage. Then if there's six or more permanent cards in your graveyard, draw a card. [i](You descend whenever one or more permanents are put into your graveyard from anywhere.)[/i] => Trample
+Whenever you descend for the first time during your turn, put a +1/+1 counter on Elder Hu, Tending Sage. Then if there's six or more permanent cards in your graveyard, draw a card. [i](You descend whenever one or more permanents are put into your graveyard from anywhere.)[/i]
+
+UM01Revek, the Spiritblade
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II, III — You gain 1 life and surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+IV — Draw a card.
+---
+Flying
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II, III — You gain 1 life and surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+IV — Draw a card.
+---
+Flying
+
+UW06Farkingdom Challenger
+
+UU05
+
+UB01Milibelle, Sketchy Banker
+rules_text: During your turn, Milibelle, Sketchy Banker has deathtouch
+[i]Crawl[/i] — Whenever one or more creatures you control with power or toughness 1 deal combat damage to a player, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => During your turn, Milibelle, Sketchy Banker has deathtouch
+[i]Crawl[/i] — Whenever one or more creatures you control with power or toughness 1 deal combat damage to a player, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+UB09Cast Down
+
+UR06
+
+UR08Maskbound
+
+UG07
+
+UC02Mace Bug
+pt:  => 1/2
+
+UC05Charm Notch
+rules_text: {T}: Add {C}.
+{2}, {T}: Search your library for a => {T}: Add {C}.
+{2}, {T}, Sacrifice this artifact: Search your library for a
+
+UC06Cornifer's Map
+rules_text: When Cornifer's Map enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{1}, {T}, Sacrifice this artifact: Search your => When this artifact enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+
+CL07Clouded Subcanyon
+
+CL09Crystalized Mine
+
+CL05Exuberant Tunnels
+
+CL06Fossilized Depths
+
+CL04Fungous Chambers
+
+CL08Overgrown Undergarden
+
+CL02Howling Outercliffs
+
+CL01Sacred Cemetery
+
+CL03Infected Caverns
+
+CL10Undercity Canals
+
+CW14Radiance's Grasp
+
+RM04Last Stag, Faithful Carrier
+
+RR02Tough Claw
+
+RM02Monomon, the Teacher
+
+RB02Nosk, Wearer of Faces
+rules_text: Menace
+At the beginning of your end step, if you've descended this turn, you may have Nosk, Wearer of Faces become a copy of target permanent card in your graveyard that was put there this turn until the beginning of your next end step, except its name is Nosk, Wearer of Faces and it has menace. => Menace
+At the beginning of your end step, if you've descended this turn, exile target permanent card from your graveyard. You may have Nosk become a copy of that card until the end of your next turn, except its name is Nosk, Wearer of Faces and its a 3/2 Horror with menace in addition to its other types and abilities.
+
+RM03Rest at Last
+
+MC01Pale Nail
+
+RC01Channeled Nail
+
+MW01The White Lady, Pale Root
+
+MU01
+
+MB01The Vessel, Hallownest's Hope
+
+MB02Opening of the Black Egg
+
+MR01
+
+MG01
+
+CH02Crawling Dirtcarver
+
+MM02Cornifer, the Wayfaring
+
+RM06Soul Master of the Sanctum
+
+RM09
+rules_text:  => Whenever you descend, put a __ counter on this enchantment.
+
+RM08God Tamer, Fool's Trial
+
+RM10The Hunter
+
+RM01Nailmsmith Folly
+
+RM07
+
+MM01Grimm, Troupemaster
+
+RU06
+
+RU02Lurien, the Watcher
+
+RU07
+
+RU04Eyeless Weaper
+type: Enchantment Creature — Saga => Enchantment Creature — Saga Spirit
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — 
+II — 
+III — 
+---
+Runback {3}{U}{U}
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — 
+II — 
+III — 
+---
+Runback {3}{U}{U}
+
+RU05
+
+RU03The Collector
+
+RU01The Snail Shaman
+
+RR05
+
+RR08
+
+RR06
+
+RR07
+
+RR03
+
+RR04
+
+RM11The Hollow Knight
+rules_text: Menace, lifelink
+When The Hollow Knight enters, exile target nonland permanent. Then, return it to the battlefield tapped unless The Hollow Knight has a finality counter on it.
+Restless [i](When this creature dies, return it to the battlefield tapped under its owner's control with a finality counter on it.)[/i] => Menace, lifelink
+When The Hollow Knight enters, exile target nonland permanent. Then, return it to the battlefield tapped unless The Hollow Knight has a finality counter on it.
+Restless
+
+RB01Zote, the Mighty
+
+RB04Herrah, the Beast
+cost: {B} => {4}{B}{B}
+rules_text: Ward—Sacrifice a nontoken creature => Ward—Sacrifice a nontoken creature
+When Herrah, the Beast enters and at the beginning of your end step, if you've descended this turn, create a 1/2 black Spider creature token with deathtouch and reach.
+pt:  => 4/6
+
+RB06
+
+RB07
+
+RB08
+
+RW03
+rules_text: When this creature enters, search your library for an Equipment card => 
+
+RW01Marissa, City's Last Singer
+cost: {W} => {1}{W}
+rules_text:  => Flying
+Whenever you put one or more lore counters on a Saga you control, you gain 1 life. If you
+
+RW02Godseeker of the Pantheons
+
+RW04
+
+RW05
+
+RW06
+
+RW07Ashenshell Duel
+
+RM05Markoth
+
+RG02Bardoon, Ageless Witness
+rules_text:  => At the beginning of your end step, if you've descended this turn, return target permanent card from your graveyard to your hand that wasn't put there this turn. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+
+RG04
+
+RG03
+
+RG05
+
+RG06
+
+RG07
+
+RG08
+
+RC02The Dream Nail
+rules_text: Equipped creature gets +1/+1 and can't be blocked.
+When The Dream Nail enters and whenever equipped creature attacks, exile up to one target card from a graveyard.
+As long as The Dream Nail is attached to a creature, you may cast permanent cards exiled with it. If you cast a spell this way, it enters with a finality counter on it
+Equip {2} => 
+Equip {2}
+
+RB09
+
+RW09
+
+RU09Unavoidable Fate
+
+RR09
+
+RG09
+
+RM12
+
+RC03Dirtmouth, the Fading Town
+
+RM13
+
+MW03
+
+M
+
+M
+
+M
+
+M
+
+MM03
+
+CU01Lumafly in a Jar
+
+CU07Flukemunga
+
+CU03Acidic Obble
+
+CU09Lifeblood Infusion
+
+CU04
+
+CU02
+
+CU12Monomon's Wisdom
+
+CU10Bottle Up
+
+CU13
+
+CU14
+
+CU15Profane Study
+
+CU08
+type: Enchantment Creture — Saga => Enchantment Creature — Saga Snail
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — 
+II — 
+III — 
+---
+
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — 
+II — 
+III — 
+---
+
+
+CH08
+
+UM02
+type:  => Sorcery
+cost: {W}{U} => {2}{W}{U}
+rules_text: [b]This spell costs {1} less to cast if you control an artifact and {1} less to cast if you control an enchantment.[/b] => This spell costs {1} less to cast if you control an artifact and {1} less to cast if you control an enchantment.
+
+RG01Cloth's Morbid Deathwish
+rules_text: 
+Create a 2/2 colorless Insect creature token.
+Put a +1/+1 counter on target creature you control, then, double the number of +1/+1 counters on it.
+The creature you control with the highest power fights target creature you don't control. Then, sacrifice that creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Create a 2/2 colorless Insect creature token.
+II, III — Put a +1/+1 counter on target creature you control, then, double the number of +1/+1 counters on it.
+IV — The creature you control with the highest power fights target creature you don't control. Then, sacrifice that creature.
+special_text: 
+Create a 2/2 colorless Insect creature token.
+Put a +1/+1 counter on target creature you control, then, double the number of +1/+1 counters on it.
+The creature you control with the highest power fights target creature you don't control. Then, sacrifice that creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Create a 2/2 colorless Insect creature token.
+II, III — Put a +1/+1 counter on target creature you control, then, double the number of +1/+1 counters on it.
+IV — The creature you control with the highest power fights target creature you don't control. Then, sacrifice that creature.
+
+RB03Zote's Dangerous Arrogance
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Progress [i](: Put a lore counter on this Saga. Progress only as a sorcery.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Progress [i](: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+I — 
+II — 
+III —
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Progress [i](: Put a lore counter on this Saga. Progress only as a sorcery.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Progress [i](: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+I — 
+II — 
+III —
+
+RU08Quirrel's Lost Purpose
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Progress {U} [i]({U}: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+Return target creature you don't control to its owner's hand.
+Surveil 2.
+Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Progress {U} [i]({U}: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+I — Return target creature you don't control to its owner's hand.
+II, III — Surveil 2.
+IV — Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Progress {U} [i]({U}: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+Return target creature you don't control to its owner's hand.
+Surveil 2.
+Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Progress {U} [i]({U}: Put a lore counter on this Saga. Progress only as a sorcery.)[/i]
+I — Return target creature you don't control to its owner's hand.
+II, III — Surveil 2.
+IV — Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy.
+
+RW08Seer's Fated Ascension
+
+MG02The Mind of Unn
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — 
+II — 
+III — 
+---
+
+special_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — 
+II — 
+III — 
+---
+
+
+MB03The Shade Lord
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+ Indestructible
+Any number of target players each discard a card.
+Exile The Shade Lord. Then, you may cast it from exile transform without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Any number of target players each discard a card.
+III — Indestructible
+IV — Exile The Shade Lord. Then, you may cast it from exile transform without paying its mana cost.
+---
+ Indestructible
+special_text: [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+ Indestructible
+Any number of target players each discard a card.
+Exile The Shade Lord. Then, you may cast it from exile transform without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter.)[/i]
+I, II — Any number of target players each discard a card.
+III — Indestructible
+IV — Exile The Shade Lord. Then, you may cast it from exile transform without paying its mana cost.
+---
+ Indestructible
+
+
+VERSION 6 CHANGELOG
 ====================
 
 CW08Grubberfly's Elegy added.

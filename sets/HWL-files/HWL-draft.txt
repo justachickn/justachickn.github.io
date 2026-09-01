@@ -313,7 +313,7 @@
 		{
 			"name": "CR03Sprintmaster",
 			"rarity": "common",
-			"mana_cost": "{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
 			"collector_number": "124",
 			"image_uris": {
@@ -393,7 +393,7 @@
 		{
 			"name": "CR11",
 			"rarity": "common",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"collector_number": "131",
 			"image_uris": {
@@ -1001,7 +1001,7 @@
 			}
 		},
 		{
-			"name": "UB02Bretta",
+			"name": "UB02Bretta, Obsessive Fanatic",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Bettle Citizen",
@@ -1261,10 +1261,10 @@
 			}
 		},
 		{
-			"name": "UG06",
+			"name": "UG06Shrumal Shaman",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Creature",
+			"type": "Creature — Fungus Shaman",
 			"collector_number": "188",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/126.png"
@@ -1731,53 +1731,13 @@
 			}
 		},
 		{
-			"name": "RR01Grimm's Unending Cycle",
-			"rarity": "rare",
-			"mana_cost": "{1}{R}",
-			"type": "Legendary Enchantment — Saga",
-			"collector_number": "136",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/173.png"
-			}
-		},
-		{
-			"name": "RG01Cloth's Morbid Deathwish",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Legendary Enchantment — Saga",
-			"collector_number": "174",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/174.png"
-			}
-		},
-		{
-			"name": "RB03Zote's Dangerous Arrogance",
-			"rarity": "rare",
-			"mana_cost": "{4}{B}",
-			"type": "Legendary Enchantment — Saga",
-			"collector_number": "101",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/175.png"
-			}
-		},
-		{
-			"name": "RU08Quirrel's Lost Purpose",
-			"rarity": "rare",
-			"mana_cost": "{2}{U}",
-			"type": "Legendary Enchantment — Saga",
-			"collector_number": "67",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/176.png"
-			}
-		},
-		{
 			"name": "CW14Radiance's Grasp",
 			"rarity": "common",
 			"mana_cost": "{1}{W}{W}{W}",
 			"type": "Instant",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/177.png"
+				"en": "https://justachickn.github.io/sets/HWL-files/img/173.png"
 			}
 		},
 		{
@@ -1787,7 +1747,7 @@
 			"type": "Legendary Creature — Beetle Mount",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/178.png"
+				"en": "https://justachickn.github.io/sets/HWL-files/img/174.png"
 			}
 		},
 		{
@@ -1797,7 +1757,7 @@
 			"type": "Creature — Mantis Warrior",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/179.png"
+				"en": "https://justachickn.github.io/sets/HWL-files/img/175.png"
 			}
 		},
 		{
@@ -1807,7 +1767,7 @@
 			"type": "Legendary Enchantment Creature — Jellyfish",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/180.png"
+				"en": "https://justachickn.github.io/sets/HWL-files/img/176.png"
 			}
 		},
 		{
@@ -1817,7 +1777,7 @@
 			"type": "Legendary Creature — Horror Shapeshifter",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/181.png"
+				"en": "https://justachickn.github.io/sets/HWL-files/img/177.png"
 			}
 		},
 		{
@@ -1827,7 +1787,7 @@
 			"type": "Instant",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/182.png"
+				"en": "https://justachickn.github.io/sets/HWL-files/img/178.png"
 			}
 		},
 		{
@@ -1837,7 +1797,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/183.png"
+				"en": "https://justachickn.github.io/sets/HWL-files/img/179.png"
 			}
 		},
 		{
@@ -1847,7 +1807,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/184.png"
+				"en": "https://justachickn.github.io/sets/HWL-files/img/180.png"
 			}
 		},
 		{
@@ -1857,24 +1817,7 @@
 			"type": "",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/185.png"
-			}
-		},
-		{
-			"name": "MW02The Radiance, Absolute",
-			"rarity": "mythic",
-			"mana_cost": "{5}{W}{W}",
-			"type": "Legendary Enchantment Creature — Saga Moth",
-			"collector_number": "20",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://justachickn.github.io/sets/HWL-files/img/186_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/186_front.png"
+				"en": "https://justachickn.github.io/sets/HWL-files/img/181.png"
 			}
 		},
 		{
@@ -1884,24 +1827,7 @@
 			"type": "",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/187.png"
-			}
-		},
-		{
-			"name": "MU02Lifeblood Incarnate",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Enchantment Creature — Saga Horror",
-			"collector_number": "59",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://justachickn.github.io/sets/HWL-files/img/188_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/188_front.png"
+				"en": "https://justachickn.github.io/sets/HWL-files/img/182.png"
 			}
 		},
 		{
@@ -1911,7 +1837,7 @@
 			"type": "Legendary Creature — Shade",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/189.png"
+				"en": "https://justachickn.github.io/sets/HWL-files/img/183.png"
 			}
 		},
 		{
@@ -1921,7 +1847,7 @@
 			"type": "Sorcery",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/190.png"
+				"en": "https://justachickn.github.io/sets/HWL-files/img/184.png"
 			}
 		},
 		{
@@ -1931,24 +1857,7 @@
 			"type": "",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/191.png"
-			}
-		},
-		{
-			"name": "MR02The Nightmare Heart",
-			"rarity": "mythic",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Enchantment Creature — Saga Nightmare",
-			"collector_number": "135",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://justachickn.github.io/sets/HWL-files/img/192_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/192_front.png"
+				"en": "https://justachickn.github.io/sets/HWL-files/img/185.png"
 			}
 		},
 		{
@@ -1958,7 +1867,838 @@
 			"type": "",
 			"collector_number": "172",
 			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/186.png"
+			}
+		},
+		{
+			"name": "CH02Crawling Dirtcarver",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Creature — Insect",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/187.png"
+			}
+		},
+		{
+			"name": "MM02Cornifer, the Wayfaring",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Legendary Creature — Insect Scout",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/188.png"
+			}
+		},
+		{
+			"name": "RM06Soul Master of the Sanctum",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Insect Warlock",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/189.png"
+			}
+		},
+		{
+			"name": "RM09",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/190.png"
+			}
+		},
+		{
+			"name": "RM08God Tamer, Fool's Trial",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Insect Warrior",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/191.png"
+			}
+		},
+		{
+			"name": "RM10The Hunter",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Creature — Insect Ranger",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/192.png"
+			}
+		},
+		{
+			"name": "RM01Nailmsmith Folly",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/193.png"
+			}
+		},
+		{
+			"name": "RM07",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/194.png"
+			}
+		},
+		{
+			"name": "MM01Grimm, Troupemaster",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Bat Avatar",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/195.png"
+			}
+		},
+		{
+			"name": "RU06",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/196.png"
+			}
+		},
+		{
+			"name": "RU02Lurien, the Watcher",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Enchantment Creature — Insect",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/197.png"
+			}
+		},
+		{
+			"name": "RU07",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/198.png"
+			}
+		},
+		{
+			"name": "RU04Eyeless Weaper",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment Creature — Saga Spirit",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/199.png"
+			}
+		},
+		{
+			"name": "RU05",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/200.png"
+			}
+		},
+		{
+			"name": "RU03The Collector",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Horror",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/201.png"
+			}
+		},
+		{
+			"name": "RU01The Snail Shaman",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Snail Shaman",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/202.png"
+			}
+		},
+		{
+			"name": "RR05",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/203.png"
+			}
+		},
+		{
+			"name": "RR08",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/204.png"
+			}
+		},
+		{
+			"name": "RR06",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/205.png"
+			}
+		},
+		{
+			"name": "RR07",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/206.png"
+			}
+		},
+		{
+			"name": "RR03",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/207.png"
+			}
+		},
+		{
+			"name": "RR04",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/208.png"
+			}
+		},
+		{
+			"name": "RM11The Hollow Knight",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Creature — Shade Zombie",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/209.png"
+			}
+		},
+		{
+			"name": "RB01Zote, the Mighty",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/210.png"
+			}
+		},
+		{
+			"name": "RB04Herrah, the Beast",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Enchantment Creature — Spider",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/211.png"
+			}
+		},
+		{
+			"name": "RB06",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/212.png"
+			}
+		},
+		{
+			"name": "RB07",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/213.png"
+			}
+		},
+		{
+			"name": "RB08",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/214.png"
+			}
+		},
+		{
+			"name": "RW03",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Insect Artificer",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/215.png"
+			}
+		},
+		{
+			"name": "RW01Marissa, City's Last Singer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Spirit Bard",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/216.png"
+			}
+		},
+		{
+			"name": "RW02Godseeker of the Pantheons",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Legendary Creature — Insect Avatar",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/217.png"
+			}
+		},
+		{
+			"name": "RW04",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/218.png"
+			}
+		},
+		{
+			"name": "RW05",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/219.png"
+			}
+		},
+		{
+			"name": "RW06",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/220.png"
+			}
+		},
+		{
+			"name": "RW07Ashenshell Duel",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/221.png"
+			}
+		},
+		{
+			"name": "RM05Markoth",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Legendary Creature — Spirit Warrior",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/222.png"
+			}
+		},
+		{
+			"name": "RG02Bardoon, Ageless Witness",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/223.png"
+			}
+		},
+		{
+			"name": "RG04",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/224.png"
+			}
+		},
+		{
+			"name": "RG03",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/225.png"
+			}
+		},
+		{
+			"name": "RG05",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/226.png"
+			}
+		},
+		{
+			"name": "RG06",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/227.png"
+			}
+		},
+		{
+			"name": "RG07",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/228.png"
+			}
+		},
+		{
+			"name": "RG08",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/229.png"
+			}
+		},
+		{
+			"name": "RC02The Dream Nail",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/230.png"
+			}
+		},
+		{
+			"name": "RB09",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/231.png"
+			}
+		},
+		{
+			"name": "RW09",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/232.png"
+			}
+		},
+		{
+			"name": "RU09Unavoidable Fate",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/233.png"
+			}
+		},
+		{
+			"name": "RR09",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/234.png"
+			}
+		},
+		{
+			"name": "RG09",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/235.png"
+			}
+		},
+		{
+			"name": "RM12",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/236.png"
+			}
+		},
+		{
+			"name": "RC03Dirtmouth, the Fading Town",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Land — Cave Town",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/237.png"
+			}
+		},
+		{
+			"name": "RM13",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/238.png"
+			}
+		},
+		{
+			"name": "MW03",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/239.png"
+			}
+		},
+		{
+			"name": "M",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/240.png"
+			}
+		},
+		{
+			"name": "M",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/241.png"
+			}
+		},
+		{
+			"name": "M",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/242.png"
+			}
+		},
+		{
+			"name": "M",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/243.png"
+			}
+		},
+		{
+			"name": "MM03",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/244.png"
+			}
+		},
+		{
+			"name": "CU01Lumafly in a Jar",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Insect",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/245.png"
+			}
+		},
+		{
+			"name": "CU07Flukemunga",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Worm",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/246.png"
+			}
+		},
+		{
+			"name": "CU03Acidic Obble",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/247.png"
+			}
+		},
+		{
+			"name": "CU09Lifeblood Infusion",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/248.png"
+			}
+		},
+		{
+			"name": "CU04",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/249.png"
+			}
+		},
+		{
+			"name": "CU02",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/250.png"
+			}
+		},
+		{
+			"name": "CU12Monomon's Wisdom",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/251.png"
+			}
+		},
+		{
+			"name": "CU10Bottle Up",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/252.png"
+			}
+		},
+		{
+			"name": "CU13",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/253.png"
+			}
+		},
+		{
+			"name": "CU14",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/254.png"
+			}
+		},
+		{
+			"name": "CU15Profane Study",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/255.png"
+			}
+		},
+		{
+			"name": "CU08",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment Creature — Saga Snail",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/256.png"
+			}
+		},
+		{
+			"name": "CH08",
+			"rarity": "common",
+			"mana_cost": "{U/R}",
+			"type": "Creature",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/257.png"
+			}
+		},
+		{
+			"name": "UM02",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/258.png"
+			}
+		},
+		{
+			"name": "CR12Barter",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/259.png"
+			}
+		},
+		{
+			"name": "RR01Hornet's Fierce Guardianship",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Enchantment — Saga",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/260.png"
+			}
+		},
+		{
+			"name": "RG01Cloth's Morbid Deathwish",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Enchantment — Saga",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/261.png"
+			}
+		},
+		{
+			"name": "RB03Zote's Dangerous Arrogance",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Enchantment — Saga",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/262.png"
+			}
+		},
+		{
+			"name": "RU08Quirrel's Lost Purpose",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Enchantment — Saga",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/263.png"
+			}
+		},
+		{
+			"name": "RW08Seer's Fated Ascension",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Enchantment — Saga",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/269.png"
+			}
+		},
+		{
+			"name": "MW02aThe Radiance, Absolute",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Legendary Enchantment Creature — Saga Moth",
+			"collector_number": "20",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://justachickn.github.io/sets/HWL-files/img/270_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/270_front.png"
+			}
+		},
+		{
+			"name": "MU02aLifeblood Incarnate",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Enchantment Creature — Saga Horror",
+			"collector_number": "59",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://justachickn.github.io/sets/HWL-files/img/271_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/271_front.png"
+			}
+		},
+		{
+			"name": "MR02aThe Nightmare Heart",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Enchantment Creature — Saga Nightmare",
+			"collector_number": "135",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://justachickn.github.io/sets/HWL-files/img/272_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/272_front.png"
 			}
 		},
 		{
@@ -1971,291 +2711,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://justachickn.github.io/sets/HWL-files/img/194_back.png"
+					"en": "https://justachickn.github.io/sets/HWL-files/img/273_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/194_front.png"
-			}
-		},
-		{
-			"name": "CH02Crawling Dirtcarver",
-			"rarity": "common",
-			"mana_cost": "{1}{U/B}",
-			"type": "Creature — Insect",
-			"collector_number": "233",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/195.png"
-			}
-		},
-		{
-			"name": "MM02Cornifer, the Wayfaring",
-			"rarity": "mythic",
-			"mana_cost": "{3}{G}{U}",
-			"type": "Legendary Creature — Insect Scout",
-			"collector_number": "198",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/196.png"
-			}
-		},
-		{
-			"name": "RM06Soul Master of the Sanctum",
-			"rarity": "rare",
-			"mana_cost": "{U}{B}",
-			"type": "Legendary Creature — Insect Warlock",
-			"collector_number": "204",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/197.png"
-			}
-		},
-		{
-			"name": "RM09",
-			"rarity": "rare",
-			"mana_cost": "{B}{R}",
-			"type": "Enchantment",
-			"collector_number": "207",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/198.png"
-			}
-		},
-		{
-			"name": "RM08God Tamer, Fool's Trial",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}{G}",
-			"type": "Legendary Creature — Insect Warrior",
-			"collector_number": "206",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/199.png"
-			}
-		},
-		{
-			"name": "RM10The Hunter",
-			"rarity": "rare",
-			"mana_cost": "{4}{B}{G}",
-			"type": "Legendary Creature — Insect Ranger",
-			"collector_number": "208",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/200.png"
-			}
-		},
-		{
-			"name": "RM01Nailmsmith Folly",
-			"rarity": "rare",
-			"mana_cost": "{4}{R}{W}",
-			"type": "Sorcery",
-			"collector_number": "199",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/201.png"
-			}
-		},
-		{
-			"name": "RM07",
-			"rarity": "rare",
-			"mana_cost": "{G}{U}",
-			"type": "",
-			"collector_number": "205",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/202.png"
-			}
-		},
-		{
-			"name": "MM01Grimm, Troupemaster",
-			"rarity": "mythic",
-			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature — Bat Avatar",
-			"collector_number": "197",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/203.png"
-			}
-		},
-		{
-			"name": "RU06",
-			"rarity": "rare",
-			"mana_cost": "{U}",
-			"type": "",
-			"collector_number": "65",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/204.png"
-			}
-		},
-		{
-			"name": "RU02Lurien, the Watcher",
-			"rarity": "rare",
-			"mana_cost": "{2}{U}{U}",
-			"type": "Legendary Enchantment Creature — Insect",
-			"collector_number": "61",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/205.png"
-			}
-		},
-		{
-			"name": "RU07",
-			"rarity": "rare",
-			"mana_cost": "{U}",
-			"type": "Instant",
-			"collector_number": "66",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/206.png"
-			}
-		},
-		{
-			"name": "RU04Eyeless Weaper",
-			"rarity": "rare",
-			"mana_cost": "{U}",
-			"type": "Enchantment Creature — Saga",
-			"collector_number": "63",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/207.png"
-			}
-		},
-		{
-			"name": "RU05",
-			"rarity": "rare",
-			"mana_cost": "{U}",
-			"type": "Artifact",
-			"collector_number": "64",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/208.png"
-			}
-		},
-		{
-			"name": "RU03The Collector",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}",
-			"type": "Legendary Creature — Horror",
-			"collector_number": "62",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/209.png"
-			}
-		},
-		{
-			"name": "RU01The Snail Shaman",
-			"rarity": "rare",
-			"mana_cost": "{1}{U}",
-			"type": "Legendary Creature — Snail Shaman",
-			"collector_number": "60",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/210.png"
-			}
-		},
-		{
-			"name": "RR05",
-			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "",
-			"collector_number": "140",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/211.png"
-			}
-		},
-		{
-			"name": "RR08",
-			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "",
-			"collector_number": "143",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/212.png"
-			}
-		},
-		{
-			"name": "RR06",
-			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "",
-			"collector_number": "141",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/213.png"
-			}
-		},
-		{
-			"name": "RR07",
-			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "",
-			"collector_number": "142",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/214.png"
-			}
-		},
-		{
-			"name": "RR03",
-			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "",
-			"collector_number": "138",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/215.png"
-			}
-		},
-		{
-			"name": "RR04",
-			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "",
-			"collector_number": "139",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/216.png"
-			}
-		},
-		{
-			"name": "RM11The Hollow Knight",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}{B}",
-			"type": "Legendary Creature — Shade Zombie",
-			"collector_number": "209",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/217.png"
-			}
-		},
-		{
-			"name": "RB01Zote, the Mighty",
-			"rarity": "rare",
-			"mana_cost": "{B}",
-			"type": "Legendary Creature — Insect",
-			"collector_number": "99",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/218.png"
-			}
-		},
-		{
-			"name": "RB04Herrah, the Beast",
-			"rarity": "rare",
-			"mana_cost": "{B}",
-			"type": "Legendary Enchantment Creature — Spider",
-			"collector_number": "102",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/219.png"
-			}
-		},
-		{
-			"name": "RB06",
-			"rarity": "rare",
-			"mana_cost": "{B}",
-			"type": "",
-			"collector_number": "103",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/220.png"
-			}
-		},
-		{
-			"name": "RB07",
-			"rarity": "rare",
-			"mana_cost": "{B}",
-			"type": "",
-			"collector_number": "104",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/221.png"
-			}
-		},
-		{
-			"name": "RB08",
-			"rarity": "rare",
-			"mana_cost": "{B}",
-			"type": "Enchantment",
-			"collector_number": "105",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/222.png"
+				"en": "https://justachickn.github.io/sets/HWL-files/img/273_front.png"
 			}
 		},
 		{
@@ -2268,480 +2728,16 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://justachickn.github.io/sets/HWL-files/img/223_back.png"
+					"en": "https://justachickn.github.io/sets/HWL-files/img/274_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/223_front.png"
+				"en": "https://justachickn.github.io/sets/HWL-files/img/274_front.png"
 			}
 		},
-		{
-			"name": "RW03",
-			"rarity": "rare",
-			"mana_cost": "{W}",
-			"type": "Legendary Creature — Insect Artificer",
-			"collector_number": "24",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/224.png"
-			}
-		},
-		{
-			"name": "RW01Marissa, City's Last Singer",
-			"rarity": "rare",
-			"mana_cost": "{W}",
-			"type": "Legendary Creature — Spirit Bard",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/225.png"
-			}
-		},
-		{
-			"name": "RW02Godseeker of the Pantheons",
-			"rarity": "rare",
-			"mana_cost": "{4}{W}",
-			"type": "Legendary Creature — Insect Avatar",
-			"collector_number": "23",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/226.png"
-			}
-		},
-		{
-			"name": "RW04",
-			"rarity": "rare",
-			"mana_cost": "{W}",
-			"type": "",
-			"collector_number": "25",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/227.png"
-			}
-		},
-		{
-			"name": "RW05",
-			"rarity": "rare",
-			"mana_cost": "{W}",
-			"type": "",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/228.png"
-			}
-		},
-		{
-			"name": "RW06",
-			"rarity": "rare",
-			"mana_cost": "{W}",
-			"type": "",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/229.png"
-			}
-		},
-		{
-			"name": "RW07Ashenshell Duel",
-			"rarity": "rare",
-			"mana_cost": "{W}",
-			"type": "",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/230.png"
-			}
-		},
-		{
-			"name": "RW08Seer's Fated Ascension",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Enchantment — Saga",
-			"collector_number": "29",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/231.png"
-			}
-		},
-		{
-			"name": "RM05Markoth",
-			"rarity": "rare",
-			"mana_cost": "{4}{W}{U}",
-			"type": "Legendary Creature — Spirit Warrior",
-			"collector_number": "203",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/232.png"
-			}
-		},
-		{
-			"name": "RG02Bardoon, Ageless Witness",
-			"rarity": "rare",
-			"mana_cost": "{3}{G}{G}",
-			"type": "Legendary Creature — Insect",
-			"collector_number": "175",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/233.png"
-			}
-		},
-		{
-			"name": "RG04",
-			"rarity": "rare",
-			"mana_cost": "{G}",
-			"type": "",
-			"collector_number": "177",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/234.png"
-			}
-		},
-		{
-			"name": "RG03",
-			"rarity": "rare",
-			"mana_cost": "{G}",
-			"type": "",
-			"collector_number": "176",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/235.png"
-			}
-		},
-		{
-			"name": "RG05",
-			"rarity": "rare",
-			"mana_cost": "{G}",
-			"type": "",
-			"collector_number": "178",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/236.png"
-			}
-		},
-		{
-			"name": "RG06",
-			"rarity": "rare",
-			"mana_cost": "{G}",
-			"type": "",
-			"collector_number": "179",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/237.png"
-			}
-		},
-		{
-			"name": "RG07",
-			"rarity": "rare",
-			"mana_cost": "{G}",
-			"type": "",
-			"collector_number": "180",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/238.png"
-			}
-		},
-		{
-			"name": "RG08",
-			"rarity": "rare",
-			"mana_cost": "{G}",
-			"type": "",
-			"collector_number": "181",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/239.png"
-			}
-		},
-		{
-			"name": "RC02The Dream Nail",
-			"rarity": "rare",
-			"mana_cost": "{2}",
-			"type": "Legendary Artifact — Equipment",
-			"collector_number": "248",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/240.png"
-			}
-		},
-		{
-			"name": "RB09",
-			"rarity": "rare",
-			"mana_cost": "{B}",
-			"type": "",
-			"collector_number": "106",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/241.png"
-			}
-		},
-		{
-			"name": "RW09",
-			"rarity": "rare",
-			"mana_cost": "{W}",
-			"type": "",
-			"collector_number": "30",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/242.png"
-			}
-		},
-		{
-			"name": "RU09Unavoidable Fate",
-			"rarity": "rare",
-			"mana_cost": "{U}",
-			"type": "Sorcery",
-			"collector_number": "68",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/243.png"
-			}
-		},
-		{
-			"name": "RR09",
-			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "",
-			"collector_number": "144",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/244.png"
-			}
-		},
-		{
-			"name": "RG09",
-			"rarity": "rare",
-			"mana_cost": "{G}",
-			"type": "",
-			"collector_number": "182",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/245.png"
-			}
-		},
-		{
-			"name": "RM12",
-			"rarity": "rare",
-			"mana_cost": "{W}{U}{B}",
-			"type": "",
-			"collector_number": "210",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/246.png"
-			}
-		},
-		{
-			"name": "RC03Dirtmouth, the Fading Town",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Legendary Land — Cave Town",
-			"collector_number": "258",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/247.png"
-			}
-		},
-		{
-			"name": "RM13",
-			"rarity": "rare",
-			"mana_cost": "{R}{G}{W}",
-			"type": "",
-			"collector_number": "211",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/248.png"
-			}
-		},
-		{
-			"name": "MW03",
-			"rarity": "mythic",
-			"mana_cost": "{W}",
-			"type": "",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/249.png"
-			}
-		},
-		{
-			"name": "M",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/250.png"
-			}
-		},
-		{
-			"name": "M",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/251.png"
-			}
-		},
-		{
-			"name": "M",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/252.png"
-			}
-		},
-		{
-			"name": "M",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/253.png"
-			}
-		},
-		{
-			"name": "MM03",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/254.png"
-			}
-		},
-		{
-			"name": "CU01Lumafly in a Jar",
-			"rarity": "common",
-			"mana_cost": "{U}",
-			"type": "Artifact Creature — Insect",
-			"collector_number": "45",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/255.png"
-			}
-		},
-		{
-			"name": "CU07Flukemunga",
-			"rarity": "common",
-			"mana_cost": "{4}{U}{U}",
-			"type": "Creature — Worm",
-			"collector_number": "50",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/256.png"
-			}
-		},
-		{
-			"name": "CU03Acidic Obble",
-			"rarity": "common",
-			"mana_cost": "{2}{U}",
-			"type": "Creature — Insect",
-			"collector_number": "47",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/257.png"
-			}
-		},
-		{
-			"name": "CU09Lifeblood Infusion",
-			"rarity": "common",
-			"mana_cost": "{U}",
-			"type": "Enchantment",
-			"collector_number": "52",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/258.png"
-			}
-		},
-		{
-			"name": "CU04",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Artifact — Equipment",
-			"collector_number": "48",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/259.png"
-			}
-		},
-		{
-			"name": "CU02",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Enchantment Creature",
-			"collector_number": "46",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/260.png"
-			}
-		},
-		{
-			"name": "CU12Monomon's Wisdom",
-			"rarity": "common",
-			"mana_cost": "{3}{U}",
-			"type": "Sorcery",
-			"collector_number": "54",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/261.png"
-			}
-		},
-		{
-			"name": "CU10Bottle Up",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "53",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/262.png"
-			}
-		},
-		{
-			"name": "CU13",
-			"rarity": "common",
-			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Aura",
-			"collector_number": "55",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/263.png"
-			}
-		},
-		{
-			"name": "CU14",
-			"rarity": "common",
-			"mana_cost": "{4}{U}",
-			"type": "Instant",
-			"collector_number": "56",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/264.png"
-			}
-		},
-		{
-			"name": "CU15Profane Study",
-			"rarity": "common",
-			"mana_cost": "{U}",
-			"type": "Instant",
-			"collector_number": "57",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/265.png"
-			}
-		},
-		{
-			"name": "CU08",
-			"rarity": "common",
-			"mana_cost": "{3}{U}{U}",
-			"type": "Enchantment Creture — Saga",
-			"collector_number": "51",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/266.png"
-			}
-		},
-		{
-			"name": "CH08",
-			"rarity": "common",
-			"mana_cost": "{U/R}",
-			"type": "Creature",
-			"collector_number": "239",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/267.png"
-			}
-		},
-		{
-			"name": "UM02",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{U}",
-			"type": "",
-			"collector_number": "213",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/268.png"
-			}
-		},
-		{
-			"name": "CR12",
-			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Instant",
-			"collector_number": "132",
-			"image_uris": {
-				"en": "https://justachickn.github.io/sets/HWL-files/img/269.png"
-			}
-		}
 	]
 
 [rare(1)]
-	2 RR01Grimm's Unending Cycle
-	2 RG01Cloth's Morbid Deathwish
-	2 RB03Zote's Dangerous Arrogance
-	2 RU08Quirrel's Lost Purpose
 	2 RM04Last Stag, Faithful Carrier
 	2 RR02Tough Claw
 	2 RM02Monomon, the Teacher
@@ -2750,15 +2746,11 @@
 	1 MC01Pale Nail
 	2 RC01Channeled Nail
 	1 MW01The White Lady, Pale Root
-	1 MW02The Radiance, Absolute
 	1 MU01
-	1 MU02Lifeblood Incarnate
 	1 MB01The Vessel, Hallownest's Hope
 	1 MB02Opening of the Black Egg
 	1 MR01
-	1 MR02The Nightmare Heart
 	1 MG01
-	1 MG02The Mind of Unn
 	1 MM02Cornifer, the Wayfaring
 	2 RM06Soul Master of the Sanctum
 	2 RM09
@@ -2786,7 +2778,6 @@
 	2 RB06
 	2 RB07
 	2 RB08
-	1 MB03The Shade Lord
 	2 RW03
 	2 RW01Marissa, City's Last Singer
 	2 RW02Godseeker of the Pantheons
@@ -2794,7 +2785,6 @@
 	2 RW05
 	2 RW06
 	2 RW07Ashenshell Duel
-	2 RW08Seer's Fated Ascension
 	2 RM05Markoth
 	2 RG02Bardoon, Ageless Witness
 	2 RG04
@@ -2818,6 +2808,16 @@
 	1 M
 	1 M
 	1 MM03
+	2 RR01Hornet's Fierce Guardianship
+	2 RG01Cloth's Morbid Deathwish
+	2 RB03Zote's Dangerous Arrogance
+	2 RU08Quirrel's Lost Purpose
+	2 RW08Seer's Fated Ascension
+	1 MW02aThe Radiance, Absolute
+	1 MU02aLifeblood Incarnate
+	1 MR02aThe Nightmare Heart
+	1 MG02The Mind of Unn
+	1 MB03The Shade Lord
 [uncommon(3)]
 	4 UM07Elder Hu, Tending Sage
 	4 UM15The Traitor Lord
@@ -2861,7 +2861,7 @@
 	4 UU10
 	4 UU11
 	4 UB01Milibelle, Sketchy Banker
-	4 UB02Bretta
+	4 UB02Bretta, Obsessive Fanatic
 	4 UB03Midwife
 	4 UB04Confessor Jiji
 	4 UB05Fury of the Fallen
@@ -2887,7 +2887,7 @@
 	4 UG03Willow, Voracious Eater
 	4 UG04Marmu, Garden Protector
 	4 UG05Hiveblood
-	4 UG06
+	4 UG06Shrumal Shaman
 	4 UG07
 	4 UG08
 	4 UG09
@@ -3009,7 +3009,7 @@
 	8 CU15Profane Study
 	8 CU08
 	8 CH08
-	8 CR12
+	8 CR12Barter
 [common | masterpiece(1)]
 	8 CW01Lightseed
 	8 CW02Dreamwielder Moth
@@ -3100,7 +3100,7 @@
 	8 CU15Profane Study
 	8 CU08
 	8 CH08
-	8 CR12
+	8 CR12Barter
 [foil(1)]
 	12 CW01Lightseed
 	12 CW02Dreamwielder Moth
@@ -3202,7 +3202,7 @@
 	6 UU10
 	6 UU11
 	6 UB01Milibelle, Sketchy Banker
-	6 UB02Bretta
+	6 UB02Bretta, Obsessive Fanatic
 	6 UB03Midwife
 	6 UB04Confessor Jiji
 	6 UB05Fury of the Fallen
@@ -3228,7 +3228,7 @@
 	6 UG03Willow, Voracious Eater
 	6 UG04Marmu, Garden Protector
 	6 UG05Hiveblood
-	6 UG06
+	6 UG06Shrumal Shaman
 	6 UG07
 	6 UG08
 	6 UG09
@@ -3275,10 +3275,6 @@
 	12 CL01Sacred Cemetery
 	12 CL03Infected Caverns
 	12 CL10Undercity Canals
-	2 RR01Grimm's Unending Cycle
-	2 RG01Cloth's Morbid Deathwish
-	2 RB03Zote's Dangerous Arrogance
-	2 RU08Quirrel's Lost Purpose
 	12 CW14Radiance's Grasp
 	2 RM04Last Stag, Faithful Carrier
 	2 RR02Tough Claw
@@ -3288,15 +3284,11 @@
 	1 MC01Pale Nail
 	2 RC01Channeled Nail
 	1 MW01The White Lady, Pale Root
-	1 MW02The Radiance, Absolute
 	1 MU01
-	1 MU02Lifeblood Incarnate
 	1 MB01The Vessel, Hallownest's Hope
 	1 MB02Opening of the Black Egg
 	1 MR01
-	1 MR02The Nightmare Heart
 	1 MG01
-	1 MG02The Mind of Unn
 	12 CH02Crawling Dirtcarver
 	1 MM02Cornifer, the Wayfaring
 	2 RM06Soul Master of the Sanctum
@@ -3325,7 +3317,6 @@
 	2 RB06
 	2 RB07
 	2 RB08
-	1 MB03The Shade Lord
 	2 RW03
 	2 RW01Marissa, City's Last Singer
 	2 RW02Godseeker of the Pantheons
@@ -3333,7 +3324,6 @@
 	2 RW05
 	2 RW06
 	2 RW07Ashenshell Duel
-	2 RW08Seer's Fated Ascension
 	2 RM05Markoth
 	2 RG02Bardoon, Ageless Witness
 	2 RG04
@@ -3371,7 +3361,17 @@
 	12 CU08
 	12 CH08
 	6 UM02
-	12 CR12
+	12 CR12Barter
+	2 RR01Hornet's Fierce Guardianship
+	2 RG01Cloth's Morbid Deathwish
+	2 RB03Zote's Dangerous Arrogance
+	2 RU08Quirrel's Lost Purpose
+	2 RW08Seer's Fated Ascension
+	1 MW02aThe Radiance, Absolute
+	1 MU02aLifeblood Incarnate
+	1 MR02aThe Nightmare Heart
+	1 MG02The Mind of Unn
+	1 MB03The Shade Lord
 [wildcard(1)]
 	6 CW01Lightseed
 	6 CW02Dreamwielder Moth
@@ -3473,7 +3473,7 @@
 	15 UU10
 	15 UU11
 	15 UB01Milibelle, Sketchy Banker
-	15 UB02Bretta
+	15 UB02Bretta, Obsessive Fanatic
 	15 UB03Midwife
 	15 UB04Confessor Jiji
 	15 UB05Fury of the Fallen
@@ -3499,7 +3499,7 @@
 	15 UG03Willow, Voracious Eater
 	15 UG04Marmu, Garden Protector
 	15 UG05Hiveblood
-	15 UG06
+	15 UG06Shrumal Shaman
 	15 UG07
 	15 UG08
 	15 UG09
@@ -3546,10 +3546,6 @@
 	6 CL01Sacred Cemetery
 	6 CL03Infected Caverns
 	6 CL10Undercity Canals
-	7 RR01Grimm's Unending Cycle
-	7 RG01Cloth's Morbid Deathwish
-	7 RB03Zote's Dangerous Arrogance
-	7 RU08Quirrel's Lost Purpose
 	6 CW14Radiance's Grasp
 	7 RM04Last Stag, Faithful Carrier
 	7 RR02Tough Claw
@@ -3559,15 +3555,11 @@
 	4 MC01Pale Nail
 	7 RC01Channeled Nail
 	4 MW01The White Lady, Pale Root
-	4 MW02The Radiance, Absolute
 	4 MU01
-	4 MU02Lifeblood Incarnate
 	4 MB01The Vessel, Hallownest's Hope
 	4 MB02Opening of the Black Egg
 	4 MR01
-	4 MR02The Nightmare Heart
 	4 MG01
-	4 MG02The Mind of Unn
 	6 CH02Crawling Dirtcarver
 	4 MM02Cornifer, the Wayfaring
 	7 RM06Soul Master of the Sanctum
@@ -3596,7 +3588,6 @@
 	7 RB06
 	7 RB07
 	7 RB08
-	4 MB03The Shade Lord
 	7 RW03
 	7 RW01Marissa, City's Last Singer
 	7 RW02Godseeker of the Pantheons
@@ -3604,7 +3595,6 @@
 	7 RW05
 	7 RW06
 	7 RW07Ashenshell Duel
-	7 RW08Seer's Fated Ascension
 	7 RM05Markoth
 	7 RG02Bardoon, Ageless Witness
 	7 RG04
@@ -3642,4 +3632,14 @@
 	6 CU08
 	6 CH08
 	15 UM02
-	6 CR12
+	6 CR12Barter
+	7 RR01Hornet's Fierce Guardianship
+	7 RG01Cloth's Morbid Deathwish
+	7 RB03Zote's Dangerous Arrogance
+	7 RU08Quirrel's Lost Purpose
+	7 RW08Seer's Fated Ascension
+	4 MW02aThe Radiance, Absolute
+	4 MU02aLifeblood Incarnate
+	4 MR02aThe Nightmare Heart
+	4 MG02The Mind of Unn
+	4 MB03The Shade Lord

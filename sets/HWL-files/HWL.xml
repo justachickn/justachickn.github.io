@@ -5,7 +5,7 @@
 			<name>HWL</name>
 			<longname>Hollow Knight: Hallownest</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-30</releasedate>
+			<releasedate>2026-09-01</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -137,7 +137,11 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>CW09Moth of the Dreamshrine</name>
-			<text></text>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II, III — Another target creature you control gets +1/+1 until end of turn.
+IV — Other creatures you control get +1/+1 and gain vigilance until end of turn.
+---
+Vigilance</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/7.png" num="13">HWL</set>
 			<prop>
 				<layout>saga</layout>
@@ -348,7 +352,7 @@ Restless (When this creature dies, return it to the battlefield tapped under its
 		<card>
 			<name>CB04 Sharp Shadow</name>
 			<text>Charmed {3}{B} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)
-Whenever equipped creature attacks, it gains deathtouch until end of turn.
+Whenever you descend for the first time each turn, put a +1/+1 on equipped creature.
 Equip {3}</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/19.png" num="86">HWL</set>
 			<prop>
@@ -365,7 +369,10 @@ Equip {3}</text>
 		</card>
 		<card>
 			<name>CB05 Voidborn Tendrils</name>
-			<text></text>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II — Mill two cards. (Put the top two cards of your library into your graveyard.)
+III — Return another creature from your graveyard to your hand.
+---</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/20.png" num="87">HWL</set>
 			<prop>
 				<layout>saga</layout>
@@ -419,7 +426,7 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 		</card>
 		<card>
 			<name>CB08 Void Infusion</name>
-			<text>Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 for each time you&apos;ve descended this turn. (You descend whenever one or more permanent cards are put into your graveyard from anywhere.)</text>
+			<text>Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 for each time you&apos;ve descended this turn. (You descend each time a permanent card is put into your graveyard from anywhere.)</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/23.png" num="90">HWL</set>
 			<prop>
 				<layout>normal</layout>
@@ -555,15 +562,15 @@ When you descend for the first time each turn, this creature gets +2/+0 until en
 			<name>CR03Sprintmaster</name>
 			<text>Charmed {2}{R} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)
 Equipped creature gets +1/+0 and has haste.
-Equip {2}</text>
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/31.png" num="124">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact — Equipment</type>
 				<maintype>Artifact</maintype>
-				<manacost>R</manacost>
-				<cmc>1</cmc>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -588,7 +595,7 @@ Equip {2}</text>
 		<card>
 			<name>CR04Armored Fool</name>
 			<text>Menace
-Runback cost (You may cast a copy of this card by exiling it from your graveyard and paying its runback cost.)</text>
+At the beginning of your end step, if you descended this turn, put a +1/+1 counter on this creature. (You descended if a permanent card was put into your graveyard from anywhere this turn.)</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/33.png" num="125">HWL</set>
 			<prop>
 				<layout>normal</layout>
@@ -659,7 +666,7 @@ Runback {4}{R} (You may cast a copy of this card by exiling it from your graveya
 			<name>CR09Fool&apos;s Resolve</name>
 			<text>Choose one — 
 • Target creature gets +3/+1 and gains trample until end of turn. 
-• Destroy target artifact.</text>
+• Exile target artifact.</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/37.png" num="129">HWL</set>
 			<prop>
 				<layout>normal</layout>
@@ -698,8 +705,8 @@ Runback {4}{R} (You may cast a copy of this card by exiling it from your graveya
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>3R</manacost>
-				<cmc>4</cmc>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -777,7 +784,7 @@ Deathtouch
 		</card>
 		<card>
 			<name>CG02Shambling Mosshusk</name>
-			<text>{T}, Mill a card: Add {G}.
+			<text>{T}: Add {G}.
 Restless (When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it. If a creature with a finality counter on it would die, exile it instead.)</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/44.png" num="160">HWL</set>
 			<prop>
@@ -848,7 +855,7 @@ Whenever one or more cards leave your graveyard, create a 1/1 green Insect Plant
 		</card>
 		<card>
 			<name>CG07Fungal Ogre</name>
-			<text>{2}{G}, Exile this card from your graveyard</text>
+			<text>This spell costs {3} less to cast if you&apos;ve descended this turn. (You descended if a permanent card was put into your graveyard from anywhere this turn.)</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/48.png" num="165">HWL</set>
 			<prop>
 				<layout>normal</layout>
@@ -865,8 +872,8 @@ Whenever one or more cards leave your graveyard, create a 1/1 green Insect Plant
 		</card>
 		<card>
 			<name>CG08Loodle Herd</name>
-			<text>Haste
-This creature can&apos;t be blocked by creatures with power 2 or less.
+			<text>Haste 
+This creature can&apos;t be blocked by more than one creature.
 Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/49.png" num="166">HWL</set>
 			<prop>
@@ -934,7 +941,7 @@ Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card
 		</card>
 		<card>
 			<name>CG13Wander the Waterways</name>
-			<text>Mill four cards. Then you may return a creature or land card from your graveyard to your hand.
+			<text>Mill four cards. Then you may return a creature or land card from your graveyard to your hand. If you&apos;ve cast this spell from your graveyard, return any card from graveyard to your hand instead.
 Runback {2}{G}{G} (You may cast a copy of this card by exiling it from your graveyard and paying its runback cost.)</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/53.png" num="171">HWL</set>
 			<prop>
@@ -970,7 +977,7 @@ Whenever this creature deals combat damage to a player, you may remove a +1/+1 c
 		<card>
 			<name>CH05Shroomling</name>
 			<text>Haste
-{2}{RG}, Sacrifice this creature: Draw a card and create two Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+{2}{RG}, Sacrifice this creature: Draw a card and create two Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/55.png" num="236">HWL</set>
 			<prop>
 				<layout>normal</layout>
@@ -988,7 +995,7 @@ Whenever this creature deals combat damage to a player, you may remove a +1/+1 c
 		<card>
 			<name>UM07Elder Hu, Tending Sage</name>
 			<text>Trample
-Whenever you descend for the first time each turn, put a +1/+1 counter on Elder Hu, Tending Sage. Then if there&apos;s six or more permanent cards in your graveyard, draw a card. (You descend whenever one or more permanents are put into your graveyard from anywhere.)</text>
+Whenever you descend for the first time during your turn, put a +1/+1 counter on Elder Hu, Tending Sage. Then if there&apos;s six or more permanent cards in your graveyard, draw a card. (You descend whenever one or more permanents are put into your graveyard from anywhere.)</text>
 			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/56.png" num="218">HWL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1042,7 +1049,11 @@ Whenever this creature attacks, attach up to one target Equipment you control to
 		</card>
 		<card>
 			<name>UM01Revek, the Spiritblade</name>
-			<text></text>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I, II, III — You gain 1 life and surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+IV — Draw a card.
+---
+Flying</text>
 			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/59.png" num="212">HWL</set>
 			<prop>
 				<layout>saga</layout>
@@ -1729,7 +1740,7 @@ Crawl — Whenever one or more creatures you control with power or toughness 1 d
 		<card>
 			<name>UB01Milibelle, Sketchy Banker</name>
 			<text>During your turn, Milibelle, Sketchy Banker has deathtouch
-Crawl — Whenever one or more creatures you control with power or toughness 1 deal combat damage to a player, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+Crawl — Whenever one or more creatures you control with power or toughness 1 deal combat damage to a player, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
 			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/99.png" num="107">HWL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1745,7 +1756,7 @@ Crawl — Whenever one or more creatures you control with power or toughness 1 d
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UB02Bretta</name>
+			<name>UB02Bretta, Obsessive Fanatic</name>
 			<text>Whenever you descend, each opponent loses 1 life and you gain 1 life.</text>
 			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/100.png" num="108">HWL</set>
 			<prop>
@@ -1757,6 +1768,7 @@ Crawl — Whenever one or more creatures you control with power or toughness 1 d
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2178,14 +2190,14 @@ Equip {2}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UG06</name>
+			<name>UG06Shrumal Shaman</name>
 			<text>When this creature enters, mill two cards.
 {T}, Exile a card from your graveyard: Add a mana of any color.</text>
 			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/126.png" num="188">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Fungus Shaman</type>
 				<maintype>Creature</maintype>
 				<manacost>G</manacost>
 				<cmc>1</cmc>
@@ -2557,6 +2569,7 @@ Equip {2}</text>
 				<maintype>Creature</maintype>
 				<manacost>2</manacost>
 				<cmc>2</cmc>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2592,7 +2605,7 @@ Equip {2}</text>
 		<card>
 			<name>UC05Charm Notch</name>
 			<text>{T}: Add {C}.
-{2}, {T}: Search your library for a</text>
+{2}, {T}, Sacrifice this artifact: Search your library for a</text>
 			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/152.png" num="253">HWL</set>
 			<prop>
 				<layout>normal</layout>
@@ -2606,8 +2619,8 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>UC06Cornifer&apos;s Map</name>
-			<text>When Cornifer&apos;s Map enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
-{1}, {T}, Sacrifice this artifact: Search your</text>
+			<text>When this artifact enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/153.png" num="254">HWL</set>
 			<prop>
 				<layout>normal</layout>
@@ -2931,84 +2944,9 @@ Cycling {GU}{GU} ({GU}{GU}, Discard this card: Draw a card.)</text>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>RR01Grimm&apos;s Unending Cycle</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Progress {R} ({R}: Put a lore counter on this Saga. Progress only as a sorcery.)
-Target creature you control gets +2/+0 and gains trample until the end of the turn.
-You may sacrifice a creature. If you do, Grimm&apos;s Unending Cycle deals damage equal to the sacrificed creature&apos;s power to any target.
-​</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/173.png" num="136">HWL</set>
-			<prop>
-				<layout>saga</layout>
-				<side>front</side>
-				<type>Legendary Enchantment — Saga</type>
-				<maintype>Enchantment</maintype>
-				<manacost>1R</manacost>
-				<cmc>2</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>RG01Cloth&apos;s Morbid Deathwish</name>
-			<text>Create a 2/2 colorless Insect creature token.
-Put a +1/+1 counter on target creature you control, then, double the number of +1/+1 counters on it.
-The creature you control with the highest power fights target creature you don&apos;t control. Then, sacrifice that creature.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/174.png" num="174">HWL</set>
-			<prop>
-				<layout>saga</layout>
-				<side>front</side>
-				<type>Legendary Enchantment — Saga</type>
-				<maintype>Enchantment</maintype>
-				<manacost>2GG</manacost>
-				<cmc>4</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>RB03Zote&apos;s Dangerous Arrogance</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Progress (: Put a lore counter on this Saga. Progress only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/175.png" num="101">HWL</set>
-			<prop>
-				<layout>saga</layout>
-				<side>front</side>
-				<type>Legendary Enchantment — Saga</type>
-				<maintype>Enchantment</maintype>
-				<manacost>4B</manacost>
-				<cmc>5</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>RU08Quirrel&apos;s Lost Purpose</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
-Progress {U} ({U}: Put a lore counter on this Saga. Progress only as a sorcery.)
-Return target creature you don&apos;t control to its owner&apos;s hand.
-Surveil 2.
-Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/176.png" num="67">HWL</set>
-			<prop>
-				<layout>saga</layout>
-				<side>front</side>
-				<type>Legendary Enchantment — Saga</type>
-				<maintype>Enchantment</maintype>
-				<manacost>2U</manacost>
-				<cmc>3</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>CW14Radiance&apos;s Grasp</name>
 			<text>Return target creature card from your graveyard to the battlefield tapped. Put a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/177.png" num="17">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/173.png" num="17">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3024,7 +2962,7 @@ Exile target instant or sorcery card from your graveyard. Copy it. You may cast 
 		<card>
 			<name>RM04Last Stag, Faithful Carrier</name>
 			<text>Saddle 2 (Tap any number of other creatures you control with total power 2 or more: This Mount becomes saddled until end of turn. Saddle only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/178.png" num="202">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/174.png" num="202">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3042,7 +2980,7 @@ Exile target instant or sorcery card from your graveyard. Copy it. You may cast 
 			<name>RR02Tough Claw</name>
 			<text>Double strike, haste
 Whenever this creature deals combat damage, double its power until end of turn.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/179.png" num="137">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/175.png" num="137">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3060,7 +2998,7 @@ Whenever this creature deals combat damage, double its power until end of turn.<
 			<name>RM02Monomon, the Teacher</name>
 			<text>Ward—Exile four cards from your graveyard
 Whenever you cast a spell from anywhere other than your hand, you may copy that spell. You may choose new targets for the copy. Do this only once each turn. (Copies of permanent spells become token.)</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/180.png" num="200">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/176.png" num="200">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3077,8 +3015,8 @@ Whenever you cast a spell from anywhere other than your hand, you may copy that 
 		<card>
 			<name>RB02Nosk, Wearer of Faces</name>
 			<text>Menace
-At the beginning of your end step, if you&apos;ve descended this turn, you may have Nosk, Wearer of Faces become a copy of target permanent card in your graveyard that was put there this turn until the beginning of your next end step, except its name is Nosk, Wearer of Faces and it has menace.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/181.png" num="100">HWL</set>
+At the beginning of your end step, if you&apos;ve descended this turn, exile target permanent card from your graveyard. You may have Nosk become a copy of that card until the end of your next turn, except its name is Nosk, Wearer of Faces and its a 3/2 Horror with menace in addition to its other types and abilities.</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/177.png" num="100">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3095,7 +3033,7 @@ At the beginning of your end step, if you&apos;ve descended this turn, you may h
 		<card>
 			<name>RM03Rest at Last</name>
 			<text>Put a finality counter on target nonland permanent. Then, destroy target nonland permanent.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/182.png" num="201">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/178.png" num="201">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3113,7 +3051,7 @@ At the beginning of your end step, if you&apos;ve descended this turn, you may h
 			<text>Indestructible
 Equipped creature gets +3/+3 and gains indestructible.
 Equip {3}</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/183.png" num="246">HWL</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/179.png" num="246">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3127,7 +3065,7 @@ Equip {3}</text>
 		<card>
 			<name>RC01Channeled Nail</name>
 			<text>Equipped create gets +2/+2</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/184.png" num="247">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/180.png" num="247">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3141,7 +3079,7 @@ Equip {3}</text>
 		<card>
 			<name>MW01The White Lady, Pale Root</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/185.png" num="19">HWL</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/181.png" num="19">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3155,52 +3093,9 @@ Equip {3}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>MW02The Radiance, Absolute</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter.)
- Flying, indestructible
-Exile target nonland permanent until The Radiance, Absolute leaves the battlefield. You gain 2 life.
-Exile The Radiance, Absolute. Then, you may cast her from exile transformed without paying its mana cost.
----
-(Back): The Infection</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/186_front.png" num="20a">HWL</set>
-			<prop>
-				<layout>transform</layout>
-				<side>front</side>
-				<type>Legendary Enchantment Creature — Saga Moth</type>
-				<maintype>Creature</maintype>
-				<manacost>5WW</manacost>
-				<cmc>7</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>5/5</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">The Infection</related>
-		</card>
-		<card>
-			<name>The Infection</name>
-			<text>Each creature loses all abilities, becomes a Zombie in addition to its other types, and has base power and toughness 1/1.
-Creatures you control get +2/+2.
----
-(Front): MW02The Radiance, Absolute</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/186_back.png" num="20b">HWL</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Legendary Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-			<related attach="transform">MW02The Radiance, Absolute</related>
-		</card>
-		<card>
 			<name>MU01</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/187.png" num="58">HWL</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/182.png" num="58">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3214,47 +3109,9 @@ Creatures you control get +2/+2.
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>MU02Lifeblood Incarnate</name>
-			<text>---
-(Back): Lifeblood Core</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/188_front.png" num="59a">HWL</set>
-			<prop>
-				<layout>transform</layout>
-				<side>front</side>
-				<type>Legendary Enchantment Creature — Saga Horror</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Lifeblood Core</related>
-		</card>
-		<card>
-			<name>Lifeblood Core</name>
-			<text>When this artifact enters, create a 2/2 Insect colorless creature token, then attach this Equipment to it.
-Equipped creature gets +1/+1 for each
----
-(Front): MU02Lifeblood Incarnate</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/188_back.png" num="59b">HWL</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Artifact — Equipment</type>
-				<maintype>Artifact</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-			<related attach="transform">MU02Lifeblood Incarnate</related>
-		</card>
-		<card>
 			<name>MB01The Vessel, Hallownest&apos;s Hope</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/189.png" num="96">HWL</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/183.png" num="96">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3272,7 +3129,7 @@ Equipped creature gets +1/+1 for each
 			<name>MB02Opening of the Black Egg</name>
 			<text>As an additional cost to cast this spell, sacrifice three creatures.
 Search your library or graveyard for a legendary creature card and put it on the battlefield with a finality counter on it. If you searched your library this way, shuffle.</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/190.png" num="97">HWL</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/184.png" num="97">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3288,7 +3145,7 @@ Search your library or graveyard for a legendary creature card and put it on the
 		<card>
 			<name>MR01</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/191.png" num="134">HWL</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/185.png" num="134">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3300,56 +3157,11 @@ Search your library or graveyard for a legendary creature card and put it on the
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>MR02The Nightmare Heart</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter.)
-Indestructible
-The Nightmare Heart deals 3 damage to each other creature.
-Until end of turn, whenever a creature you control enters, it gets +1/+0 and gains haste until end of turn.
-Exile The Nightmare Heart. Then, you may cast it from exile transformed without paying its mana cost.
----
-(Back): Nightmare King Grimm</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/192_front.png" num="135a">HWL</set>
-			<prop>
-				<layout>transform</layout>
-				<side>front</side>
-				<type>Legendary Enchantment Creature — Saga Nightmare</type>
-				<maintype>Creature</maintype>
-				<manacost>2RR</manacost>
-				<cmc>4</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">Nightmare King Grimm</related>
-		</card>
-		<card>
-			<name>Nightmare King Grimm</name>
-			<text>Haste
-Whenever Nightmare King Grimm enters or attacks, exile the top card target players library. Until end of turn, you may cast spells exiled this way without paying their mana cost. If a land card is exiled this way, Nightmare King Grimm deals 2 damage to each opponent.
----
-(Front): MR02The Nightmare Heart</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/192_back.png" num="135b">HWL</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Legendary Enchantment Creature — Nightmare</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>R</colors>
-				<coloridentity>R</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">MR02The Nightmare Heart</related>
 		</card>
 		<card>
 			<name>MG01</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/193.png" num="172">HWL</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/186.png" num="172">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3363,45 +3175,9 @@ Whenever Nightmare King Grimm enters or attacks, exile the top card target playe
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>MG02The Mind of Unn</name>
-			<text>---
-(Back): The Great Greenpath</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/194_front.png" num="173a">HWL</set>
-			<prop>
-				<layout>transform</layout>
-				<side>front</side>
-				<type>Legendary Enchantment Creature — Saga Slug</type>
-				<maintype>Creature</maintype>
-				<manacost>2GGG</manacost>
-				<cmc>5</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">The Great Greenpath</related>
-		</card>
-		<card>
-			<name>The Great Greenpath</name>
-			<text>({T}: Add {G}.)
----
-(Front): MG02The Mind of Unn</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/194_back.png" num="173b">HWL</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Legendary Land — Forest Cave</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-			<related attach="transform">MG02The Mind of Unn</related>
-		</card>
-		<card>
 			<name>CH02Crawling Dirtcarver</name>
 			<text>This creature can&apos;t be blocked by creatures with power 2 or greater.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/195.png" num="233">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/187.png" num="233">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3418,7 +3194,7 @@ Whenever Nightmare King Grimm enters or attacks, exile the top card target playe
 		<card>
 			<name>MM02Cornifer, the Wayfaring</name>
 			<text>When Cornifer enters, draw a card for each differently named land you control.</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/196.png" num="198">HWL</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/188.png" num="198">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3434,7 +3210,7 @@ Whenever Nightmare King Grimm enters or attacks, exile the top card target playe
 		<card>
 			<name>RM06Soul Master of the Sanctum</name>
 			<text>Flying</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/197.png" num="204">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/189.png" num="204">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3449,8 +3225,8 @@ Whenever Nightmare King Grimm enters or attacks, exile the top card target playe
 		</card>
 		<card>
 			<name>RM09</name>
-			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/198.png" num="207">HWL</set>
+			<text>Whenever you descend, put a __ counter on this enchantment.</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/190.png" num="207">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3466,7 +3242,7 @@ Whenever Nightmare King Grimm enters or attacks, exile the top card target playe
 		<card>
 			<name>RM08God Tamer, Fool&apos;s Trial</name>
 			<text>When God Tamer, Fool&apos;s Trial enters, create a 3/3 green Insect Beast creature token.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/199.png" num="206">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/191.png" num="206">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3484,7 +3260,7 @@ Whenever Nightmare King Grimm enters or attacks, exile the top card target playe
 			<name>RM10The Hunter</name>
 			<text>Menace
 Whenever another creature you control dies, put two +1/+1 counters on The Hunter</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/200.png" num="208">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/192.png" num="208">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3501,7 +3277,7 @@ Whenever another creature you control dies, put two +1/+1 counters on The Hunter
 			<name>RM01Nailmsmith Folly</name>
 			<text>Affinity for equipped creatures (This spell costs {1} less to cast for each equipped creature you control.)
 Equipped creatures you control get +1/+1 and gain vigilance until end of turn. Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/201.png" num="199">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/193.png" num="199">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3517,7 +3293,7 @@ Equipped creatures you control get +1/+1 and gain vigilance until end of turn. U
 		<card>
 			<name>RM07</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/202.png" num="205">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/194.png" num="205">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3535,7 +3311,7 @@ Equipped creatures you control get +1/+1 and gain vigilance until end of turn. U
 			<text>Haste, Deathtouch
 The first noncreature spell you cast each turn has spectacle {1}{B}{R} (You may cast it for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
 If Grimm would die, you may exile him instead. For as long as he remains exiled, you may cast him if an opponent lost life this turn.</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/203.png" num="197">HWL</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/195.png" num="197">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3552,7 +3328,7 @@ If Grimm would die, you may exile him instead. For as long as he remains exiled,
 		<card>
 			<name>RU06</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/204.png" num="65">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/196.png" num="65">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3569,7 +3345,7 @@ If Grimm would die, you may exile him instead. For as long as he remains exiled,
 			<name>RU02Lurien, the Watcher</name>
 			<text>Ward {4} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}.)
 At the beginning of your upkeep, surveil 1. If you have seven or more cards in your graveyard, instead, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/205.png" num="61">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/197.png" num="61">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3586,7 +3362,7 @@ At the beginning of your upkeep, surveil 1. If you have seven or more cards in y
 		<card>
 			<name>RU07</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/206.png" num="66">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/198.png" num="66">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3601,12 +3377,17 @@ At the beginning of your upkeep, surveil 1. If you have seven or more cards in y
 		</card>
 		<card>
 			<name>RU04Eyeless Weaper</name>
-			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/207.png" num="63">HWL</set>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — 
+II — 
+III — 
+---
+Runback {3}{U}{U}</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/199.png" num="63">HWL</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
-				<type>Enchantment Creature — Saga</type>
+				<type>Enchantment Creature — Saga Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>U</manacost>
 				<cmc>1</cmc>
@@ -3619,7 +3400,7 @@ At the beginning of your upkeep, surveil 1. If you have seven or more cards in y
 		<card>
 			<name>RU05</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/208.png" num="64">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/200.png" num="64">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3635,7 +3416,7 @@ At the beginning of your upkeep, surveil 1. If you have seven or more cards in y
 		<card>
 			<name>RU03The Collector</name>
 			<text>Crawl —</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/209.png" num="62">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/201.png" num="62">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3651,7 +3432,7 @@ At the beginning of your upkeep, surveil 1. If you have seven or more cards in y
 		<card>
 			<name>RU01The Snail Shaman</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/210.png" num="60">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/202.png" num="60">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3668,7 +3449,7 @@ At the beginning of your upkeep, surveil 1. If you have seven or more cards in y
 		<card>
 			<name>RR05</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/211.png" num="140">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/203.png" num="140">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3684,7 +3465,7 @@ At the beginning of your upkeep, surveil 1. If you have seven or more cards in y
 		<card>
 			<name>RR08</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/212.png" num="143">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/204.png" num="143">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3700,7 +3481,7 @@ At the beginning of your upkeep, surveil 1. If you have seven or more cards in y
 		<card>
 			<name>RR06</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/213.png" num="141">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/205.png" num="141">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3716,7 +3497,7 @@ At the beginning of your upkeep, surveil 1. If you have seven or more cards in y
 		<card>
 			<name>RR07</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/214.png" num="142">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/206.png" num="142">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3732,7 +3513,7 @@ At the beginning of your upkeep, surveil 1. If you have seven or more cards in y
 		<card>
 			<name>RR03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/215.png" num="138">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/207.png" num="138">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3748,7 +3529,7 @@ At the beginning of your upkeep, surveil 1. If you have seven or more cards in y
 		<card>
 			<name>RR04</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/216.png" num="139">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/208.png" num="139">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3765,8 +3546,8 @@ At the beginning of your upkeep, surveil 1. If you have seven or more cards in y
 			<name>RM11The Hollow Knight</name>
 			<text>Menace, lifelink
 When The Hollow Knight enters, exile target nonland permanent. Then, return it to the battlefield tapped unless The Hollow Knight has a finality counter on it.
-Restless (When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it.)</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/217.png" num="209">HWL</set>
+Restless</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/209.png" num="209">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3783,7 +3564,7 @@ Restless (When this creature dies, return it to the battlefield tapped under its
 		<card>
 			<name>RB01Zote, the Mighty</name>
 			<text>When a player casts a spell or a creature attacks, sacrifice Zote, the Mighty. Return him to the battlefield tapped at the beginning of the next end step.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/218.png" num="99">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/210.png" num="99">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3799,24 +3580,26 @@ Restless (When this creature dies, return it to the battlefield tapped under its
 		</card>
 		<card>
 			<name>RB04Herrah, the Beast</name>
-			<text>Ward—Sacrifice a nontoken creature</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/219.png" num="102">HWL</set>
+			<text>Ward—Sacrifice a nontoken creature
+When Herrah, the Beast enters and at the beginning of your end step, if you&apos;ve descended this turn, create a 1/2 black Spider creature token with deathtouch and reach.</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/211.png" num="102">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Enchantment Creature — Spider</type>
 				<maintype>Creature</maintype>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>4/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>RB06</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/220.png" num="103">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/212.png" num="103">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3832,7 +3615,7 @@ Restless (When this creature dies, return it to the battlefield tapped under its
 		<card>
 			<name>RB07</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/221.png" num="104">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/213.png" num="104">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3848,7 +3631,7 @@ Restless (When this creature dies, return it to the battlefield tapped under its
 		<card>
 			<name>RB08</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/222.png" num="105">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/214.png" num="105">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3862,51 +3645,9 @@ Restless (When this creature dies, return it to the battlefield tapped under its
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>MB03The Shade Lord</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter.)
- Indestructible
-Any number of target players each discard a card.
-Exile The Shade Lord. Then, you may cast it from exile transform without paying its mana cost.
----
-(Back): The Void, Unified</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/223_front.png" num="98a">HWL</set>
-			<prop>
-				<layout>transform</layout>
-				<side>front</side>
-				<type>Legendary Enchantment Creature — Saga Shade</type>
-				<maintype>Creature</maintype>
-				<manacost>3BB</manacost>
-				<cmc>5</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>3/6</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<related attach="transform">The Void, Unified</related>
-		</card>
-		<card>
-			<name>The Void, Unified</name>
-			<text>R
----
-(Front): MB03The Shade Lord</text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/223_back.png" num="98b">HWL</set>
-			<prop>
-				<layout>transform</layout>
-				<side>back</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-			<related attach="transform">MB03The Shade Lord</related>
-		</card>
-		<card>
 			<name>RW03</name>
-			<text>When this creature enters, search your library for an Equipment card</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/224.png" num="24">HWL</set>
+			<text></text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/215.png" num="24">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3921,15 +3662,16 @@ Exile The Shade Lord. Then, you may cast it from exile transform without paying 
 		</card>
 		<card>
 			<name>RW01Marissa, City&apos;s Last Singer</name>
-			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/225.png" num="22">HWL</set>
+			<text>Flying
+Whenever you put one or more lore counters on a Saga you control, you gain 1 life. If you</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/216.png" num="22">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Spirit Bard</type>
 				<maintype>Creature</maintype>
-				<manacost>W</manacost>
-				<cmc>1</cmc>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -3938,7 +3680,7 @@ Exile The Shade Lord. Then, you may cast it from exile transform without paying 
 		<card>
 			<name>RW02Godseeker of the Pantheons</name>
 			<text>The first legendary spell you cast each turn costs {W}{U}{B}{R}{G} less to cast.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/226.png" num="23">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/217.png" num="23">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3955,7 +3697,7 @@ Exile The Shade Lord. Then, you may cast it from exile transform without paying 
 		<card>
 			<name>RW04</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/227.png" num="25">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/218.png" num="25">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3971,7 +3713,7 @@ Exile The Shade Lord. Then, you may cast it from exile transform without paying 
 		<card>
 			<name>RW05</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/228.png" num="26">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/219.png" num="26">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3987,7 +3729,7 @@ Exile The Shade Lord. Then, you may cast it from exile transform without paying 
 		<card>
 			<name>RW06</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/229.png" num="27">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/220.png" num="27">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4003,7 +3745,7 @@ Exile The Shade Lord. Then, you may cast it from exile transform without paying 
 		<card>
 			<name>RW07Ashenshell Duel</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/230.png" num="28">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/221.png" num="28">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4017,30 +3759,10 @@ Exile The Shade Lord. Then, you may cast it from exile transform without paying 
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RW08Seer&apos;s Fated Ascension</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Progress {1}{W} ({1}{W}: Put a lore counter on this Saga. Progress only as a sorcery.)
-I — Search your library for an Equipment card, reveal that card, put it into your hand, then shuffle.
-II — You may put an Equipment from your hand into the battlefield attached to target creature you control. 
-III — Destroy each non-equipped creature.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/231.png" num="29">HWL</set>
-			<prop>
-				<layout>saga</layout>
-				<side>front</side>
-				<type>Legendary Enchantment — Saga</type>
-				<maintype>Enchantment</maintype>
-				<manacost>2WW</manacost>
-				<cmc>4</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>RM05Markoth</name>
 			<text>Flying, ward {2}
 At the beginning of your upkeep, return up to one artifact or enchantment card from your graveyard to the battlefield. If you do, it enters with an indestructible counter on it.</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/232.png" num="203">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/222.png" num="203">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4056,8 +3778,8 @@ At the beginning of your upkeep, return up to one artifact or enchantment card f
 		</card>
 		<card>
 			<name>RG02Bardoon, Ageless Witness</name>
-			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/233.png" num="175">HWL</set>
+			<text>At the beginning of your end step, if you&apos;ve descended this turn, return target permanent card from your graveyard to your hand that wasn&apos;t put there this turn. (You descended if a permanent card was put into your graveyard from anywhere this turn.)</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/223.png" num="175">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4074,7 +3796,7 @@ At the beginning of your upkeep, return up to one artifact or enchantment card f
 		<card>
 			<name>RG04</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/234.png" num="177">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/224.png" num="177">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4090,7 +3812,7 @@ At the beginning of your upkeep, return up to one artifact or enchantment card f
 		<card>
 			<name>RG03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/235.png" num="176">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/225.png" num="176">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4106,7 +3828,7 @@ At the beginning of your upkeep, return up to one artifact or enchantment card f
 		<card>
 			<name>RG05</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/236.png" num="178">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/226.png" num="178">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4122,7 +3844,7 @@ At the beginning of your upkeep, return up to one artifact or enchantment card f
 		<card>
 			<name>RG06</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/237.png" num="179">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/227.png" num="179">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4138,7 +3860,7 @@ At the beginning of your upkeep, return up to one artifact or enchantment card f
 		<card>
 			<name>RG07</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/238.png" num="180">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/228.png" num="180">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4154,7 +3876,7 @@ At the beginning of your upkeep, return up to one artifact or enchantment card f
 		<card>
 			<name>RG08</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/239.png" num="181">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/229.png" num="181">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4169,11 +3891,8 @@ At the beginning of your upkeep, return up to one artifact or enchantment card f
 		</card>
 		<card>
 			<name>RC02The Dream Nail</name>
-			<text>Equipped creature gets +1/+1 and can&apos;t be blocked.
-When The Dream Nail enters and whenever equipped creature attacks, exile up to one target card from a graveyard.
-As long as The Dream Nail is attached to a creature, you may cast permanent cards exiled with it. If you cast a spell this way, it enters with a finality counter on it
-Equip {2}</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/240.png" num="248">HWL</set>
+			<text>Equip {2}</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/230.png" num="248">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4187,7 +3906,7 @@ Equip {2}</text>
 		<card>
 			<name>RB09</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/241.png" num="106">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/231.png" num="106">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4203,7 +3922,7 @@ Equip {2}</text>
 		<card>
 			<name>RW09</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/242.png" num="30">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/232.png" num="30">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4220,7 +3939,7 @@ Equip {2}</text>
 			<name>RU09Unavoidable Fate</name>
 			<text>Return each nonland permanent you don&apos;t control to its owner&apos;s hand.
 Foretell cost (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/243.png" num="68">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/233.png" num="68">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4236,7 +3955,7 @@ Foretell cost (During your turn, you may pay {2} and exile this card from your h
 		<card>
 			<name>RR09</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/244.png" num="144">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/234.png" num="144">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4252,7 +3971,7 @@ Foretell cost (During your turn, you may pay {2} and exile this card from your h
 		<card>
 			<name>RG09</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/245.png" num="182">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/235.png" num="182">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4268,7 +3987,7 @@ Foretell cost (During your turn, you may pay {2} and exile this card from your h
 		<card>
 			<name>RM12</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/246.png" num="210">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/236.png" num="210">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4285,7 +4004,7 @@ Foretell cost (During your turn, you may pay {2} and exile this card from your h
 			<name>RC03Dirtmouth, the Fading Town</name>
 			<text>{T}: Add {C}.
 {2}, {T}: Draw a card. Activate only if you&apos;ve descended this turn. (You descended if a permanent card was put into your graveyard from anywhere this turn.)</text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/247.png" num="258">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/237.png" num="258">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4299,7 +4018,7 @@ Foretell cost (During your turn, you may pay {2} and exile this card from your h
 		<card>
 			<name>RM13</name>
 			<text></text>
-			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/248.png" num="211">HWL</set>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/238.png" num="211">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4315,7 +4034,7 @@ Foretell cost (During your turn, you may pay {2} and exile this card from your h
 		<card>
 			<name>MW03</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/249.png" num="21">HWL</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/239.png" num="21">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4331,7 +4050,7 @@ Foretell cost (During your turn, you may pay {2} and exile this card from your h
 		<card>
 			<name>M</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/250.png" num="1">HWL</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/240.png" num="1">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4345,7 +4064,7 @@ Foretell cost (During your turn, you may pay {2} and exile this card from your h
 		<card>
 			<name>M</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/251.png" num="2">HWL</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/241.png" num="3">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4359,7 +4078,7 @@ Foretell cost (During your turn, you may pay {2} and exile this card from your h
 		<card>
 			<name>M</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/252.png" num="3">HWL</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/242.png" num="4">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4373,7 +4092,7 @@ Foretell cost (During your turn, you may pay {2} and exile this card from your h
 		<card>
 			<name>M</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/253.png" num="4">HWL</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/243.png" num="2">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4387,7 +4106,7 @@ Foretell cost (During your turn, you may pay {2} and exile this card from your h
 		<card>
 			<name>MM03</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/254.png" num="5">HWL</set>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/244.png" num="5">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4403,7 +4122,7 @@ Foretell cost (During your turn, you may pay {2} and exile this card from your h
 			<text>Flying
 {2}, Sacrifice this creature: Draw a card.
 Runback {2}{U} (You may cast a copy of this card by exiling it from your graveyard and paying its runback cost. Copies of permanent spells become tokens.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/255.png" num="45">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/245.png" num="45">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4421,7 +4140,7 @@ Runback {2}{U} (You may cast a copy of this card by exiling it from your graveya
 			<name>CU07Flukemunga</name>
 			<text>When this creature, exile up to two cards from your graveyard. 
 Whenever one or more cards leave your graveyard, create that many 1/1 blue and black Worm creature tokens. This ability triggers once each turn.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/256.png" num="50">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/246.png" num="50">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4439,7 +4158,7 @@ Whenever one or more cards leave your graveyard, create that many 1/1 blue and b
 			<name>CU03Acidic Obble</name>
 			<text>Flying
 Crawl — Whenever one or more creatures you control with power or toughness 1 deal combat damage to a player, tap or untap target creature.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/257.png" num="47">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/247.png" num="47">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4458,7 +4177,7 @@ Crawl — Whenever one or more creatures you control with power or toughness 1 d
 			<text>Flash
 When this enchantment enters, target nonland permanent you control gains hexproof until end of turn. 
 {2}{U}, Sacrifice this enchantment: Scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/258.png" num="52">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/248.png" num="52">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4474,7 +4193,7 @@ When this enchantment enters, target nonland permanent you control gains hexproo
 		<card>
 			<name>CU04</name>
 			<text>Charmed {1}{U}{U} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/259.png" num="48">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/249.png" num="48">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4490,7 +4209,7 @@ When this enchantment enters, target nonland permanent you control gains hexproo
 		<card>
 			<name>CU02</name>
 			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/260.png" num="46">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/250.png" num="46">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4507,7 +4226,7 @@ When this enchantment enters, target nonland permanent you control gains hexproo
 			<name>CU12Monomon&apos;s Wisdom</name>
 			<text>This spell costs {1} less to cast if you control a legendary permanent or a Saga. 
 Draw three cards, then discard a card.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/261.png" num="54">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/251.png" num="54">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4523,7 +4242,7 @@ Draw three cards, then discard a card.</text>
 		<card>
 			<name>CU10Bottle Up</name>
 			<text>Counter target spell unless its controller pays {2}. If they do, you may draw a card and discard a card.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/262.png" num="53">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/252.png" num="53">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4539,7 +4258,7 @@ Draw three cards, then discard a card.</text>
 		<card>
 			<name>CU13</name>
 			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/263.png" num="55">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/253.png" num="55">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4556,7 +4275,7 @@ Draw three cards, then discard a card.</text>
 			<name>CU14</name>
 			<text>Target nonland permanent&apos;s owner puts it on their choice of the top or bottom of their library.
 Islancycling {2} ({2}, Discard this card: Search your library for an Islan card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/264.png" num="56">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/254.png" num="56">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4574,7 +4293,7 @@ Islancycling {2} ({2}, Discard this card: Search your library for an Islan card,
 			<text>Choose one, if you control an artifact and an enchantment, you may choose both instead.
 • Mill four cards
 •</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/265.png" num="57">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/255.png" num="57">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4589,24 +4308,28 @@ Islancycling {2} ({2}, Discard this card: Search your library for an Islan card,
 		</card>
 		<card>
 			<name>CU08</name>
-			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/266.png" num="51">HWL</set>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — 
+II — 
+III — 
+---</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/256.png" num="51">HWL</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
-				<type>Enchantment Creture — Saga</type>
-				<maintype>Creture</maintype>
+				<type>Enchantment Creature — Saga Snail</type>
+				<maintype>Creature</maintype>
 				<manacost>3UU</manacost>
 				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>CH08</name>
 			<text></text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/267.png" num="239">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/257.png" num="239">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4621,25 +4344,25 @@ Islancycling {2} ({2}, Discard this card: Search your library for an Islan card,
 		</card>
 		<card>
 			<name>UM02</name>
-			<text>[b]This spell costs {1} less to cast if you control an artifact and {1} less to cast if you control an enchantment.[/b]</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/268.png" num="213">HWL</set>
+			<text>This spell costs {1} less to cast if you control an artifact and {1} less to cast if you control an enchantment.</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/258.png" num="213">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type></type>
-				<maintype></maintype>
-				<manacost>WU</manacost>
-				<cmc>2</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CR12</name>
+			<name>CR12Barter</name>
 			<text>Discard a card, then draw a card.
 Create a Treasure token.</text>
-			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/269.png" num="132">HWL</set>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/259.png" num="132">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4651,6 +4374,332 @@ Create a Treasure token.</text>
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RR01Hornet&apos;s Fierce Guardianship</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Progress {R} ({R}: Put a lore counter on this Saga. Progress only as a sorcery.)
+I, II — Target creature you control gets +2/+0 and gains trample until the end of the turn.
+III — You may sacrifice a creature. If you do, Hornet&apos;s Fierce Guardianship deals damage equal to the sacrificed creature&apos;s power to any target.</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/260.png" num="136">HWL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RG01Cloth&apos;s Morbid Deathwish</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I — Create a 2/2 colorless Insect creature token.
+II, III — Put a +1/+1 counter on target creature you control, then, double the number of +1/+1 counters on it.
+IV — The creature you control with the highest power fights target creature you don&apos;t control. Then, sacrifice that creature.</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/261.png" num="174">HWL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RB03Zote&apos;s Dangerous Arrogance</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Progress (: Put a lore counter on this Saga. Progress only as a sorcery.)
+I — 
+II — 
+III —</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/262.png" num="101">HWL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RU08Quirrel&apos;s Lost Purpose</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+Progress {U} ({U}: Put a lore counter on this Saga. Progress only as a sorcery.)
+I — Return target creature you don&apos;t control to its owner&apos;s hand.
+II, III — Surveil 2.
+IV — Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy.</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/263.png" num="67">HWL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RW08Seer&apos;s Fated Ascension</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Progress {1}{W} ({1}{W}: Put a lore counter on this Saga. Progress only as a sorcery.)
+I — Search your library for an Equipment card, reveal that card, put it into your hand, then shuffle.
+II — You may put an Equipment from your hand into the battlefield attached to target creature you control. 
+III — Destroy each non-equipped creature.</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/269.png" num="29">HWL</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MW02aThe Radiance, Absolute</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter.)
+I, II, III — Exile target nonland permanent until aThe Radiance, Absolute leaves the battlefield. You gain 2 life.
+IV — Exile aThe Radiance, Absolute. Then, you may cast her from exile transformed without paying its mana cost.
+---
+ Flying, indestructible
+---
+(Back): MW02bThe Infection
+Flying, indestructible</text>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/270_front.png" num="20a">HWL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Saga Moth</type>
+				<maintype>Creature</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">MW02bThe Infection</related>
+		</card>
+		<card>
+			<name>MW02bThe Infection</name>
+			<text>Each creature loses all abilities, becomes a Zombie in addition to its other types, and has base power and toughness 1/1.
+Creatures you control get +2/+2.
+---
+(Front): MW02aThe Radiance, Absolute
+Flying, indestructible</text>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/270_back.png" num="20b">HWL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">MW02aThe Radiance, Absolute</related>
+		</card>
+		<card>
+			<name>MU02aLifeblood Incarnate</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — 
+II — Indestructible
+III — 
+---
+Indestructible
+---
+(Back): MU02bLifeblood Core
+Indestructible</text>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/271_front.png" num="59a">HWL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Saga Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">MU02bLifeblood Core</related>
+		</card>
+		<card>
+			<name>MU02bLifeblood Core</name>
+			<text>When this artifact enters, create a 2/2 Insect colorless creature token, then attach this Equipment to it.
+Equipped creature gets +1/+1 for each
+---
+(Front): MU02aLifeblood Incarnate
+Indestructible</text>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/271_back.png" num="59b">HWL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">MU02aLifeblood Incarnate</related>
+		</card>
+		<card>
+			<name>MR02aThe Nightmare Heart</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter.)
+I — aThe Nightmare Heart deals 3 damage to each other creature.
+II — Until end of turn, whenever a creature you control enters, it gets +1/+0 and gains haste until end of turn.
+III — Exile aThe Nightmare Heart. Then, you may cast it from exile transformed without paying its mana cost.
+---
+Indestructible
+---
+(Back): MR02bNightmare King Grimm
+Indestructible</text>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/272_front.png" num="135a">HWL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Saga Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">MR02bNightmare King Grimm</related>
+		</card>
+		<card>
+			<name>MR02bNightmare King Grimm</name>
+			<text>Haste
+Whenever bNightmare King Grimm enters or attacks, exile the top card target players library. Until end of turn, you may cast spells exiled this way without paying their mana cost. If a land card is exiled this way, bNightmare King Grimm deals 2 damage to each opponent.
+---
+(Front): MR02aThe Nightmare Heart
+Indestructible</text>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/272_back.png" num="135b">HWL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Enchantment Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">MR02aThe Nightmare Heart</related>
+		</card>
+		<card>
+			<name>MG02The Mind of Unn</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — 
+II — 
+III — 
+---
+
+---
+(Back): The Great Greenpath</text>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/273_front.png" num="173a">HWL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Saga Slug</type>
+				<maintype>Creature</maintype>
+				<manacost>2GGG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">The Great Greenpath</related>
+		</card>
+		<card>
+			<name>The Great Greenpath</name>
+			<text>({T}: Add {G}.)
+---
+(Front): MG02The Mind of Unn</text>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/273_back.png" num="173b">HWL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Land — Forest Cave</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">MG02The Mind of Unn</related>
+		</card>
+		<card>
+			<name>MB03The Shade Lord</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter.)
+I, II — Any number of target players each discard a card.
+III — Indestructible
+IV — Exile The Shade Lord. Then, you may cast it from exile transform without paying its mana cost.
+---
+ Indestructible
+---
+(Back): The Void, Unified
+Indestructible</text>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/274_front.png" num="98a">HWL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Saga Shade</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">The Void, Unified</related>
+		</card>
+		<card>
+			<name>The Void, Unified</name>
+			<text>R
+---
+(Front): MB03The Shade Lord
+Indestructible</text>
+			<set rarity="mythic" picurl="https://justachickn.github.io/sets/HWL-files/img/274_back.png" num="98b">HWL</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">MB03The Shade Lord</related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
