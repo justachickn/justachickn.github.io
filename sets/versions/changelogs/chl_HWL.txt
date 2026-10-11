@@ -1,4 +1,9 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+No changes.
+
+VERSION 8 CHANGELOG
 ====================
 
 Revek the Spiritblade added.
