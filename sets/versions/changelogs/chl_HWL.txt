@@ -1,4 +1,300 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Revek the Spiritblade added.
+Forsake the Light added.
+The Fluke Hermit added.
+Waterways Ambush added.
+Brumm, Troupe's Banisher added.
+Light Up the Ritual added.
+Elder Hu, Tending Sage added.
+Pride of the Mantis Tribe added.
+The Hive Knight added.
+The False Knight added.
+Corpses of the Kingdom added.
+Uumuu, Monomon's Guard added.
+Archive's Tablet added.
+The Traitor Lord added.
+Overtaken by Infection added.
+Oro & Mato, Nailmasters added.
+Nailmaster's Glory added.
+Ogrim, Dung Defender added.
+Isma's Memory added.
+The Massive Mosscharger added.
+
+CW01Lightseed removed.
+CW02Dreamwielder Moth removed.
+CW03Hiveling Worker removed.
+CW04Steady Body removed.
+CW05Shielded Husk removed.
+CW06Horned Husk removed.
+CW08Grubberfly's Elegy removed.
+CW09Moth of the Dreamshrine removed.
+CW11Giant Hopper removed.
+CW12Palace Buzzsaws removed.
+CW13Weaver Seals removed.
+CW15Fool's Doom removed.
+CH01King's Construct removed.
+CH04Overgrown Husk removed.
+CH07Escaped Vessel removed.
+CH06Ground Fluke removed.
+CB01 Lost Husk removed.
+CB02 Vengeful Pestfly removed.
+CB03 Garden Desecrator removed.
+CB04 Sharp Shadow removed.
+CB05 Voidborn Tendrils removed.
+CB06 Mossfly removed.
+CB07Brooding Mawlek removed.
+CB08 Void Infusion removed.
+CB09 Undying Determination removed.
+CB10Down the Well removed.
+CB11Peek into Dreams removed.
+CB12Shatter Mask removed.
+CB13Cauldron of Shadows removed.
+CH03Grimmkin Master removed.
+CR01Leaping Husk removed.
+CR03Sprintmaster removed.
+CR02 removed.
+CR04Armored Fool removed.
+CR05Quick Slash removed.
+CR06Grimmvessel removed.
+CR08Lumafly Shock removed.
+CR09Fool's Resolve removed.
+CR10Dance of Flames removed.
+CR11 removed.
+CR13Violent Infection removed.
+CU05Ooma removed.
+CH09Disciple of the Nail removed.
+CG01Fool Eater removed.
+CG02Shambling Mosshusk removed.
+CG03 removed.
+CG05Leafpath Traveller removed.
+CG06Wandering Mossknight removed.
+CG07Fungal Ogre removed.
+CG08Loodle Herd removed.
+CG09Lushcove Duel removed.
+CG10Challenge the Mantis Lords removed.
+CG11Traitors Revolt removed.
+CG13Wander the Waterways removed.
+CH10Mosskin Vagabond removed.
+CH05Shroomling removed.
+UM07Elder Hu, Tending Sage removed.
+UM15The Traitor Lord removed.
+UM17Nailmasters Oro and Mato removed.
+UM01Revek, the Spiritblade removed.
+UM08Pride of the Mantis Tribe removed.
+UM10The Massive Mosscharger removed.
+UM18Nailmaster's Glory removed.
+UM19The Dung Defender removed.
+UM20Isma's Memory removed.
+UM11The False Knight removed.
+UM12Corpses of the Kingdom removed.
+UM05Brumm, Troupe's Banisher removed.
+UM06Light Up the Ritual removed.
+UM03The Fluke Hermit removed.
+UM04Waterways Ambush removed.
+UM13Uumuu, Monomon's Guard removed.
+UM14 Archived Guidance removed.
+UM16Overtake by Infection removed.
+UM09The Hive Knight removed.
+CG12Lore of Greenpath removed.
+CG05Shape of Unn removed.
+UW01Xero, Resting Treachery removed.
+UW02Elderbug, Lonely Guide removed.
+UW03Lost Kin, Broken Vessel removed.
+UW04Salubra, Charm Lover removed.
+UW05Stalwart Shell removed.
+UW06Farkingdom Challenger removed.
+UW07Tiso, Wandering Warrior removed.
+UW08Mila, Humming Miner removed.
+UW09 removed.
+UW10 removed.
+UW11Kingsbrand removed.
+UU01Lemm, Relic Seeker removed.
+UU02Quirrel, Monomon's Adept removed.
+UU03The Flukemother removed.
+UU04Gorb, the Ascended Mind removed.
+UU05 removed.
+UU06Soul Eater removed.
+UU07 removed.
+UU08Reflections in the Dark removed.
+UU09Soul Totem removed.
+UU10 removed.
+UU11 removed.
+UB01Milibelle, Sketchy Banker removed.
+UB02Bretta, Obsessive Fanatic removed.
+UB03Midwife removed.
+UB04Confessor Jiji removed.
+UB05Fury of the Fallen removed.
+UB06 removed.
+UB07 removed.
+UB08 removed.
+UB09Cast Down removed.
+UB10Grim Dreams removed.
+UB11City's Edict removed.
+UR01The Crystal Guardian removed.
+UR02Sly, Geo Sage removed.
+UR03Hornet, Princess Protector removed.
+UR04Divine, Charm Eater removed.
+UR05 removed.
+UR06 removed.
+UR07Quick Focus removed.
+UR08Maskbound removed.
+UR09 removed.
+UR10 removed.
+UR11 removed.
+UG01Tuk, Undercity Explorer removed.
+UG02Grubfather, Distraught Dad removed.
+UG03Willow, Voracious Eater removed.
+UG04Marmu, Garden Protector removed.
+UG05Hiveblood removed.
+UG06Shrumal Shaman removed.
+UG07 removed.
+UG08 removed.
+UG09 removed.
+UG10Unn's Blessing removed.
+UG11Rancid Egg removed.
+UB12 removed.
+UB13 removed.
+UB14 removed.
+UB15 removed.
+UG13 removed.
+UG12 removed.
+UG14 removed.
+UW12 removed.
+UW13 removed.
+UW14 removed.
+UU12 removed.
+UU13 removed.
+UU14 removed.
+UR12 removed.
+UR13 removed.
+UR14 removed.
+UC01Steel Soul Jinn removed.
+UC02Mace Bug removed.
+UC03Soulcatcher removed.
+UC04Geo Rock removed.
+UC05Charm Notch removed.
+UC06Cornifer's Map removed.
+UC07Sharpened Nail removed.
+UC08Stag Station removed.
+UC09 removed.
+CC01Encased Grub removed.
+CC02Royal Tram removed.
+CC04Old Nail removed.
+CC03Heavy Blow removed.
+CC05Ruinous Crossways removed.
+CC06Uncharted Cave removed.
+CL07Clouded Subcanyon removed.
+CL09Crystalized Mine removed.
+CL05Exuberant Tunnels removed.
+CL06Fossilized Depths removed.
+CL04Fungous Chambers removed.
+CL08Overgrown Undergarden removed.
+CL02Howling Outercliffs removed.
+CL01Sacred Cemetery removed.
+CL03Infected Caverns removed.
+CL10Undercity Canals removed.
+CW14Radiance's Grasp removed.
+RM04Last Stag, Faithful Carrier removed.
+RR02Tough Claw removed.
+RM02Monomon, the Teacher removed.
+RB02Nosk, Wearer of Faces removed.
+RM03Rest at Last removed.
+MC01Pale Nail removed.
+RC01Channeled Nail removed.
+MW01The White Lady, Pale Root removed.
+MU01 removed.
+MB01The Vessel, Hallownest's Hope removed.
+MB02Opening of the Black Egg removed.
+MR01 removed.
+MG01 removed.
+CH02Crawling Dirtcarver removed.
+MM02Cornifer, the Wayfaring removed.
+RM06Soul Master of the Sanctum removed.
+RM09 removed.
+RM08God Tamer, Fool's Trial removed.
+RM10The Hunter removed.
+RM01Nailmsmith Folly removed.
+RM07 removed.
+MM01Grimm, Troupemaster removed.
+RU06 removed.
+RU02Lurien, the Watcher removed.
+RU07 removed.
+RU04Eyeless Weaper removed.
+RU05 removed.
+RU03The Collector removed.
+RU01The Snail Shaman removed.
+RR05 removed.
+RR08 removed.
+RR06 removed.
+RR07 removed.
+RR03 removed.
+RR04 removed.
+RM11The Hollow Knight removed.
+RB01Zote, the Mighty removed.
+RB04Herrah, the Beast removed.
+RB06 removed.
+RB07 removed.
+RB08 removed.
+RW03 removed.
+RW01Marissa, City's Last Singer removed.
+RW02Godseeker of the Pantheons removed.
+RW04 removed.
+RW05 removed.
+RW06 removed.
+RW07Ashenshell Duel removed.
+RM05Markoth removed.
+RG02Bardoon, Ageless Witness removed.
+RG04 removed.
+RG03 removed.
+RG05 removed.
+RG06 removed.
+RG07 removed.
+RG08 removed.
+RC02The Dream Nail removed.
+RB09 removed.
+RW09 removed.
+RU09Unavoidable Fate removed.
+RR09 removed.
+RG09 removed.
+RM12 removed.
+RC03Dirtmouth, the Fading Town removed.
+RM13 removed.
+MW03 removed.
+M removed.
+M removed.
+M removed.
+M removed.
+MM03 removed.
+CU01Lumafly in a Jar removed.
+CU07Flukemunga removed.
+CU03Acidic Obble removed.
+CU09Lifeblood Infusion removed.
+CU04 removed.
+CU02 removed.
+CU12Monomon's Wisdom removed.
+CU10Bottle Up removed.
+CU13 removed.
+CU14 removed.
+CU15Profane Study removed.
+CU08 removed.
+CH08 removed.
+UM02 removed.
+CR12Barter removed.
+RR01Hornet's Fierce Guardianship removed.
+RG01Cloth's Morbid Deathwish removed.
+RB03Zote's Dangerous Arrogance removed.
+RU08Quirrel's Lost Purpose removed.
+RW08Seer's Fated Ascension removed.
+MW02aThe Radiance, Absolute removed.
+MU02aLifeblood Incarnate removed.
+MR02aThe Nightmare Heart removed.
+MG02The Mind of Unn removed.
+MB03The Shade Lord removed.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 UB02Bretta, Obsessive Fanatic added.
