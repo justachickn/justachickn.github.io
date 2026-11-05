@@ -1,4 +1,85 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+CB04Garden Desecrator added.
+CB03Grimmkin Neophyte added.
+CB02Crossroads Crawlid added.
+CB01Lost Husk added.
+CB05Deepnest Burrower added.
+CB06Shambling Husk added.
+CB07Sharp Shadow added.
+CB08City Sentry added.
+CB09Gruz Mother added.
+CB10Void Infusion added.
+CB11Undying Determination added.
+CB13Peek into Dreams added.
+CB15Shatter Mask added.
+CB14Point of No Return added.
+CB12Deadly Dispute added.
+CW01Lightseed added.
+CW02Dreamwielder Moth added.
+CW03Hiveling Worker added.
+CW04Steady Body added.
+CW05Escaped Vessel added.
+CW06Worshippers of Unn added.
+CW07Horned Husk added.
+CW08Stalwart Shell added.
+CW09Shielded Husk added.
+CW10Loafing Boofly added.
+CW11Giant Hopper added.
+CW12Needle Strike added.
+CW13Weaver Seals added.
+CW15Fool's Demise added.
+Radiance's Grasp added.
+CW14Nailmaster's Resolve added.
+Mothtribe Rites added.
+CG02Garden Spirits added.
+CG05Greenpath Mosskin added.
+CG03Fungified Husk added.
+CG07Lone Mossknight added.
+CG04Traitorous Mantis added.
+CG10Mossy Goliath added.
+CG11Lushcave Duel added.
+CG12Challenge the Mantis Lords added.
+CG13Embrace the Infection added.
+CG14Lore of Greenpath added.
+CG15Follow the Pilgrim's Way added.
+CG06Mantisclaw Duelist added.
+CG01Fool Eater added.
+CG09Shape of Unn added.
+CG08Shrumal Titan added.
+Shrumal Shaman added.
+Kindling Grimmkin added.
+UU09Lifeblood Infusion added.
+UU08Flukmunga added.
+UU05Spelltwister added.
+UU04City Official added.
+UU10Bottle Up added.
+UU01Maskfly added.
+UU03Revered Spirit added.
+UU06Screeching Topfluke added.
+UU07Mystic of the Sanctum added.
+UU02Sanctum's Mistake added.
+UU12Monomon's Wisdom added.
+UU13Encased on Crystal added.
+UU14Lost in the Fog added.
+UU15Profane Study added.
+Archivebound Ooma added.
+UU11Wanderer's Journal added.
+Dreamshield added.
+
+
+Uumuu, Monomon's Guard
+rules_text: Flying
+Uumuu costs {2} less to cast for each noncreature spell you've cast this turn. => Flying,
+
+Ogrim, Dung Defender
+rules_text: Trample
+Whenever Ogrim attacks, exile target card from your graveyard. If do, put a +1/+1 counter on Ogrim and scry 1. If a land card is exiled this way, put an additional +1/+1 counter on Ogrim. [i](To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)[/i] => Trample
+Whenever Ogrim attacks, exile target card from your graveyard. If do, put a +1/+1 counter on Ogrim and scry 1. If a land card is exiled this way, put an additional +1/+1 counter on Ogrim.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 No changes.

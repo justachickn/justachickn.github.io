@@ -5,7 +5,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Spirit Warrior",
-			"collector_number": "17",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Instant",
-			"collector_number": "7",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Worm Scout",
-			"collector_number": "6",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "20",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Insect Bard",
-			"collector_number": "2",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/4.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "10",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Spirit Shaman",
-			"collector_number": "4",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Mantis Warrior",
-			"collector_number": "16",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Bee Knight",
-			"collector_number": "8",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/8.png"
 			}
@@ -95,7 +95,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Insect",
-			"collector_number": "5",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/9.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "3",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{R}",
 			"type": "Legendary Creature — Jellyfish",
-			"collector_number": "19",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/11.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Artifact",
-			"collector_number": "1",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/12.png"
 			}
@@ -135,7 +135,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Zombie Mantis",
-			"collector_number": "18",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/13.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Instant",
-			"collector_number": "15",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Insect Warrior",
-			"collector_number": "14",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "12",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/16.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Beetle Knight",
-			"collector_number": "13",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/17.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "9",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/18.png"
 			}
@@ -195,14 +195,677 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Insect Plant",
-			"collector_number": "11",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://justachickn.github.io/sets/HWL-files/img/19.png"
+			}
+		},
+		{
+			"name": "CB04Garden Desecrator",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie Mantis",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/20.png"
+			}
+		},
+		{
+			"name": "CB03Grimmkin Neophyte",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit Warlock",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/21.png"
+			}
+		},
+		{
+			"name": "CB02Crossroads Crawlid",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/22.png"
+			}
+		},
+		{
+			"name": "CB01Lost Husk",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Zombie Insect",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/23.png"
+			}
+		},
+		{
+			"name": "CB05Deepnest Burrower",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/24.png"
+			}
+		},
+		{
+			"name": "CB06Shambling Husk",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie Insect",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/25.png"
+			}
+		},
+		{
+			"name": "CB07Sharp Shadow",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/26.png"
+			}
+		},
+		{
+			"name": "CB08City Sentry",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/27.png"
+			}
+		},
+		{
+			"name": "CB09Gruz Mother",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/28.png"
+			}
+		},
+		{
+			"name": "CB10Void Infusion",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/29.png"
+			}
+		},
+		{
+			"name": "CB11Undying Determination",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/30.png"
+			}
+		},
+		{
+			"name": "CB13Peek into Dreams",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/31.png"
+			}
+		},
+		{
+			"name": "CB15Shatter Mask",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/32.png"
+			}
+		},
+		{
+			"name": "CB14Point of No Return",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/33.png"
+			}
+		},
+		{
+			"name": "CB12Deadly Dispute",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/34.png"
+			}
+		},
+		{
+			"name": "CW01Lightseed",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elemental",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/35.png"
+			}
+		},
+		{
+			"name": "CW02Dreamwielder Moth",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Moth Warrior",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/36.png"
+			}
+		},
+		{
+			"name": "CW03Hiveling Worker",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bee",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/37.png"
+			}
+		},
+		{
+			"name": "CW04Steady Body",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/38.png"
+			}
+		},
+		{
+			"name": "CW05Escaped Vessel",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Shade",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/39.png"
+			}
+		},
+		{
+			"name": "CW06Worshippers of Unn",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Plant Insect",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/40.png"
+			}
+		},
+		{
+			"name": "CW07Horned Husk",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Zombie Insect",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/41.png"
+			}
+		},
+		{
+			"name": "CW08Stalwart Shell",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/42.png"
+			}
+		},
+		{
+			"name": "CW09Shielded Husk",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Zombie Insect Warrior",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/43.png"
+			}
+		},
+		{
+			"name": "CW10Loafing Boofly",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Insect Beast",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/44.png"
+			}
+		},
+		{
+			"name": "CW11Giant Hopper",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Insect",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/45.png"
+			}
+		},
+		{
+			"name": "CW12Needle Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/46.png"
+			}
+		},
+		{
+			"name": "CW13Weaver Seals",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/47.png"
+			}
+		},
+		{
+			"name": "CW15Fool's Demise",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/48.png"
+			}
+		},
+		{
+			"name": "Radiance's Grasp",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/49.png"
+			}
+		},
+		{
+			"name": "CW14Nailmaster's Resolve",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/50.png"
+			}
+		},
+		{
+			"name": "Mothtribe Rites",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/51.png"
+			}
+		},
+		{
+			"name": "CG02Garden Spirits",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/52.png"
+			}
+		},
+		{
+			"name": "CG05Greenpath Mosskin",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Insect Plant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/53.png"
+			}
+		},
+		{
+			"name": "CG03Fungified Husk",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Zombie Insect Fungus",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/54.png"
+			}
+		},
+		{
+			"name": "CG07Lone Mossknight",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Insect Plant Knight",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/55.png"
+			}
+		},
+		{
+			"name": "CG04Traitorous Mantis",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Mantis Zombie Warrior",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/56.png"
+			}
+		},
+		{
+			"name": "CG10Mossy Goliath",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Insect Plant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/57.png"
+			}
+		},
+		{
+			"name": "CG11Lushcave Duel",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/58.png"
+			}
+		},
+		{
+			"name": "CG12Challenge the Mantis Lords",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/59.png"
+			}
+		},
+		{
+			"name": "CG13Embrace the Infection",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/60.png"
+			}
+		},
+		{
+			"name": "CG14Lore of Greenpath",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/61.png"
+			}
+		},
+		{
+			"name": "CG15Follow the Pilgrim's Way",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/62.png"
+			}
+		},
+		{
+			"name": "CG06Mantisclaw Duelist",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Mantis Warrior",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/63.png"
+			}
+		},
+		{
+			"name": "CG01Fool Eater",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/64.png"
+			}
+		},
+		{
+			"name": "CG09Shape of Unn",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Equipped",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/65.png"
+			}
+		},
+		{
+			"name": "CG08Shrumal Titan",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Fungus Giant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/66.png"
+			}
+		},
+		{
+			"name": "Shrumal Shaman",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Fungus Shaman",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/67.png"
+			}
+		},
+		{
+			"name": "Kindling Grimmkin",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Spirit Nightmare",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/68.png"
+			}
+		},
+		{
+			"name": "UU09Lifeblood Infusion",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/69.png"
+			}
+		},
+		{
+			"name": "UU08Flukmunga",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Worm",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/70.png"
+			}
+		},
+		{
+			"name": "UU05Spelltwister",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/71.png"
+			}
+		},
+		{
+			"name": "UU04City Official",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect Soldier",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/72.png"
+			}
+		},
+		{
+			"name": "UU10Bottle Up",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/73.png"
+			}
+		},
+		{
+			"name": "UU01Maskfly",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Insect Bird",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/74.png"
+			}
+		},
+		{
+			"name": "UU03Revered Spirit",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/75.png"
+			}
+		},
+		{
+			"name": "UU06Screeching Topfluke",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Worm",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/76.png"
+			}
+		},
+		{
+			"name": "UU07Mystic of the Sanctum",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Insect Wizard",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/77.png"
+			}
+		},
+		{
+			"name": "UU02Sanctum's Mistake",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Horror",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/78.png"
+			}
+		},
+		{
+			"name": "UU12Monomon's Wisdom",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/79.png"
+			}
+		},
+		{
+			"name": "UU13Encased on Crystal",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/80.png"
+			}
+		},
+		{
+			"name": "UU14Lost in the Fog",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/81.png"
+			}
+		},
+		{
+			"name": "UU15Profane Study",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/82.png"
+			}
+		},
+		{
+			"name": "Archivebound Ooma",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Jellyfish",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/83.png"
+			}
+		},
+		{
+			"name": "UU11Wanderer's Journal",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/84.png"
+			}
+		},
+		{
+			"name": "Dreamshield",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://justachickn.github.io/sets/HWL-files/img/85.png"
 			}
 		}
 	]
 
 [rare(1)]
+	2 Mothtribe Rites
+	2 Kindling Grimmkin
+	2 Dreamshield
 [uncommon(3)]
 	4 Revek the Spiritblade
 	4 Forsake the Light
@@ -224,8 +887,131 @@
 	4 Ogrim, Dung Defender
 	4 Isma's Memory
 	4 The Massive Mosscharger
+	4 Radiance's Grasp
+	4 Shrumal Shaman
+	4 Archivebound Ooma
 [common(6)]
+	8 CB04Garden Desecrator
+	8 CB03Grimmkin Neophyte
+	8 CB02Crossroads Crawlid
+	8 CB01Lost Husk
+	8 CB05Deepnest Burrower
+	8 CB06Shambling Husk
+	8 CB07Sharp Shadow
+	8 CB08City Sentry
+	8 CB09Gruz Mother
+	8 CB10Void Infusion
+	8 CB11Undying Determination
+	8 CB13Peek into Dreams
+	8 CB15Shatter Mask
+	8 CB14Point of No Return
+	8 CB12Deadly Dispute
+	8 CW01Lightseed
+	8 CW02Dreamwielder Moth
+	8 CW03Hiveling Worker
+	8 CW04Steady Body
+	8 CW05Escaped Vessel
+	8 CW06Worshippers of Unn
+	8 CW07Horned Husk
+	8 CW08Stalwart Shell
+	8 CW09Shielded Husk
+	8 CW10Loafing Boofly
+	8 CW11Giant Hopper
+	8 CW12Needle Strike
+	8 CW13Weaver Seals
+	8 CW15Fool's Demise
+	8 CW14Nailmaster's Resolve
+	8 CG02Garden Spirits
+	8 CG05Greenpath Mosskin
+	8 CG03Fungified Husk
+	8 CG07Lone Mossknight
+	8 CG04Traitorous Mantis
+	8 CG10Mossy Goliath
+	8 CG11Lushcave Duel
+	8 CG12Challenge the Mantis Lords
+	8 CG13Embrace the Infection
+	8 CG14Lore of Greenpath
+	8 CG15Follow the Pilgrim's Way
+	8 CG06Mantisclaw Duelist
+	8 CG01Fool Eater
+	8 CG09Shape of Unn
+	8 CG08Shrumal Titan
+	8 UU09Lifeblood Infusion
+	8 UU08Flukmunga
+	8 UU05Spelltwister
+	8 UU04City Official
+	8 UU10Bottle Up
+	8 UU01Maskfly
+	8 UU03Revered Spirit
+	8 UU06Screeching Topfluke
+	8 UU07Mystic of the Sanctum
+	8 UU02Sanctum's Mistake
+	8 UU12Monomon's Wisdom
+	8 UU13Encased on Crystal
+	8 UU14Lost in the Fog
+	8 UU15Profane Study
+	8 UU11Wanderer's Journal
 [common | masterpiece(1)]
+	8 CB04Garden Desecrator
+	8 CB03Grimmkin Neophyte
+	8 CB02Crossroads Crawlid
+	8 CB01Lost Husk
+	8 CB05Deepnest Burrower
+	8 CB06Shambling Husk
+	8 CB07Sharp Shadow
+	8 CB08City Sentry
+	8 CB09Gruz Mother
+	8 CB10Void Infusion
+	8 CB11Undying Determination
+	8 CB13Peek into Dreams
+	8 CB15Shatter Mask
+	8 CB14Point of No Return
+	8 CB12Deadly Dispute
+	8 CW01Lightseed
+	8 CW02Dreamwielder Moth
+	8 CW03Hiveling Worker
+	8 CW04Steady Body
+	8 CW05Escaped Vessel
+	8 CW06Worshippers of Unn
+	8 CW07Horned Husk
+	8 CW08Stalwart Shell
+	8 CW09Shielded Husk
+	8 CW10Loafing Boofly
+	8 CW11Giant Hopper
+	8 CW12Needle Strike
+	8 CW13Weaver Seals
+	8 CW15Fool's Demise
+	8 CW14Nailmaster's Resolve
+	8 CG02Garden Spirits
+	8 CG05Greenpath Mosskin
+	8 CG03Fungified Husk
+	8 CG07Lone Mossknight
+	8 CG04Traitorous Mantis
+	8 CG10Mossy Goliath
+	8 CG11Lushcave Duel
+	8 CG12Challenge the Mantis Lords
+	8 CG13Embrace the Infection
+	8 CG14Lore of Greenpath
+	8 CG15Follow the Pilgrim's Way
+	8 CG06Mantisclaw Duelist
+	8 CG01Fool Eater
+	8 CG09Shape of Unn
+	8 CG08Shrumal Titan
+	8 UU09Lifeblood Infusion
+	8 UU08Flukmunga
+	8 UU05Spelltwister
+	8 UU04City Official
+	8 UU10Bottle Up
+	8 UU01Maskfly
+	8 UU03Revered Spirit
+	8 UU06Screeching Topfluke
+	8 UU07Mystic of the Sanctum
+	8 UU02Sanctum's Mistake
+	8 UU12Monomon's Wisdom
+	8 UU13Encased on Crystal
+	8 UU14Lost in the Fog
+	8 UU15Profane Study
+	8 UU11Wanderer's Journal
 [foil(1)]
 	6 Revek the Spiritblade
 	6 Forsake the Light
@@ -247,6 +1033,72 @@
 	6 Ogrim, Dung Defender
 	6 Isma's Memory
 	6 The Massive Mosscharger
+	12 CB04Garden Desecrator
+	12 CB03Grimmkin Neophyte
+	12 CB02Crossroads Crawlid
+	12 CB01Lost Husk
+	12 CB05Deepnest Burrower
+	12 CB06Shambling Husk
+	12 CB07Sharp Shadow
+	12 CB08City Sentry
+	12 CB09Gruz Mother
+	12 CB10Void Infusion
+	12 CB11Undying Determination
+	12 CB13Peek into Dreams
+	12 CB15Shatter Mask
+	12 CB14Point of No Return
+	12 CB12Deadly Dispute
+	12 CW01Lightseed
+	12 CW02Dreamwielder Moth
+	12 CW03Hiveling Worker
+	12 CW04Steady Body
+	12 CW05Escaped Vessel
+	12 CW06Worshippers of Unn
+	12 CW07Horned Husk
+	12 CW08Stalwart Shell
+	12 CW09Shielded Husk
+	12 CW10Loafing Boofly
+	12 CW11Giant Hopper
+	12 CW12Needle Strike
+	12 CW13Weaver Seals
+	12 CW15Fool's Demise
+	6 Radiance's Grasp
+	12 CW14Nailmaster's Resolve
+	2 Mothtribe Rites
+	12 CG02Garden Spirits
+	12 CG05Greenpath Mosskin
+	12 CG03Fungified Husk
+	12 CG07Lone Mossknight
+	12 CG04Traitorous Mantis
+	12 CG10Mossy Goliath
+	12 CG11Lushcave Duel
+	12 CG12Challenge the Mantis Lords
+	12 CG13Embrace the Infection
+	12 CG14Lore of Greenpath
+	12 CG15Follow the Pilgrim's Way
+	12 CG06Mantisclaw Duelist
+	12 CG01Fool Eater
+	12 CG09Shape of Unn
+	12 CG08Shrumal Titan
+	6 Shrumal Shaman
+	2 Kindling Grimmkin
+	12 UU09Lifeblood Infusion
+	12 UU08Flukmunga
+	12 UU05Spelltwister
+	12 UU04City Official
+	12 UU10Bottle Up
+	12 UU01Maskfly
+	12 UU03Revered Spirit
+	12 UU06Screeching Topfluke
+	12 UU07Mystic of the Sanctum
+	12 UU02Sanctum's Mistake
+	12 UU12Monomon's Wisdom
+	12 UU13Encased on Crystal
+	12 UU14Lost in the Fog
+	12 UU15Profane Study
+	6 Archivebound Ooma
+	12 UU11Wanderer's Journal
+	2 Dreamshield
 [wildcard(1)]
 	15 Revek the Spiritblade
 	15 Forsake the Light
@@ -268,3 +1120,69 @@
 	15 Ogrim, Dung Defender
 	15 Isma's Memory
 	15 The Massive Mosscharger
+	6 CB04Garden Desecrator
+	6 CB03Grimmkin Neophyte
+	6 CB02Crossroads Crawlid
+	6 CB01Lost Husk
+	6 CB05Deepnest Burrower
+	6 CB06Shambling Husk
+	6 CB07Sharp Shadow
+	6 CB08City Sentry
+	6 CB09Gruz Mother
+	6 CB10Void Infusion
+	6 CB11Undying Determination
+	6 CB13Peek into Dreams
+	6 CB15Shatter Mask
+	6 CB14Point of No Return
+	6 CB12Deadly Dispute
+	6 CW01Lightseed
+	6 CW02Dreamwielder Moth
+	6 CW03Hiveling Worker
+	6 CW04Steady Body
+	6 CW05Escaped Vessel
+	6 CW06Worshippers of Unn
+	6 CW07Horned Husk
+	6 CW08Stalwart Shell
+	6 CW09Shielded Husk
+	6 CW10Loafing Boofly
+	6 CW11Giant Hopper
+	6 CW12Needle Strike
+	6 CW13Weaver Seals
+	6 CW15Fool's Demise
+	15 Radiance's Grasp
+	6 CW14Nailmaster's Resolve
+	7 Mothtribe Rites
+	6 CG02Garden Spirits
+	6 CG05Greenpath Mosskin
+	6 CG03Fungified Husk
+	6 CG07Lone Mossknight
+	6 CG04Traitorous Mantis
+	6 CG10Mossy Goliath
+	6 CG11Lushcave Duel
+	6 CG12Challenge the Mantis Lords
+	6 CG13Embrace the Infection
+	6 CG14Lore of Greenpath
+	6 CG15Follow the Pilgrim's Way
+	6 CG06Mantisclaw Duelist
+	6 CG01Fool Eater
+	6 CG09Shape of Unn
+	6 CG08Shrumal Titan
+	15 Shrumal Shaman
+	7 Kindling Grimmkin
+	6 UU09Lifeblood Infusion
+	6 UU08Flukmunga
+	6 UU05Spelltwister
+	6 UU04City Official
+	6 UU10Bottle Up
+	6 UU01Maskfly
+	6 UU03Revered Spirit
+	6 UU06Screeching Topfluke
+	6 UU07Mystic of the Sanctum
+	6 UU02Sanctum's Mistake
+	6 UU12Monomon's Wisdom
+	6 UU13Encased on Crystal
+	6 UU14Lost in the Fog
+	6 UU15Profane Study
+	15 Archivebound Ooma
+	6 UU11Wanderer's Journal
+	7 Dreamshield

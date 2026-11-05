@@ -5,7 +5,7 @@
 			<name>HWL</name>
 			<longname>Hollow Knight: Hallownest</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-11</releasedate>
+			<releasedate>2026-11-05</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -14,7 +14,7 @@
 			<text>Flying
 Whenever Revek attacks, put a +1/+1 on target creature token you control. 
 Runback {3}{W}{U} (You may cast a copy of this card by exiling it from your graveyard and paying its run back cost.)</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/0.png" num="17">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/0.png" num="83">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -31,7 +31,7 @@ Runback {3}{W}{U} (You may cast a copy of this card by exiling it from your grav
 		<card>
 			<name>Forsake the Light</name>
 			<text>Draw three cards, then discard two cards. You gain 3 life.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/1.png" num="7">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/1.png" num="73">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -48,7 +48,7 @@ Runback {3}{W}{U} (You may cast a copy of this card by exiling it from your grav
 			<name>The Fluke Hermit</name>
 			<text>Deathtouch, lifelink
 Whenever The Fluke Hermit deals combat damage to a player, mill two cards. Then draw a card if you have eight or more cards in your graveyard.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/2.png" num="6">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/2.png" num="72">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -65,7 +65,7 @@ Whenever The Fluke Hermit deals combat damage to a player, mill two cards. Then 
 		<card>
 			<name>Waterways Ambush</name>
 			<text>Target player discards two cards. For each card type among cards discarded this way, create a 1/1 blue Worm creature token with &quot;This token can&apos;t block.&quot;</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/3.png" num="20">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/3.png" num="86">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -82,7 +82,7 @@ Whenever The Fluke Hermit deals combat damage to a player, mill two cards. Then 
 			<name>Brumm, Troupe&apos;s Banisher</name>
 			<text>Menace
 Whenever Brumm enters or attack, you may sacrifice another artifact or creature. If you do, Brumm deals 2 damage to each opponent.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/4.png" num="2">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/4.png" num="68">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -99,7 +99,7 @@ Whenever Brumm enters or attack, you may sacrifice another artifact or creature.
 		<card>
 			<name>Light Up the Ritual</name>
 			<text>At the beginning of combat on your turn, create a 2/1 black and red Bat Spirit creature token with haste. At the beginning of your step, sacrifice it unless you&apos;ve descended this turn. (You descended if a permanent card was put into your graveyard from anywhere this turn.)</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/5.png" num="10">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/5.png" num="76">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -116,7 +116,7 @@ Whenever Brumm enters or attack, you may sacrifice another artifact or creature.
 			<name>Elder Hu, Tending Sage</name>
 			<text>Reach
 At the beginning of your end step, put a +1/+1 counter on Elder Hu for each time you&apos;ve descended this turn. (You descend each time a permanent card is put into your graveyard from anywhere.)</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/6.png" num="4">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/6.png" num="70">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -134,7 +134,7 @@ At the beginning of your end step, put a +1/+1 counter on Elder Hu for each time
 			<name>Pride of the Mantis Tribe</name>
 			<text>Haste
 Whenever this creature attacks, you may discard a card. If you do, target attacking creature gets +2/+2 and gains trample until end of turn.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/7.png" num="16">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/7.png" num="82">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -152,7 +152,7 @@ Whenever this creature attacks, you may discard a card. If you do, target attack
 			<name>The Hive Knight</name>
 			<text>Vigilance
 Whenever another creature you control enters, you gain 1 life. If that creature is legendary, put a +1/+1 counter on it.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/8.png" num="8">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/8.png" num="74">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -170,7 +170,7 @@ Whenever another creature you control enters, you gain 1 life. If that creature 
 			<name>The False Knight</name>
 			<text>Whenever a creature you control leaves the battlefield, each opponent loses 1 life and you gain 1 life. If that creature had a finality counter on it, draw a card.
 {1}, Sacrifice another creature: The False Knight gains indestructible until end of turn. Tap it.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/9.png" num="5">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/9.png" num="71">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -187,7 +187,7 @@ Whenever another creature you control enters, you gain 1 life. If that creature 
 		<card>
 			<name>Corpses of the Kingdom</name>
 			<text>Return up to two target creature cards with mana value 3 or less from your graveyard to the battlefield. Put a finality counter on each of those creatures. (If a creature with a finality counter on it would die, exile it instead.)</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/10.png" num="3">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/10.png" num="69">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -202,9 +202,8 @@ Whenever another creature you control enters, you gain 1 life. If that creature 
 		</card>
 		<card>
 			<name>Uumuu, Monomon&apos;s Guard</name>
-			<text>Flying
-Uumuu costs {2} less to cast for each noncreature spell you&apos;ve cast this turn.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/11.png" num="19">HWL</set>
+			<text>Flying,</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/11.png" num="85">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -222,7 +221,7 @@ Uumuu costs {2} less to cast for each noncreature spell you&apos;ve cast this tu
 			<name>Archive&apos;s Tablet</name>
 			<text>{1}, {T}, Sacrifice this artifact: Draw two cards. Then discard two cards. This artifact deals 2 damage to any target.
 Runback {2}{U}{R} (You may cast a copy of this card by exiling it from your graveyard and paying its runback cost.)</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/12.png" num="1">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/12.png" num="67">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -240,7 +239,7 @@ Runback {2}{U}{R} (You may cast a copy of this card by exiling it from your grav
 			<text>Menace
 When The Traitor Lord enters, if it wasn&apos;t cast, distribute two +1/+1 among up to two creatures you control.
 Restless (When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it.)</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/13.png" num="18">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/13.png" num="84">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -258,7 +257,7 @@ Restless (When this creature dies, return it to the battlefield tapped under its
 			<name>Overtaken by Infection</name>
 			<text>This spell costs {2} less to cast if you control two or more permanents with counters on them.
 Destroy target nonland permanent.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/14.png" num="15">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/14.png" num="81">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -275,7 +274,7 @@ Destroy target nonland permanent.</text>
 			<name>Oro &amp; Mato, Nailmasters</name>
 			<text>Double strike
 Whenever Oro &amp; Mato attack, attach up to one target Equipment you control to them. If that Equipment was attached to another creature you control, untap that creature. It gains indestructible until end of turn.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/15.png" num="14">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/15.png" num="80">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -294,7 +293,7 @@ Whenever Oro &amp; Mato attack, attach up to one target Equipment you control to
 			<text>Charmed {2}{R}{W} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)
 Equipped creature gets +1/+1 for each artifact you control and has first strike.
 Equip {3}</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/16.png" num="12">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/16.png" num="78">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -310,8 +309,8 @@ Equip {3}</text>
 		<card>
 			<name>Ogrim, Dung Defender</name>
 			<text>Trample
-Whenever Ogrim attacks, exile target card from your graveyard. If do, put a +1/+1 counter on Ogrim and scry 1. If a land card is exiled this way, put an additional +1/+1 counter on Ogrim. (To scry 1, look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/17.png" num="13">HWL</set>
+Whenever Ogrim attacks, exile target card from your graveyard. If do, put a +1/+1 counter on Ogrim and scry 1. If a land card is exiled this way, put an additional +1/+1 counter on Ogrim.</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/17.png" num="79">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -329,7 +328,7 @@ Whenever Ogrim attacks, exile target card from your graveyard. If do, put a +1/+
 			<name>Isma&apos;s Memory</name>
 			<text>When this enchantment enters, mill four cards.
 Release — Whenever one or more cards leave your graveyard during your turn, you draw a card and gain 1 life. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/18.png" num="9">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/18.png" num="75">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -347,7 +346,7 @@ Release — Whenever one or more cards leave your graveyard during your turn, yo
 			<text>Trample
 When The Massive Mosscharger enters, create two 1/1 green Insect Plant creature tokens.
 The Massive Mosscharger&apos;s power is equal to the number of creatures you control.</text>
-			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/19.png" num="11">HWL</set>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/19.png" num="77">HWL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -360,6 +359,1161 @@ The Massive Mosscharger&apos;s power is equal to the number of creatures you con
 				<pt>*/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB04Garden Desecrator</name>
+			<text>Whenever this creature attacks, if you control a creature with a counter on it, target creature gains menace until end of turn.
+Restless (When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/20.png" num="38">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Mantis</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB03Grimmkin Neophyte</name>
+			<text>Flying
+At the beginning of your end step, if you descended this turn, each opponent loses 1 life and you gain 1 life. (You descended if a permanent card was put into your graveyard from anywhere this turn.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/21.png" num="37">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB02Crossroads Crawlid</name>
+			<text>Deathtouch 
+When this creature enters, target player mills two cards. (They put the top two cards of their library into their graveyard.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/22.png" num="36">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB01Lost Husk</name>
+			<text>Restless (When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it. If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/23.png" num="35">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB05Deepnest Burrower</name>
+			<text>At the beginning of your end step, if you descended this turn, create a 1/1 blue Worm creature token with &quot;This creature can&apos;t block.&quot; (You descended if a permanent card was put into your graveyard from anywhere this turn.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/24.png" num="39">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB06Shambling Husk</name>
+			<text>Menace
+Whenever this creature attacks, you may mill a card. (Put the top card of your library into your graveyard.)
+As long as there are eight or more cards in your graveyard this creature gets +2/+2</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/25.png" num="40">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB07Sharp Shadow</name>
+			<text>Charmed {4}{B} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)
+Equipped creature gets +2/+2 and can&apos;t be blocked except by three or more creatures.
+Equip {3}</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/26.png" num="41">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CB08City Sentry</name>
+			<text>Ward—Pay 2 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
+{2}{B}, Sacrifice another creature: Draw a card. If the sacrificed creature had a finality counter on it, draw two creatures instead.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/27.png" num="42">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB09Gruz Mother</name>
+			<text>Flying
+When this creature enters, each opponent loses 2 life and you gain 2 life.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/28.png" num="43">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CB10Void Infusion</name>
+			<text>Target creature gets -2/-2 until end of turn. It gets an additional -1/-1 for each time you&apos;ve descended this turn. (You descend each time a permanent card is put into your graveyard from anywhere.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/29.png" num="44">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB11Undying Determination</name>
+			<text>Target creature you control gains restless until end of the turn. When that creature dies this turn, each opponent loses 2 life. (When it dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/30.png" num="45">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB13Peek into Dreams</name>
+			<text>Target opponent reveals their hand. You choose a nonland card from it and exile that card. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/31.png" num="47">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB15Shatter Mask</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or pay {3}.
+Destroy target creature.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/32.png" num="49">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB14Point of No Return</name>
+			<text>Exile target creature.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/33.png" num="48">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CB12Deadly Dispute</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards and create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/34.png" num="46">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW01Lightseed</name>
+			<text>When this creature dies, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+{2}, Sacrifice this creature: You gain 3 life.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/35.png" num="1">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW02Dreamwielder Moth</name>
+			<text>Lifelink
+Whenever a legendary permanent you control enters, this creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/36.png" num="2">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Moth Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW03Hiveling Worker</name>
+			<text>Flying, vigilance
+Runback {2}{W}{W} (You may cast a copy of this card by exiling it from your graveyard and paying its runback cost.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/37.png" num="3">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bee</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW04Steady Body</name>
+			<text>Charmed {1}{W} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)
+Whenever equipped creature attacks, you gain 1 life and scry 1.
+Equip {1}</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/38.png" num="4">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW05Escaped Vessel</name>
+			<text>Whenever this creature attacks, you may sacrifice another artifact or creature you control. If you do, this creature gets +1/+1 until end of turn. Untap it.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/39.png" num="5">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shade</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW06Worshippers of Unn</name>
+			<text>{4}{W}: Creatures you control get +1/+1 until end of turn. Tokens you control gain vigilance until end of turn.
+Runback {3}{W}{W} (You may cast a copy of this card by exiling it from your graveyard and paying its runback cost.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/40.png" num="6">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW07Horned Husk</name>
+			<text>When this creature enters, draw a card. Then discard a card unless this creature has a finality counter on it.
+Restless (When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/41.png" num="7">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW08Stalwart Shell</name>
+			<text>Charmed {3}{W} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)
+Equipped creature gets +2/+1 and has vigilance.
+Equip {4}</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/42.png" num="8">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW09Shielded Husk</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+When this creature enters, attach target Equipment you control to target creature you control.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/43.png" num="9">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Insect Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW10Loafing Boofly</name>
+			<text>Flying
+When this creature enters, put a +1/+1 counter on another target creature you control.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/44.png" num="10">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW11Giant Hopper</name>
+			<text>Vigilance
+{1}, Tap two untapped artifacts and/or creatures you control: This creature gains flying until end of turn
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/45.png" num="11">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CW12Needle Strike</name>
+			<text>Needle Strike deals 4 damage to target attacking or blocking creature. If that creature would die this turn, exile it instead.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/46.png" num="12">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW13Weaver Seals</name>
+			<text>Ward {1} (Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+When this enchantment enters, exile target creature an opponent controls until this enchantment leaves the battlefield.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/47.png" num="13">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CW15Fool&apos;s Demise</name>
+			<text>This spell costs {2} less to cast if it targets a tapped creature.
+Destroy target nonland permanent.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/48.png" num="15">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Radiance&apos;s Grasp</name>
+			<text>Return target creature card from your graveyard to the battlefield tapped with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/49.png" num="18">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WWW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CW14Nailmaster&apos;s Resolve</name>
+			<text>Target creature you control gets +2/+2 until end of turn. If that creature is equipped, it also gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/50.png" num="14">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mothtribe Rites</name>
+			<text>Whenever a token you control enters, if it wasn&apos;t created this way, create a token that&apos;s a copy of it.</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/51.png" num="17">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG02Garden Spirits</name>
+			<text>Sacrifice this creature: Destroy target artifact or enchantment. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/52.png" num="52">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG05Greenpath Mosskin</name>
+			<text>Reach
+{1}{G}, Exile this card from your graveyard: Create a 1/1 green Insect Plant creature token. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/53.png" num="55">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG03Fungified Husk</name>
+			<text>When this creature enters, you gain 2 life.
+Restless (When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a finality counter on it.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/54.png" num="53">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Insect Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG07Lone Mossknight</name>
+			<text>Vigilance
+When this creature enters, mill two cards.
+Release — Whenever one or more cards leave your graveyard during your turn, this creature gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/55.png" num="57">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Plant Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG04Traitorous Mantis</name>
+			<text>Trample
+At the beginning of your end step, if you descended this turn, put a +1/+1 counter on this creature. (You descended if a permanent card was put into your graveyard from anywhere this turn.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/56.png" num="54">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mantis Zombie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG10Mossy Goliath</name>
+			<text>This creature can&apos;t be blocked by creatures with power 2 or less.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/57.png" num="60">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG11Lushcave Duel</name>
+			<text>Put a +1/+1 counter on target creature you control if its legendary. Then that creature fights target creature you don&apos;t control. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/58.png" num="61">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG12Challenge the Mantis Lords</name>
+			<text>Up to two target creatures you control each deal damage equal to their power to target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/59.png" num="62">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG13Embrace the Infection</name>
+			<text>Put a +1/+1 counter on target creature you control. Untap it. It gains reach until end of turn.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/60.png" num="63">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG14Lore of Greenpath</name>
+			<text>Search your library or graveyard for a basic land card or Cave card, put it onto the battlefield tapped, then, if you searched your library this way, shuffle.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/61.png" num="64">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG15Follow the Pilgrim&apos;s Way</name>
+			<text>Mill three cards. Then return target creature or land card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/62.png" num="65">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CG06Mantisclaw Duelist</name>
+			<text>Trample
+Whenever another creature you control enters, this creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/63.png" num="56">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mantis Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG01Fool Eater</name>
+			<text>Deathtouch
+{T}: Add {G}.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/64.png" num="51">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CG09Shape of Unn</name>
+			<text>Charmed {4}{G}{G} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)
+Equipped creature gets +3/+3, has vigilance and is a Slug in addition to its other types.
+Equip {4}{G}</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/65.png" num="59">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipped</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CG08Shrumal Titan</name>
+			<text>When this creature enters, put a +1/+1 counter on target creature you control.
+Whenever you attack with one or more creatures with a counter on them, put a +1/+1 counter on one of those target creatures.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/66.png" num="58">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shrumal Shaman</name>
+			<text>When this creature enters, mill three cards.
+{T}, Exile a card from your graveyard: Add a mana of any color.</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/67.png" num="66">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kindling Grimmkin</name>
+			<text>Flying, haste
+At the beginning of combat on your turn, if you descended three or more times this turn, return this card from your graveyard to the battlefield. (You descend each time a permanent card is put into your graveyard from anywhere.)</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/68.png" num="50">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU09Lifeblood Infusion</name>
+			<text>Target creature you control gets +0/+3 and gains hexproof until end of turn. (It can&apos;t be the target of spells or abilities your opponents control.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/69.png" num="28">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU08Flukmunga</name>
+			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+When this creature enters, return target creature to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/70.png" num="27">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Worm</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU05Spelltwister</name>
+			<text>Charmed {2}{U} (You may cast this spell for its charmed cost, if you do, when this Equipment enters create a 2/2 colorless Insect creature token and attached this to it.)
+Equipped creature gets +1/+0 and has &quot;Whenever this creature attacks, you draw a card, then discard a card.&quot;
+Equip {3}</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/71.png" num="24">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU04City Official</name>
+			<text>Vigilance
+Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn. Then if its power is 4 or greater, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/72.png" num="23">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU10Bottle Up</name>
+			<text>Counter target spell unless its controller pays {2}. If they do, you may draw a card and discard a card.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/73.png" num="29">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU01Maskfly</name>
+			<text>Flying
+{2}{U}, Exile this card from your graveyard: Draw a card.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/74.png" num="20">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU03Revered Spirit</name>
+			<text>Flying, defender
+As long as there are eight or more cards in your graveyard, this creature can attack as though it didn&apos;t have defender.
+{2}{U}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/75.png" num="22">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU06Screeching Topfluke</name>
+			<text>Flying
+When this creature enters, create a 1/1 blue Worm creature token with &quot;This token can&apos;t block.&quot;
+Runback {5}{U} (You may cast a copy of this card by exiling it from your graveyard and paying its runback cost.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/76.png" num="25">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Worm</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU07Mystic of the Sanctum</name>
+			<text>Whenever this creature deals combat damage to an opponent, draw a card.
+{3}{U}: This creature can&apos;t be blocked until end of turn.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/77.png" num="26">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU02Sanctum&apos;s Mistake</name>
+			<text>Release — Whenever one or more cards leave your graveyard during your turn, put a +1/+1 counter on this creature and it can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/78.png" num="21">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU12Monomon&apos;s Wisdom</name>
+			<text>This spell costs {1} less to cast if you control a legendary permanent.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/79.png" num="31">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU13Encased on Crystal</name>
+			<text>Enchant creature
+When this enchantment enters, tapped enchanted creature.
+Enchanted creature doesn&apos;t untap during its owner&apos;s untap step and loses all abilities.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/80.png" num="32">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UU14Lost in the Fog</name>
+			<text>Target creature&apos;s owner puts it on their choice of the top or bottom of their library.
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/81.png" num="33">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UU15Profane Study</name>
+			<text>Surveil 3 (Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Draw a card.</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/82.png" num="34">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Archivebound Ooma</name>
+			<text>Flying, defender
+{T}: Add {U}. This mana can&apos;t be spent to cast creature spells.
+{1}, {T}: Add a mana of any color. This mana can&apos;t be spent to cast creature spells.</text>
+			<set rarity="uncommon" picurl="https://justachickn.github.io/sets/HWL-files/img/83.png" num="19">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Jellyfish</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UU11Wanderer&apos;s Journal</name>
+			<text>When this artifact enters or leaves the battlefield, surveil 1.
+{1}{U}, Sacrifice this artifact: Draw a card. Activate only as a sorcery.
+Runback {2}{U} (You may cast a copy of this card by exiling it from your graveyard and paying its runback cost.)</text>
+			<set rarity="common" picurl="https://justachickn.github.io/sets/HWL-files/img/84.png" num="30">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dreamshield</name>
+			<text>Charmed {2}{W}{W}
+You may cast this spell as though it had flash for its charmed cost.
+When this Equipment enters, creatures you control gain indestructible until end of turn.
+Equipped creature gets +2/+2 and has vigilance.
+Equip {4}</text>
+			<set rarity="rare" picurl="https://justachickn.github.io/sets/HWL-files/img/85.png" num="16">HWL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
