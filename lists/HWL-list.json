@@ -8,24 +8,24 @@
         "position": "85"
     },
     {
-        "card_name": "Archivebound Ooma",
-        "number": 19,
+        "card_name": "UU01Archivebound Ooma",
+        "number": 36,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
         "position": "83"
     },
     {
-        "card_name": "CB01Lost Husk",
-        "number": 35,
+        "card_name": "UB01Bretta, Lovesick Fan",
+        "number": 53,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "23"
+        "position": "104"
     },
     {
         "card_name": "Kindling Grimmkin",
-        "number": 50,
+        "number": 71,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
@@ -33,7 +33,7 @@
     },
     {
         "card_name": "Shrumal Shaman",
-        "number": 66,
+        "number": 87,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
@@ -48,27 +48,32 @@
         "position": "51"
     },
     {
-        "card_name": "UU01Maskfly",
-        "number": 20,
+        "card_name": "UU07Profane Study",
+        "number": 37,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "74"
+        "position": "82"
     },
     {
-        "card_name": "CB02Crossroads Crawlid",
-        "number": 36,
+        "card_name": "UB02Millibelle, Sketchy Banker",
+        "number": 54,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "22"
+        "position": "103"
     },
     {
-        "card_name": "e"
+        "card_name": "CR01Youngling Mantis",
+        "number": 56,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "89"
     },
     {
         "card_name": "CG01Fool Eater",
-        "number": 51,
+        "number": 72,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
@@ -83,31 +88,116 @@
         "position": "49"
     },
     {
-        "card_name": "UU02Sanctum's Mistake",
+        "card_name": "CU01Maskfly",
         "number": 21,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "UB03Confessor Jiji",
+        "number": 55,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "CR02Leaping Husk",
+        "number": 57,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "CG02Deepgrowth Mosscreep",
+        "number": 73,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "UW01Xero, Resting Treachery",
+        "number": 19,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "CU02Sanctum's Mistake",
+        "number": 22,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
         "position": "78"
     },
     {
-        "card_name": "CB03Grimmkin Neophyte",
-        "number": 37,
+        "card_name": "CB01Lost Husk",
+        "number": 38,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "21"
+        "position": "23"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG02Garden Spirits",
-        "number": 52,
+        "card_name": "CR03",
+        "number": 58,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "52"
+        "position": "90"
+    },
+    {
+        "card_name": "CG03Fungified Husk",
+        "number": 74,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "UW02Broken Vessel, Lost Kin",
+        "number": 20,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "CU03Revered Spirit",
+        "number": 23,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "CB02Crossroads Crawlid",
+        "number": 39,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "CR04Sprintmaster",
+        "number": 59,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "CG04Traitorous Mantis",
+        "number": 75,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "56"
     },
     {
         "card_name": "CW01Lightseed",
@@ -118,31 +208,36 @@
         "position": "35"
     },
     {
-        "card_name": "UU03Revered Spirit",
-        "number": 22,
+        "card_name": "CU04City Official",
+        "number": 24,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "75"
+        "position": "72"
     },
     {
-        "card_name": "CB04Garden Desecrator",
-        "number": 38,
+        "card_name": "CB03Grimmkin Neophyte",
+        "number": 40,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "20"
+        "position": "21"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG03Fungified Husk",
-        "number": 53,
+        "card_name": "CR05Armored Fool",
+        "number": 60,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "54"
+        "position": "94"
+    },
+    {
+        "card_name": "CG05Greenpath Mosskin",
+        "number": 76,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "53"
     },
     {
         "card_name": "CW02Dreamwielder Moth",
@@ -153,31 +248,36 @@
         "position": "36"
     },
     {
-        "card_name": "UU04City Official",
-        "number": 23,
+        "card_name": "CU05Spelltwister",
+        "number": 25,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "72"
+        "position": "71"
     },
     {
-        "card_name": "CB05Deepnest Burrower",
-        "number": 39,
+        "card_name": "CB04Garden Desecrator",
+        "number": 41,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "24"
+        "position": "20"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG04Traitorous Mantis",
-        "number": 54,
+        "card_name": "CR06",
+        "number": 61,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "56"
+        "position": "99"
+    },
+    {
+        "card_name": "CG06Mantisclaw Duelist",
+        "number": 77,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "63"
     },
     {
         "card_name": "CW03Hiveling Worker",
@@ -188,31 +288,36 @@
         "position": "37"
     },
     {
-        "card_name": "UU05Spelltwister",
-        "number": 24,
+        "card_name": "CU06Screeching Topfluke",
+        "number": 26,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "71"
+        "position": "76"
     },
     {
-        "card_name": "CB06Shambling Husk",
-        "number": 40,
+        "card_name": "CB05Deepnest Burrower",
+        "number": 42,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "25"
+        "position": "24"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG05Greenpath Mosskin",
-        "number": 55,
+        "card_name": "CR07Quick Slash",
+        "number": 62,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "53"
+        "position": "96"
+    },
+    {
+        "card_name": "CG07Lone Mossknight",
+        "number": 78,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "55"
     },
     {
         "card_name": "CW04Steady Body",
@@ -223,31 +328,36 @@
         "position": "38"
     },
     {
-        "card_name": "UU06Screeching Topfluke",
-        "number": 25,
+        "card_name": "CU07Mystic of the Sanctum",
+        "number": 27,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "76"
+        "position": "77"
     },
     {
-        "card_name": "CB07Sharp Shadow",
-        "number": 41,
+        "card_name": "CB06Shambling Husk",
+        "number": 43,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "26"
+        "position": "25"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG06Mantisclaw Duelist",
-        "number": 56,
+        "card_name": "CR08Grimmvessel",
+        "number": 63,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "63"
+        "position": "95"
+    },
+    {
+        "card_name": "CG08Shrumal Titan",
+        "number": 79,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "66"
     },
     {
         "card_name": "CW05Escaped Vessel",
@@ -258,31 +368,36 @@
         "position": "39"
     },
     {
-        "card_name": "UU07Mystic of the Sanctum",
-        "number": 26,
+        "card_name": "CU08Flukmunga",
+        "number": 28,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "77"
+        "position": "70"
     },
     {
-        "card_name": "CB08City Sentry",
-        "number": 42,
+        "card_name": "CB07Sharp Shadow",
+        "number": 44,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "27"
+        "position": "26"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG07Lone Mossknight",
-        "number": 57,
+        "card_name": "CR09Glimback",
+        "number": 64,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "55"
+        "position": "93"
+    },
+    {
+        "card_name": "CG09Shape of Unn",
+        "number": 80,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "65"
     },
     {
         "card_name": "CW06Worshippers of Unn",
@@ -293,31 +408,36 @@
         "position": "40"
     },
     {
-        "card_name": "UU08Flukmunga",
-        "number": 27,
+        "card_name": "CU09Lifeblood Infusion",
+        "number": 29,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "70"
+        "position": "69"
     },
     {
-        "card_name": "CB09Gruz Mother",
-        "number": 43,
+        "card_name": "CB08City Sentry",
+        "number": 45,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "28"
+        "position": "27"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG08Shrumal Titan",
-        "number": 58,
+        "card_name": "CR10",
+        "number": 65,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "66"
+        "position": "91"
+    },
+    {
+        "card_name": "CG10Mossy Goliath",
+        "number": 81,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "57"
     },
     {
         "card_name": "CW07Horned Husk",
@@ -328,31 +448,36 @@
         "position": "41"
     },
     {
-        "card_name": "UU09Lifeblood Infusion",
-        "number": 28,
+        "card_name": "CU10Bottle Up",
+        "number": 30,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "69"
+        "position": "73"
     },
     {
-        "card_name": "CB10Void Infusion",
-        "number": 44,
+        "card_name": "CB09Gruz Mother",
+        "number": 46,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "29"
+        "position": "28"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG09Shape of Unn",
-        "number": 59,
+        "card_name": "CR11Fool's Resolve",
+        "number": 66,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "65"
+        "position": "88"
+    },
+    {
+        "card_name": "CG11Lushcave Duel",
+        "number": 82,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "58"
     },
     {
         "card_name": "CW08Stalwart Shell",
@@ -363,31 +488,36 @@
         "position": "42"
     },
     {
-        "card_name": "UU10Bottle Up",
-        "number": 29,
+        "card_name": "CU11Wanderer's Journal",
+        "number": 31,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "73"
+        "position": "84"
     },
     {
-        "card_name": "CB11Undying Determination",
-        "number": 45,
+        "card_name": "CB10Void Infusion",
+        "number": 47,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "30"
+        "position": "29"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG10Mossy Goliath",
-        "number": 60,
+        "card_name": "CR12Dance of Flames",
+        "number": 67,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "57"
+        "position": "100"
+    },
+    {
+        "card_name": "CG12Challenge the Mantis Lords",
+        "number": 83,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "59"
     },
     {
         "card_name": "CW09Shielded Husk",
@@ -398,31 +528,36 @@
         "position": "43"
     },
     {
-        "card_name": "UU11Wanderer's Journal",
-        "number": 30,
+        "card_name": "CU12Monomon's Wisdom",
+        "number": 32,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "84"
+        "position": "79"
     },
     {
-        "card_name": "CB12Deadly Dispute",
-        "number": 46,
+        "card_name": "CB11Undying Determination",
+        "number": 48,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "34"
+        "position": "30"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG11Lushcave Duel",
-        "number": 61,
+        "card_name": "CR13",
+        "number": 68,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "58"
+        "position": "98"
+    },
+    {
+        "card_name": "CG13Embrace the Infection",
+        "number": 84,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "60"
     },
     {
         "card_name": "CW10Loafing Boofly",
@@ -433,31 +568,36 @@
         "position": "44"
     },
     {
-        "card_name": "UU12Monomon's Wisdom",
-        "number": 31,
+        "card_name": "CU13Encased on Crystal",
+        "number": 33,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "79"
+        "position": "80"
     },
     {
-        "card_name": "CB13Peek into Dreams",
-        "number": 47,
+        "card_name": "CB12Deadly Dispute",
+        "number": 49,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "31"
+        "position": "34"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG12Challenge the Mantis Lords",
-        "number": 62,
+        "card_name": "CR14Brave the Core",
+        "number": 69,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "59"
+        "position": "101"
+    },
+    {
+        "card_name": "CG14Lore of Greenpath",
+        "number": 85,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "61"
     },
     {
         "card_name": "CW11Giant Hopper",
@@ -468,31 +608,36 @@
         "position": "45"
     },
     {
-        "card_name": "UU13Encased on Crystal",
-        "number": 32,
+        "card_name": "CU14Lost in the Fog",
+        "number": 34,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "80"
+        "position": "81"
     },
     {
-        "card_name": "CB14Point of No Return",
-        "number": 48,
+        "card_name": "CB13Peek into Dreams",
+        "number": 50,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "33"
+        "position": "31"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG13Embrace the Infection",
-        "number": 63,
+        "card_name": "CR15Violent Infection",
+        "number": 70,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "60"
+        "position": "102"
+    },
+    {
+        "card_name": "CG15Follow the Pilgrim's Way",
+        "number": 86,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "62"
     },
     {
         "card_name": "CW12Needle Strike",
@@ -503,31 +648,26 @@
         "position": "46"
     },
     {
-        "card_name": "UU14Lost in the Fog",
-        "number": 33,
+        "card_name": "CU15Lurien's Gaze",
+        "number": 35,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "81"
+        "position": "86"
     },
     {
-        "card_name": "CB15Shatter Mask",
-        "number": 49,
+        "card_name": "CB14Point of No Return",
+        "number": 51,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "32"
+        "position": "33"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "CG14Lore of Greenpath",
-        "number": 64,
-        "shape": "normal",
-        "set": "HWL",
-        "rotated": false,
-        "position": "61"
+        "card_name": "e"
     },
     {
         "card_name": "CW13Weaver Seals",
@@ -538,26 +678,21 @@
         "position": "47"
     },
     {
-        "card_name": "UU15Profane Study",
-        "number": 34,
+        "card_name": "e"
+    },
+    {
+        "card_name": "CB15Shatter Mask",
+        "number": 52,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "82"
+        "position": "32"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "e"
-    },
-    {
-        "card_name": "CG15Follow the Pilgrim's Way",
-        "number": 65,
-        "shape": "normal",
-        "set": "HWL",
-        "rotated": false,
-        "position": "62"
     },
     {
         "card_name": "CW14Nailmaster's Resolve",
@@ -614,7 +749,7 @@
     "a->gold",
     {
         "card_name": "Forsake the Light",
-        "number": 73,
+        "number": 95,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
@@ -622,23 +757,23 @@
     },
     {
         "card_name": "The Fluke Hermit",
-        "number": 72,
+        "number": 94,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
         "position": "2"
     },
     {
-        "card_name": "Brumm, Troupe's Banisher",
-        "number": 68,
+        "card_name": "Grimm, Troupemaster",
+        "number": 96,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "4"
+        "position": "106"
     },
     {
         "card_name": "Elder Hu, Tending Sage",
-        "number": 70,
+        "number": 92,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
@@ -646,7 +781,7 @@
     },
     {
         "card_name": "The Hive Knight",
-        "number": 74,
+        "number": 97,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
@@ -654,7 +789,7 @@
     },
     {
         "card_name": "Revek the Spiritblade",
-        "number": 83,
+        "number": 106,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
@@ -662,23 +797,23 @@
     },
     {
         "card_name": "Waterways Ambush",
-        "number": 86,
+        "number": 109,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
         "position": "3"
     },
     {
-        "card_name": "Light Up the Ritual",
-        "number": 76,
+        "card_name": "Brumm, Troupe's Banisher",
+        "number": 89,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "5"
+        "position": "4"
     },
     {
         "card_name": "Pride of the Mantis Tribe",
-        "number": 82,
+        "number": 105,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
@@ -686,11 +821,31 @@
     },
     {
         "card_name": "The Massive Mosscharger",
-        "number": 77,
+        "number": 100,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
         "position": "19"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Light Up the Ritual",
+        "number": 99,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -709,7 +864,7 @@
     },
     {
         "card_name": "Corpses of the Kingdom",
-        "number": 69,
+        "number": 91,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
@@ -717,7 +872,7 @@
     },
     {
         "card_name": "Archive's Tablet",
-        "number": 67,
+        "number": 88,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
@@ -725,7 +880,7 @@
     },
     {
         "card_name": "Overtaken by Infection",
-        "number": 81,
+        "number": 104,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
@@ -733,23 +888,23 @@
     },
     {
         "card_name": "Nailmaster's Glory",
-        "number": 78,
+        "number": 101,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
         "position": "16"
     },
     {
-        "card_name": "Isma's Memory",
-        "number": 75,
+        "card_name": "Cornifer, the Wayfaring",
+        "number": 90,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
-        "position": "18"
+        "position": "87"
     },
     {
         "card_name": "The False Knight",
-        "number": 71,
+        "number": 93,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
@@ -757,7 +912,7 @@
     },
     {
         "card_name": "Uumuu, Monomon's Guard",
-        "number": 85,
+        "number": 108,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
@@ -765,7 +920,7 @@
     },
     {
         "card_name": "The Traitor Lord",
-        "number": 84,
+        "number": 107,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
@@ -773,15 +928,35 @@
     },
     {
         "card_name": "Oro & Mato, Nailmasters",
-        "number": 80,
+        "number": 103,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,
         "position": "15"
     },
     {
+        "card_name": "Isma's Memory",
+        "number": 98,
+        "shape": "normal",
+        "set": "HWL",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
         "card_name": "Ogrim, Dung Defender",
-        "number": 79,
+        "number": 102,
         "shape": "normal",
         "set": "HWL",
         "rotated": false,

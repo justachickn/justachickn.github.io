@@ -1,4 +1,101 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+CG02Deepgrowth Mosscreep added.
+CU09Lifeblood Infusion added.
+CU08Flukmunga added.
+CU05Spelltwister added.
+CU04City Official added.
+CU10Bottle Up added.
+CU01Maskfly added.
+CU03Revered Spirit added.
+CU06Screeching Topfluke added.
+CU07Mystic of the Sanctum added.
+CU02Sanctum's Mistake added.
+CU12Monomon's Wisdom added.
+CU13Encased on Crystal added.
+CU14Lost in the Fog added.
+UU07Profane Study added.
+UU01Archivebound Ooma added.
+CU11Wanderer's Journal added.
+CU15Lurien's Gaze added.
+Cornifer, the Wayfaring added.
+CR11Fool's Resolve added.
+CR01Youngling Mantis added.
+CR03 added.
+CR10 added.
+CR04Sprintmaster added.
+CR09Glimback added.
+CR05Armored Fool added.
+CR08Grimmvessel added.
+CR07Quick Slash added.
+CR02Leaping Husk added.
+CR13 added.
+CR06 added.
+CR12Dance of Flames added.
+CR14Brave the Core added.
+CR15Violent Infection added.
+UB02Millibelle, Sketchy Banker added.
+UB01Bretta, Lovesick Fan added.
+UB03Confessor Jiji added.
+Grimm, Troupemaster added.
+UW01Xero, Resting Treachery added.
+UW02Broken Vessel, Lost Kin added.
+
+CG02Garden Spirits removed.
+UU09Lifeblood Infusion removed.
+UU08Flukmunga removed.
+UU05Spelltwister removed.
+UU04City Official removed.
+UU10Bottle Up removed.
+UU01Maskfly removed.
+UU03Revered Spirit removed.
+UU06Screeching Topfluke removed.
+UU07Mystic of the Sanctum removed.
+UU02Sanctum's Mistake removed.
+UU12Monomon's Wisdom removed.
+UU13Encased on Crystal removed.
+UU14Lost in the Fog removed.
+UU15Profane Study removed.
+Archivebound Ooma removed.
+UU11Wanderer's Journal removed.
+
+Uumuu, Monomon's Guard
+rules_text: Flying, => Flying
+
+CB09Gruz Mother
+type: Creature — Insect Beast => Creature — Insect
+
+CB11Undying Determination
+
+CW10Loafing Boofly
+
+CW13Weaver Seals
+cost: {1}{W} => {2}{W}
+
+Mothtribe Rites
+
+CG05Greenpath Mosskin
+
+CG03Fungified Husk
+pt: 2/2 => 1/2
+
+CG10Mossy Goliath
+
+CG13Embrace the Infection
+
+CG15Follow the Pilgrim's Way
+rules_text: Mill three cards. Then return target creature or land card from your graveyard to your hand. => Mill three cards. Then return target creature or land card from your graveyard to your hand. You gain 1 life.
+
+CG01Fool Eater
+rules_text: Deathtouch
+{T}: Add {G}. => Deathtouch
+When this creature dies, mill three cards. [i](Put the top three cards of your library into your graveyard.)[/i]
+
+CG08Shrumal Titan
+
+
+VERSION 10 CHANGELOG
 ====================
 
 CB04Garden Desecrator added.
