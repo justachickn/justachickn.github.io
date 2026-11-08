@@ -1,4 +1,126 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+UG05Shrumal Shaman added.
+UU05Archivebound Ooma added.
+CR10Shattering Chains added.
+CR06Crystal Crawler added.
+UU01Quirrel, Monomon's Adept added.
+Failed Sibling added.
+UR01 added.
+UW03Salubra, Charm Lover added.
+Lurien, the Watcher added.
+UG01Tuk, Undercity Scavenger added.
+CC01Grub in a Jar added.
+CC04Old Nail added.
+CC02Royal Tram added.
+CC06Uncharted Cave added.
+CC05Ruinous Crossways added.
+UR02The Crystal Guardian added.
+UR03Divine, Charm Eater added.
+CC03 added.
+UG02 added.
+Bardoon, Ageless Witness added.
+
+Shrumal Shaman removed.
+UU01Archivebound Ooma removed.
+CR10 removed.
+CR06 removed.
+UB02Millibelle, Sketchy Banker removed.
+UB03Confessor Jiji removed.
+UW02Broken Vessel, Lost Kin removed.
+
+Elder Hu, Tending Sage
+rules_text: Reach
+At the beginning of your end step, put a +1/+1 counter on Elder Hu for each time you've descended this turn. [i](You descend each time a permanent card is put into your graveyard from anywhere.)[/i] => Reach
+[i][i]Collapse[/i] [/i]— At the beginning of your end step, put a +1/+1 counter on Elder Hu for each time you've descended this turn. [i](You descend each time a permanent card is put into your graveyard from anywhere.)[/i]
+
+Uumuu, Monomon's Guard
+cost: {4}{U}{R} => {2}{U}{R}
+rules_text: Flying => Flying, prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+At the beginning of your upkeep, add {U}{R}. Spend this mana only to cast noncreature spells. Until end of turn, you don't lose this mana as steps and phases end.
+pt: 5/5 => 2/2
+
+Isma's Memory
+rules_text: When this enchantment enters, mill four cards.
+[i]Release [/i]— Whenever one or more cards leave your graveyard during your turn, you draw a card and gain 1 life. This ability triggers only once each turn. => When this enchantment enters, mill four cards.
+[i][i]Release[/i] [/i]— Whenever one or more cards leave your graveyard during your turn, you draw a card and gain 1 life. This ability triggers only once each turn.
+
+CB03Grimmkin Neophyte
+rules_text: Flying
+At the beginning of your end step, if you descended this turn, each opponent loses 1 life and you gain 1 life. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i] => Flying
+[i][i]Collapse[/i] [/i]— At the beginning of your end step, if you descended this turn, each opponent loses 1 life and you gain 1 life. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+
+CB01Lost Husk
+rules_text: Restless [i](When this creature dies, return it to the battlefield tapped under its owner's control with a finality counter on it. If a creature with a finality counter on it would die, exile it instead.)[/i] => Restless [i](When this creature dies, return it to the battlefield tapped under its owner's control with a finality counter on it. If it would die, exile it instead.)[/i]
+
+CB05Deepnest Burrower
+rules_text: At the beginning of your end step, if you descended this turn, create a 1/1 blue Worm creature token with “This creature can't block.” [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i] => [i][i]Collapse[/i] [/i]— At the beginning of your end step, if you descended this turn, create a 1/1 blue Worm creature token with “This creature can't block.” [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+
+CG03Fungified Husk
+pt: 1/2 => 2/2
+
+CG07Lone Mossknight
+rules_text: Vigilance
+When this creature enters, mill two cards.
+[i]Release [/i]— Whenever one or more cards leave your graveyard during your turn, this creature gets +2/+2 until end of turn. => Vigilance
+When this creature enters, mill two cards.
+[i][i]Release[/i] [/i]— Whenever one or more cards leave your graveyard during your turn, this creature gets +2/+2 until end of turn.
+
+CG04Traitorous Mantis
+rules_text: Trample
+At the beginning of your end step, if you descended this turn, put a +1/+1 counter on this creature. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i] => Trample
+[i][i]Collapse[/i] [/i]— At the beginning of your end step, if you descended this turn, put a +1/+1 counter on this creature. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+
+CU07Mystic of the Sanctum
+rules_text: At the beginning of your end step, if you've descended this turn turn, tap or untap target nonland permanent. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i] => [i][i]Collapse[/i] [/i]— At the beginning of your end step, if you've descended this turn turn, tap or untap target nonland permanent. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+
+CU02Sanctum's Mistake
+rules_text: [i]Release[/i] — Whenever one or more cards leave your graveyard during your turn, put a +1/+1 counter on this creature and it can't be blocked this turn. => [i][i]Release[/i][/i] — Whenever one or more cards leave your graveyard during your turn, put a +1/+1 counter on this creature and it can't be blocked this turn.
+
+CU11Wanderer's Journal
+rules_text: When this artifact enters or leaves the battlefield, surveil 1.
+{1}{U}, Sacrifice this artifact: Draw a card. Activate only as a sorcery.
+Runback {2}{U} [i](You may cast a copy of this card by exiling it from your graveyard and paying its runback cost.)[/i] => When this artifact enters or leaves the battlefield, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{1}{U}, Sacrifice this artifact: Draw a card.
+Runback {2}{U} [i](You may cast a copy of this card by exiling it from your graveyard and paying its runback cost.)[/i]
+
+CU15Lurien's Gaze
+rules_text: Choose one —
+• Counter target noncreature spell.
+• Tap up to one target creature you don't control and put two stun counters on it. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i] => Choose one —
+• Counter target noncreature spell.
+• Tap up to one target creature and put a stun counter on it. Surveil 1. [i](If a permanent with a stun counter would become untapped, remove one from it instead.)[/i]
+
+CR11Fool's Resolve
+rules_text: Target creature gets +3/+1 and gains haste until end of turn. => Target creature gets +3/+1 and gains haste until end of turn.
+[effect
+
+CR03
+rules_text: {2}{R}, Sacrifice a land: Draw a card. => 
+
+CR05Armored Fool
+
+CR08Grimmvessel
+rules_text: Menace
+At the beginning of your end step, if you descended this turn, put a +1/+1 counter on this creature. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i] => Menace
+[i][i]Collapse[/i] — [/i][i][/i]At the beginning of your end step, if you descended this turn, put a +1/+1 counter on this creature. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+
+UB01Bretta, Lovesick Fan
+rules_text: At the beginning of your end step, if you've descended this turn, you lose 1 life and draw a card. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i] => [i][i]Collapse[/i] [/i]— At the beginning of your end step, if you've descended this turn, you lose 1 life and draw a card. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+
+Grimm, Troupemaster
+rules_text: Spectacle {1}{B}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Haste, deathtouch
+The first noncreature spell you cast each turn has spectacle {1}{B}{R}. => Spectacle {1}{B}{R} [i](You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)[/i]
+Haste, deathtouch
+Noncreature spells you cast have spectacle {1}{B}{R}. Cast a spell this way only once each turn.
+pt: 3/3 => 4/3
+
+UW01Xero, Resting Treachery
+
+
+VERSION 11 CHANGELOG
 ====================
 
 CG02Deepgrowth Mosscreep added.
