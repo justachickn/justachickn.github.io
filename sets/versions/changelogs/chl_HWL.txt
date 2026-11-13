@@ -1,4 +1,116 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+UW11Radiance's Grasp added.
+RW02Mothtribe Rites added.
+UG06Shrumal Shaman added.
+RW01Dreamshield added.
+CR13Intensive Mining added.
+UG02Cloth, Bereaved Drifter added.
+UG03Widow, Voracious Eater added.
+UG04 added.
+UG05 added.
+The Mantis Lords added.
+Tough Claw added.
+UW06Gate Mantis added.
+UB09Cast Down added.
+UR04Hornet, Princess Protector added.
+UG10 added.
+UG09 added.
+UG08 added.
+UG07 added.
+UW07Grubberfly's Elegy added.
+UW04Mila, Humming Miner added.
+UW02Elderbug added.
+UW08Giant Huskguard added.
+UW05Tiso, Wandering Warrior added.
+UR08Maskbound added.
+UR09 added.
+UR10 added.
+UW09 added.
+UW10 added.
+UB04Milibelle, Sketchy Banker added.
+UB02Confessor Jiji added.
+UB03Midwife added.
+UB05Fluke Infestation added.
+RW03Ashenshell Duel added.
+UB06 added.
+UB07Shadow Creeper added.
+UU02Gorb, the Ascended Mind added.
+UU03Flukemarm, Fluke Mother added.
+UU04Lemm, Relic Seeker added.
+UU09 added.
+UU08Reflections in the Dark added.
+
+Radiance's Grasp removed.
+Mothtribe Rites removed.
+UG05Shrumal Shaman removed.
+Dreamshield removed.
+CR13 removed.
+UG02 removed.
+
+The Fluke Hermit
+rules_text: Deathtouch, lifelink
+Whenever The Fluke Hermit deals combat damage to a player, mill two cards. Then draw a card if you have eight or more cards in your graveyard. => Deathtouch, lifelink
+Whenever The Fluke Hermit deals combat damage to a player, mill a card. Then draw a card if there's eight or more cards in your graveyard.
+
+Uumuu, Monomon's Guard
+rules_text: Flying, prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+At the beginning of your upkeep, add {U}{R}. Spend this mana only to cast noncreature spells. Until end of turn, you don't lose this mana as steps and phases end. => Flying, prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+At the beginning of your upkeep, add {U}{R}. This mana can't be spent to cast creature spells. Until end of turn, you don't lose this mana as steps and phases end.
+
+CR11Fool's Resolve
+type: Instant => Enchantment — Aura
+rules_text: Target creature gets +3/+1 and gains haste until end of turn.
+[effect => Flash
+Enchant creature
+When this enchantment enters, enchanted creature gains first strike until end of turn.
+Enchanted creature gets +1/+1. If enchanted creature is legendary, it also has trample.
+
+CR03
+rules_text:  => [i]Collapse[/i] — At the beginning of your end step, if you descended this turn, you may discard a card. If you do, draw a card. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+pt:  => 2/1
+
+CR15Violent Infection
+type: Sorcery => Instant
+
+UB01Bretta, Lovesick Fan
+cost: {1}{B} => {3}{B}
+rules_text: [i][i]Collapse[/i] [/i]— At the beginning of your end step, if you've descended this turn, you lose 1 life and draw a card. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i] => Deathtouch
+[i][i]Collapse[/i] [/i]— At the beginning of your end step, if you've descended this turn, you draw a card and lose 1 life. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+pt: 1/2 => 3/4
+
+UR01
+rules_text: [i]Collapse[/i] — At the beginning of your end step, if you descended this turn, UR01 deals 2 damage to each opponent. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i] => 
+
+UW03Salubra, Charm Lover
+rules_text: Equipment spells you cast cost {1} less to cast if you cast them for their charmed cost.
+As long as you control three or more equipped creatures, Salubra has indestructible. [i](Effects that say “destroy” don't destroy this creature.)[/i] => Equipment spells you cast cost {1} less to cast if you cast them for their charmed cost.
+As long as you control three or more equipped creatures, Salubra has lifelink.
+
+CC01Grub in a Jar
+
+CC04Old Nail
+
+CC02Royal Tram
+
+CC06Uncharted Cave
+
+CC05Ruinous Crossways
+
+UR02The Crystal Guardian
+rules_text: When The Crystal Guardiane enters, destroy up to one target land. Its controller searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles. If you controlled that land, draw a card. => [i]Collapse[/i] — At the beginning of your end step, if you descended this turn, UR01 deals 2 damage to each opponent. [i](You descended if a permanent card was put into your graveyard from anywhere this turn.)[/i]
+
+UR03Divine, Charm Eater
+
+CC03
+
+Bardoon, Ageless Witness
+
+UG01Tuk, Undercity Scavenger
+
+
+VERSION 12 CHANGELOG
 ====================
 
 UG05Shrumal Shaman added.
